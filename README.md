@@ -1,8 +1,8 @@
-# Description-Pool Regeneration (DPR)
+﻿# PoolAudit
 
 Code and description pools for the paper *Separating Baseline Repair, Content Potential, and Pool Complementarity in CLIP Description-Pool Regeneration*.
 
-DPR regenerates sentence description pools for frozen vision-language classifiers and evaluates them in a controlled 2 x 2 design: flat attributes versus structured records, crossed with and without a text-only review round. Three evaluation views separate where a gain comes from: Direct accuracy (replacement), a label-using single-sentence diagnostic (content potential), and Union with the incumbent pool (complementarity).
+PoolAudit regenerates sentence description pools for frozen vision-language classifiers and evaluates them in a controlled 2 x 2 design: flat attributes versus structured records, crossed with and without a text-only review round. Three evaluation views separate where a gain comes from: Direct accuracy (replacement), a label-using single-sentence diagnostic (content potential), and Union with the incumbent pool (complementarity).
 
 ## Repository layout
 
@@ -83,3 +83,4 @@ Let `P_c` be the sentence pool of class `c`, `phi(d)` its frozen text feature, a
 - `results/` holds the summary values reported in the paper; `cupl_descriptions/` holds the pools those numbers were computed from.
 - `k1` uses test labels by construction. It must not be read as an accuracy that can be deployed.
 - `vendor/clip/` is derived from OpenAI CLIP and is distributed under the MIT license; retain its copyright notice when redistributing.
+
