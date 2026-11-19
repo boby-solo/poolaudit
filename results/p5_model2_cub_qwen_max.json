@@ -1,0 +1,83 @@
+{
+ "dataset": "cub",
+ "tag": "qwen_max",
+ "model": "qwen-max",
+ "temperature": 0.7,
+ "n_desc_per_class": 39,
+ "n_classes": 200,
+ "n_test": 5794,
+ "arms": {
+  "attr": {
+   "direct": 52.26,
+   "k1": 57.3,
+   "union_direct": 53.81,
+   "desc_per_class": {
+    "min": 39,
+    "mean": 39.0,
+    "max": 39
+   }
+  },
+  "cupl": {
+   "direct": 30.98,
+   "k1": 53.62,
+   "union_direct": 49.88,
+   "desc_per_class": {
+    "min": 39,
+    "mean": 39.0,
+    "max": 39
+   }
+  }
+ },
+ "refs": {
+  "incumbent": {
+   "direct": 52.93,
+   "k1": 55.68
+  },
+  "attr_gpt54": {
+   "direct": 51.73,
+   "k1": 57.77
+  },
+  "cupl_gpt54": {
+   "direct": 13.5,
+   "k1": 46.46,
+   "union_direct": 48.74
+  },
+  "bare_template": 52.78
+ },
+ "gaps": {
+  "protocol_m2": 21.28,
+  "protocol_gpt54": 38.23,
+  "model_attr": 0.53,
+  "model_cupl": 17.48,
+  "attr_m2_minus_incumbent": -0.67,
+  "cupl_m2_minus_incumbent": -21.95,
+  "cupl_m2_minus_bare": -21.8
+ },
+ "mcnemar": {
+  "attr_m2_vs_cupl_m2": {
+   "n01": 1603,
+   "n10": 370,
+   "p_exact": 0.0,
+   "delta_pt": -21.28
+  },
+  "attr_gpt54_vs_cupl_gpt54": {
+   "n01": 2420,
+   "n10": 205,
+   "p_exact": 0.0,
+   "delta_pt": -38.23
+  },
+  "attr_m2_vs_attr_gpt54": {
+   "n01": 243,
+   "n10": 274,
+   "p_exact": 0.186983,
+   "delta_pt": 0.54
+  },
+  "cupl_m2_vs_cupl_gpt54": {
+   "n01": 338,
+   "n10": 1351,
+   "p_exact": 0.0,
+   "delta_pt": 17.48
+  }
+ },
+ "timestamp": "2026-10-22 00:45:27"
+}

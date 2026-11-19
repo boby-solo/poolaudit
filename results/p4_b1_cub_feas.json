@@ -1,0 +1,70 @@
+{
+  "dataset": "cub",
+  "n_desc_per_class": 39,
+  "baseline": {
+    "cupl": {
+      "direct": 52.93,
+      "k1": 55.68
+    },
+    "attr": {
+      "direct": 51.73,
+      "k1": 57.77
+    }
+  },
+  "sanity": {
+    "cupl_direct_drift": 0.0,
+    "cupl_k1_drift": 0.0,
+    "attr_direct_drift": 0.0,
+    "attr_k1_drift": 0.0
+  },
+  "onto": {
+    "direct": 52.28,
+    "k1": 58.99,
+    "union_direct": 54.0,
+    "union_gain_vs_cupl": 1.07
+  },
+  "magent": {
+    "direct": 50.79,
+    "k1": 58.32,
+    "union_direct": 54.37,
+    "union_gain_vs_cupl": 1.43
+  },
+  "omni": {
+    "direct": 52.09,
+    "k1": 58.06,
+    "union_direct": 54.02,
+    "union_gain_vs_cupl": 1.09
+  },
+  "verdict": {
+    "onto": {
+      "direct_gain": -0.65,
+      "k1_gain": 3.31,
+      "GO": true
+    },
+    "magent": {
+      "direct_gain": -2.14,
+      "k1_gain": 2.64,
+      "GO": true
+    },
+    "omni": {
+      "direct_gain": -0.84,
+      "k1_gain": 2.38,
+      "GO": true
+    }
+  },
+  "go_criteria": "direct>=+0.8pt or k1>=+1.5pt vs CuPL (52.93/55.68)",
+  "factor_vs_attr": {
+    "structure": {
+      "delta_direct": 0.55,
+      "delta_k1": 1.22
+    },
+    "interaction": {
+      "delta_direct": -0.94,
+      "delta_k1": 0.55
+    },
+    "both": {
+      "delta_direct": 0.36,
+      "delta_k1": 0.29
+    }
+  }
+}

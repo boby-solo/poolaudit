@@ -1,0 +1,29 @@
+{
+ "vs_attr": {
+  "n_tests": 12,
+  "method": "Benjamini-Hochberg FDR q=0.05",
+  "bh_significant": [
+   "aircraft/omni",
+   "aircraft/onto",
+   "cub/magent",
+   "dtd/omni",
+   "euro_sat/magent",
+   "euro_sat/omni",
+   "euro_sat/onto"
+  ],
+  "nominal_only": [
+   "dtd/onto"
+  ]
+ },
+ "vs_cupl": {
+  "n_tests": 12,
+  "method": "Benjamini-Hochberg FDR q=0.05",
+  "bh_significant": [
+   "cub/magent",
+   "euro_sat/magent",
+   "euro_sat/omni",
+   "euro_sat/onto"
+  ],
+  "nominal_only": []
+ }
+}

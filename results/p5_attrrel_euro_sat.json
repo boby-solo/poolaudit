@@ -1,0 +1,35 @@
+{
+ "dataset": "euro_sat",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "attrrel": {
+  "direct": 45.54,
+  "k1": 58.7,
+  "union_direct": 51.63
+ },
+ "attr": {
+  "direct": 46.46,
+  "k1": 56.16
+ },
+ "onto": {
+  "direct": 47.56,
+  "k1": 51.98,
+  "union_direct": 51.4
+ },
+ "decomposition_vs_attr": {
+  "instruction_only (attrrel-attr)": {
+   "direct": -0.92,
+   "k1": 2.54
+  },
+  "record_on_top (onto-attrrel)": {
+   "direct": 2.02,
+   "k1": -6.72
+  },
+  "full_structure (onto-attr)": {
+   "direct": 1.1,
+   "k1": -4.18
+  }
+ },
+ "note": "attrrel = attr drafter + relational instruction, no record；判读：instruction_only 大 = 增益主要来自指令；record_on_top 大 = 记录的知识必要",
+ "timestamp": "2026-10-10 10:56:01"
+}

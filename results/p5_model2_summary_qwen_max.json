@@ -1,0 +1,81 @@
+{
+ "tag": "qwen_max",
+ "model": "qwen-max",
+ "n_datasets_expected": 4,
+ "n_datasets_done": 4,
+ "missing": [],
+ "protocol_positive": [
+  "aircraft",
+  "euro_sat",
+  "cub"
+ ],
+ "protocol_dominates_model": [
+  "euro_sat",
+  "cub"
+ ],
+ "cupl_below_bare": [
+  "aircraft",
+  "euro_sat",
+  "cub"
+ ],
+ "verdict": "mixed / do_not_overclaim",
+ "rows": [
+  {
+   "ds": "aircraft",
+   "attr": 18.57,
+   "cupl": 15.21,
+   "protocol": 3.36,
+   "attr_gpt": 19.2,
+   "cupl_gpt": 9.81,
+   "model_attr": -0.63,
+   "model_cupl": 5.4,
+   "p_prot": 6e-06,
+   "p_ma": 0.199393,
+   "p_mc": 0.0,
+   "cupl_below_bare": true
+  },
+  {
+   "ds": "euro_sat",
+   "attr": 45.96,
+   "cupl": 36.32,
+   "protocol": 9.64,
+   "attr_gpt": 46.46,
+   "cupl_gpt": 31.7,
+   "model_attr": -0.5,
+   "model_cupl": 4.62,
+   "p_prot": 0.0,
+   "p_ma": 0.218826,
+   "p_mc": 0.0,
+   "cupl_below_bare": true
+  },
+  {
+   "ds": "dtd",
+   "attr": 46.12,
+   "cupl": 46.12,
+   "protocol": 0.0,
+   "attr_gpt": 51.65,
+   "cupl_gpt": 40.64,
+   "model_attr": -5.53,
+   "model_cupl": 5.48,
+   "p_prot": 1.0,
+   "p_ma": 0.0,
+   "p_mc": 2e-06,
+   "cupl_below_bare": false
+  },
+  {
+   "ds": "cub",
+   "attr": 52.26,
+   "cupl": 30.98,
+   "protocol": 21.28,
+   "attr_gpt": 51.73,
+   "cupl_gpt": 13.5,
+   "model_attr": 0.53,
+   "model_cupl": 17.48,
+   "p_prot": 0.0,
+   "p_ma": 0.186983,
+   "p_mc": 0.0,
+   "cupl_below_bare": true
+  }
+ ],
+ "timestamp": "2026-10-22 00:45:27"
+}

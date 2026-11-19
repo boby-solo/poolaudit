@@ -1,0 +1,1137 @@
+{
+ "blotchy": {
+  "lineage": "random disorder textures",
+  "position": "irregular patch-based discoloration texture with soft-edged, unevenly distributed areas of contrast",
+  "confusable_siblings": [
+   "stained",
+   "smeared",
+   "flecked",
+   "freckled"
+  ],
+  "family_visual_attributes": [
+   "non-periodic arrangement with no consistent repeat unit",
+   "uneven distribution of marks or regions across the surface",
+   "irregular element shapes and sizes rather than uniform motifs",
+   "lack of dominant directional alignment or geometric grid",
+   "contrast appears as scattered local variation rather than structured bands or lines"
+  ],
+  "distinguishing_visual_attributes": [
+   "composed of medium-to-large irregular patches rather than tiny specks or dots",
+   "patch boundaries are often diffuse or softly feathered instead of sharply defined",
+   "marks appear as isolated blotches of uneven tone rather than elongated streaks or directional smears",
+   "spacing is patchy and clustered, with noticeable variation in blotch size and shape",
+   "visual impression is mottled by broad spots, not by fine granular scatter"
+  ]
+ },
+ "bubbly": {
+  "lineage": "cellular and cavity-based textures",
+  "position": "rounded, bubble-like cellular texture made of many adjacent circular or oval bulges or voids",
+  "confusable_siblings": [
+   "bumpy",
+   "porous",
+   "pitted",
+   "honeycombed"
+  ],
+  "family_visual_attributes": [
+   "texture is dominated by repeated enclosed units or cavities rather than lines or fibers",
+   "units tend to appear rounded, oval, or polygonal and cover much of the surface",
+   "surface often suggests relief through highlights and shadows around each cell or pocket",
+   "pattern is identified by local compartments or pockets packed across the image",
+   "elements are usually isotropic with no strong single orientation direction"
+  ],
+  "distinguishing_visual_attributes": [
+   "individual elements are predominantly circular or oval and read specifically as bubble-like domes or sacs",
+   "edges between elements are soft and smoothly curved rather than sharply angular or faceted",
+   "surface appears inflated or foamy, with rounded highlights and gentle shadowing instead of hard holes",
+   "cells are less hexagonally regular than honeycombed and less crater-like than pitted or porous",
+   "elements are more discrete and bubble-sized than the broad irregular protrusions seen in bumpy"
+  ]
+ },
+ "braided": {
+  "lineage": "interlaced and entangled strand textures",
+  "position": "a structured plaited subtype formed by multiple thick strands crossing over and under in a repeated linear sequence",
+  "confusable_siblings": [
+   "interlaced",
+   "woven",
+   "knitted",
+   "lined"
+  ],
+  "family_visual_attributes": [
+   "made of elongated strand-like elements rather than isolated dots or patches",
+   "frequent crossings, overlaps, or over-under junctions between elements",
+   "strong directional flow created by continuous curving or linear bands",
+   "visible segmentation into repeated strand units or loops",
+   "texture relief often appears raised where strands pass over one another"
+  ],
+  "distinguishing_visual_attributes": [
+   "shows a small number of thicker strands grouped into a single plait rather than a full all-over fabric network",
+   "over-under crossings occur in an ordered alternating sequence along one main axis",
+   "forms diagonal chevron-like or herringbone-like segments created by strand swapping",
+   "individual strands remain visually continuous for long distances instead of breaking into many perpendicular intersections",
+   "typically has a rope-like central band appearance rather than a flat grid of crossings"
+  ]
+ },
+ "banded": {
+  "lineage": "line-based directional textures",
+  "position": "parallel stripe-like bands organized into broader elongated zones, typically with stronger width and contrast than simple lines",
+  "confusable_siblings": [
+   "striped",
+   "lined",
+   "stratified",
+   "veined"
+  ],
+  "family_visual_attributes": [
+   "texture is dominated by elongated linear or ribbon-like elements",
+   "elements show a shared overall direction or axis across much of the image",
+   "spacing between elements is more structured than random speckled or blotchy textures",
+   "visual contrast is carried by repeated changes along adjacent linear regions",
+   "pattern readability depends on orientation, with lines or bands remaining salient at a distance"
+  ],
+  "distinguishing_visual_attributes": [
+   "adjacent regions appear as broad, continuous bands rather than thin lines",
+   "bands are usually clearly separated by contrasting edges or color changes",
+   "band widths are often substantial and visually prominent, not hairline-fine like lined textures",
+   "the pattern emphasizes layered or ribbon-like stripes without the branching seen in veined textures",
+   "bands tend to run roughly parallel rather than forming dense many-line repetitions like striped textures"
+  ]
+ },
+ "chequered": {
+  "lineage": "regular repeating patterns",
+  "position": "a grid-based checkerboard pattern made of alternating square or near-square units arranged in rows and columns",
+  "confusable_siblings": [
+   "grid",
+   "waffled",
+   "crosshatched",
+   "striped"
+  ],
+  "family_visual_attributes": [
+   "clearly repeated motif across the surface",
+   "strong spatial regularity with predictable spacing",
+   "elements arranged in aligned rows, columns, or other ordered tessellations",
+   "repetition produces a stable rhythm rather than random scatter",
+   "often shows sharp boundaries between adjacent repeated units"
+  ],
+  "distinguishing_visual_attributes": [
+   "alternating light and dark blocks create a checkerboard effect",
+   "units are enclosed square or rectangular cells rather than just intersecting lines",
+   "pattern repeats in both horizontal and vertical directions with similar scale",
+   "adjacent cells typically switch contrast from one cell to the next",
+   "looks flatter and more tile-like than the recessed-cell appearance of waffled textures"
+  ]
+ },
+ "bumpy": {
+  "lineage": "irregular raised-surface textures",
+  "position": "a texture defined by rounded, low-relief protrusions scattered or packed across the surface without strong linear organization",
+  "confusable_siblings": [
+   "bubbly",
+   "pitted",
+   "studded",
+   "potholed"
+  ],
+  "family_visual_attributes": [
+   "clear surface relief with highlights on raised areas and shadows in adjacent recesses",
+   "texture built from repeated local height variations rather than long lines or woven strands",
+   "elements are mostly compact spots, lumps, dimples, or knobs rather than elongated marks",
+   "arrangement is often irregular or loosely repeating instead of strictly geometric",
+   "overall appearance is tactile and uneven, with a broken silhouette at small scale"
+  ],
+  "distinguishing_visual_attributes": [
+   "protrusions are rounded mounds or knobs rather than hollow depressions",
+   "bumps are usually solid-looking and low to moderate in height, not thin-walled or foam-like",
+   "elements tend to vary somewhat in size and spacing, lacking the crisp regular placement of studs",
+   "the surface reads as generally knobby throughout, without the deep cavities seen in potholed or pitted textures",
+   "individual raised forms are blunt and dome-like rather than sharply edged or highly glossy"
+  ]
+ },
+ "cobwebbed": {
+  "lineage": "network and mesh-like textures",
+  "position": "an irregular filament-network texture made of very thin strands crossing into a sparse web",
+  "confusable_siblings": [
+   "meshed",
+   "interlaced",
+   "lacelike",
+   "gauzy"
+  ],
+  "family_visual_attributes": [
+   "composed of many thin linear elements rather than solid broad regions",
+   "lines intersect or overlap to form connected networks or open cells",
+   "high proportion of negative space visible between strands",
+   "texture reads as layered or net-like across the surface",
+   "pattern structure is defined more by connectivity than by isolated dots or patches"
+  ],
+  "distinguishing_visual_attributes": [
+   "strands are extremely fine, hairlike, and low in thickness relative to the gaps",
+   "network is irregular and asymmetrical rather than evenly spaced or geometric",
+   "intersections appear loose and incidental, creating wispy web-like triangles and polygons",
+   "overall pattern looks sparse and delicate, not dense like fabric mesh or weave",
+   "often shows slight radial or anchor-like convergence of threads instead of uniform crossing angles"
+  ]
+ },
+ "cracked": {
+  "lineage": "fracture and breakage textures",
+  "position": "an irregular network of visible fissures that divide the surface into separated plates or cells",
+  "confusable_siblings": [
+   "cobwebbed",
+   "veined",
+   "grooved",
+   "potholed"
+  ],
+  "family_visual_attributes": [
+   "surface is dominated by discontinuities such as splits, gaps, or sharp dark seams",
+   "marks form irregular branching or intersecting networks rather than evenly repeated motifs",
+   "texture creates distinct bounded regions separated by the discontinuity lines",
+   "line width and segment length vary noticeably across the image",
+   "overall pattern appears broken and non-uniform, with abrupt changes in continuity"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains clear fissure lines with sharp edges that look like openings or separations, not just colored lines on a continuous surface",
+   "network encloses polygonal or irregular plate-like regions between the cracks",
+   "crack lines are typically jagged and uneven rather than smooth, threadlike, or regularly spaced",
+   "lacks the soft radiating strands of cobwebbed and the smoother branching streaks of veined",
+   "unlike grooved, the channels are not predominantly parallel or directionally aligned"
+  ]
+ },
+ "crosshatched": {
+  "lineage": "line-based textures",
+  "position": "a dense intersecting-line texture defined by two or more sets of diagonal lines crossing to form a hatch-like mesh",
+  "confusable_siblings": [
+   "grid",
+   "lined",
+   "meshed",
+   "woven"
+  ],
+  "family_visual_attributes": [
+   "texture is dominated by visible linear elements rather than dots, blobs, or pits",
+   "lines have clear orientation, often appearing in repeated directional sets",
+   "overall appearance is structured by spacing and alignment of lines across the surface",
+   "intersections or near-intersections between lines may create secondary geometric units",
+   "pattern readability depends on contrast between line marks and the background",
+   "the surface impression comes more from directional mark-making than from isolated motifs"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains multiple diagonal line directions that cross each other, typically forming X-like or diamond-like hatch patterns",
+   "line intersections are frequent and distributed across the texture, unlike simple parallel lined patterns",
+   "the crossed lines read as overlaid hatch marks rather than orthogonal square grids",
+   "spacing is often tighter and more mark-like than meshed or woven textures, with less obvious strand thickness or material interlacing",
+   "the pattern emphasizes crisscrossed strokes or etched lines rather than raised bands or thread-like weave structure"
+  ]
+ },
+ "dotted": {
+  "lineage": "discrete spot-based repeating patterns",
+  "position": "a pattern defined by many small, visually separated round or near-round marks distributed across a surface, usually more regular than incidental speckling but less specifically styled than named dot motifs",
+  "confusable_siblings": [
+   "polka-dotted",
+   "freckled",
+   "flecked",
+   "sprinkled"
+  ],
+  "family_visual_attributes": [
+   "composed of many separate small elements rather than continuous lines or bands",
+   "elements are compact, isolated marks with visible background between them",
+   "repetition of similarly sized motifs across the image",
+   "motifs are primarily round, oval, or dot-like in silhouette",
+   "pattern is read through areal distribution of spots rather than directional orientation",
+   "visual rhythm comes from spacing density and dot contrast against the ground"
+  ],
+  "distinguishing_visual_attributes": [
+   "marks are clearly dot-like and more uniformly circular than the irregular particles in flecked or sprinkled",
+   "dot sizes and spacing are moderately consistent, but not as large, bold, or formally spaced as polka-dotted",
+   "appears as an all-over dot pattern rather than sparse, tiny, skin-like specks as in freckled",
+   "individual elements remain visually separate instead of merging into blotches or stains",
+   "the pattern lacks strong directionality, line formation, or clustering into streaks"
+  ]
+ },
+ "crystalline": {
+  "lineage": "mineral-like irregular aggregate textures",
+  "position": "an angular facet-based texture made of interlocking crystal-like units with sharp edges and reflective-looking planar faces",
+  "confusable_siblings": [
+   "marbled",
+   "veined",
+   "cracked",
+   "crosshatched"
+  ],
+  "family_visual_attributes": [
+   "composed of many small adjoining units rather than continuous smooth fields",
+   "irregular overall arrangement with limited repeating periodic structure",
+   "frequent sharp contrast changes along boundaries between adjacent units",
+   "mixed orientation of edges or facets across the surface",
+   "surface appearance often suggests hard, angular geometry rather than soft strands or dots"
+  ],
+  "distinguishing_visual_attributes": [
+   "shows polygonal or angular facet-like regions with straight or slightly jagged edges",
+   "adjacent regions appear to interlock into a mosaic rather than forming branching lines or open gaps",
+   "contains many small reflective-looking planes or highlight shifts within units, not just boundary lines",
+   "lacks the flowing curved streaks of marbled and veined textures",
+   "unlike cracked, the boundaries do not read primarily as dark fissures separating larger solid areas"
+  ]
+ },
+ "fibrous": {
+  "lineage": "thread- and strand-based textures",
+  "position": "a texture made of visible elongated fibers or hairlike strands, usually loosely aligned or bundled rather than tightly woven into a regular pattern",
+  "confusable_siblings": [
+   "woven",
+   "matted",
+   "lined",
+   "veined"
+  ],
+  "family_visual_attributes": [
+   "dominance of long, thin linear elements rather than dots or solid patches",
+   "strand-like marks often overlap, tangle, or run in loose bundles",
+   "texture directionality is often visible, with local alignment of many elements",
+   "fine-scale linear repetition creates a filamentous or stringy appearance",
+   "gaps between strands are irregular rather than forming a strict geometric grid"
+  ],
+  "distinguishing_visual_attributes": [
+   "individual filaments or narrow bundles are visibly separable as hairlike strands",
+   "arrangement is irregular or only loosely aligned, lacking the orthogonal over-under structure of woven textures",
+   "strands are more elongated and threadlike than the compressed clumps seen in matted textures",
+   "the texture shows many parallel or slightly diverging fibers rather than clean, uniform stripes or lines",
+   "branching network structure is weak or absent compared with the more tree-like paths of veined textures"
+  ]
+ },
+ "freckled": {
+  "lineage": "random spot-based textures",
+  "position": "a fine, sparse-to-moderate spotted texture made of many small isolated marks scattered irregularly across a surface",
+  "confusable_siblings": [
+   "flecked",
+   "dotted",
+   "sprinkled",
+   "blotchy"
+  ],
+  "family_visual_attributes": [
+   "texture is defined by many discrete small marks rather than continuous lines or bands",
+   "marks are scattered irregularly with weak or no directional alignment",
+   "spacing between marks is uneven rather than arranged on a strict grid",
+   "individual elements are separated by visible background surface",
+   "overall appearance comes from local contrast between small spots and the base color"
+  ],
+  "distinguishing_visual_attributes": [
+   "spots are very small and freckle-like, usually finer than the marks in blotchy or many flecked textures",
+   "marks tend to be rounded to slightly irregular but compact, not elongated or line-like",
+   "distribution is irregular and natural-looking, unlike the more uniform spacing of dotted textures",
+   "elements are usually flatter and more stain-like than the brighter, particle-like specks in sprinkled textures",
+   "the pattern reads as dense tiny speckling rather than a few larger patches or clusters"
+  ]
+ },
+ "frilly": {
+  "lineage": "decorative edge-based textures",
+  "position": "a ruffled, flounced texture defined by repeated wavy or scalloped protruding edges and layered trim-like contours",
+  "confusable_siblings": [
+   "pleated",
+   "lacelike",
+   "gauzy",
+   "wrinkled"
+  ],
+  "family_visual_attributes": [
+   "prominent edge contours are visually emphasized more than filled geometric cells",
+   "repeated undulating or ornamental boundary shapes appear across the surface",
+   "layering or overlap of thin elements creates alternating light and shadow bands",
+   "the texture reads as soft and irregular rather than rigidly gridded",
+   "surface relief is visible through folds, ripples, or raised edge ridges"
+  ],
+  "distinguishing_visual_attributes": [
+   "features repeated scalloped or ruffled edges rather than straight parallel fold lines",
+   "shows trim-like flounces or gathered bands with curved protrusions along the borders",
+   "has fuller, more three-dimensional edge relief than the flat openwork of lacelike or gauzy textures",
+   "appears organized into decorative ruffles rather than the all-over creasing randomness of wrinkled"
+  ]
+ },
+ "gauzy": {
+  "lineage": "open mesh and delicate web-like textures",
+  "position": "a very fine, semi-transparent member of the mesh/web family, characterized by faint, loosely connected filaments that create a soft veil-like pattern rather than a strong structural lattice",
+  "confusable_siblings": [
+   "meshed",
+   "lacelike",
+   "cobwebbed",
+   "fibrous"
+  ],
+  "family_visual_attributes": [
+   "thin thread-like elements form an open network rather than solid filled regions",
+   "many small gaps or see-through spaces are visible between connecting strands",
+   "the pattern has low area coverage, with background often clearly visible through it",
+   "connections between elements create a web, net, or interlinked filament structure",
+   "the overall appearance is lightweight and fine-scaled rather than bulky or heavily textured"
+  ],
+  "distinguishing_visual_attributes": [
+   "strands are extremely fine and faint, giving a soft hazy or veil-like appearance rather than a sharply defined net",
+   "the network is loose and delicate, with low contrast and less geometric regularity than meshed",
+   "openings are irregular and subtle, lacking the ornate floral edge detail typical of lacelike",
+   "the structure looks more uniformly sheer and diffuse than cobwebbed, which often has more radial anchoring threads",
+   "filaments connect into a thin sheet-like web rather than appearing as mostly separate loose fibers as in fibrous"
+  ]
+ },
+ "grid": {
+  "lineage": "regular repeating line-based patterns",
+  "position": "an orthogonal lattice texture formed by evenly spaced horizontal and vertical lines that intersect to create repeated square or rectangular cells",
+  "confusable_siblings": [
+   "chequered",
+   "crosshatched",
+   "lined",
+   "waffled"
+  ],
+  "family_visual_attributes": [
+   "repeated geometric structure across the surface",
+   "clear directional organization rather than random placement",
+   "consistent spacing or interval between neighboring elements",
+   "highly ordered alignment over large image regions",
+   "pattern built from repeated lines, bands, or cell boundaries"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains two dominant directions that are typically perpendicular",
+   "intersections form a regular lattice of square or rectangular openings or cells",
+   "the pattern is defined mainly by thin crossing lines rather than filled alternating blocks",
+   "spacing between both horizontal and vertical lines is relatively uniform",
+   "lacks the diagonal bias typical of crosshatched textures"
+  ]
+ },
+ "grooved": {
+  "lineage": "line-based textures",
+  "position": "parallel channel-like linear texture defined by repeated elongated grooves or furrows, often producing a ribbed relief surface",
+  "confusable_siblings": [
+   "lined",
+   "striped",
+   "pleated",
+   "waffled"
+  ],
+  "family_visual_attributes": [
+   "texture is organized around elongated linear elements rather than isolated spots or patches",
+   "lines or bands often run in a consistent direction or in a small set of directions",
+   "spacing between linear elements is often repeated or semi-regular",
+   "the pattern creates visible directional flow across the image",
+   "contrast is commonly produced by alternating light and dark edges along linear structures",
+   "surface relief or edge definition often reinforces the linear pattern"
+  ],
+  "distinguishing_visual_attributes": [
+   "consists of recessed furrows or channels, not just flat drawn or colored lines",
+   "adjacent raised ridges and shadowed troughs give a carved or indented appearance",
+   "linear elements are usually broader and more relief-based than the thin marks in lined textures",
+   "unlike striped, the pattern is defined by shape and depth changes rather than primarily by color bands",
+   "unlike pleated, the repeated lines read as cut-in grooves rather than folded fabric-like creases"
+  ]
+ },
+ "flecked": {
+  "lineage": "random spot-and-speck textures",
+  "position": "an irregular scattered-speck texture made of small contrasting flakes or tiny patches distributed across a surface",
+  "confusable_siblings": [
+   "freckled",
+   "sprinkled",
+   "dotted",
+   "stained"
+  ],
+  "family_visual_attributes": [
+   "surface is covered by many small discrete marks rather than long continuous lines",
+   "marks are distributed irregularly with no strong grid, stripe, or directional alignment",
+   "visual effect comes from contrast between the base surface and scattered small elements",
+   "spacing and sizes vary naturally rather than repeating with strict periodicity",
+   "individual marks are usually isolated or loosely clustered instead of forming connected networks"
+  ],
+  "distinguishing_visual_attributes": [
+   "marks look like tiny flakes or chips with uneven, irregular outlines rather than neat circles",
+   "elements are often slightly larger and more shape-variable than freckles or fine sprinkles",
+   "the pattern reads as scattered speckling, but each speck tends to have a solid patch-like body rather than a soft stain",
+   "distribution is random without the orderly spacing of dotted textures",
+   "individual flecks usually remain distinct and high-contrast instead of bleeding together into blotches"
+  ]
+ },
+ "honeycombed": {
+  "lineage": "regular repeating cell-like patterns",
+  "position": "a geometric cellular texture made of adjoining polygonal compartments, typically hexagon-like cells forming a tightly packed repeating network",
+  "confusable_siblings": [
+   "waffled",
+   "grid",
+   "meshed",
+   "perforated"
+  ],
+  "family_visual_attributes": [
+   "repeated units appear across the surface with fairly consistent size and spacing",
+   "pattern is formed by enclosed cells or openings separated by visible boundaries",
+   "adjacent elements tessellate or pack closely with little empty gap between units",
+   "the texture has an overall ordered, lattice-like organization rather than random placement",
+   "cell edges create a connected network spanning the image"
+  ],
+  "distinguishing_visual_attributes": [
+   "cells are predominantly hexagonal or rounded-polygonal rather than square or rectangular",
+   "boundaries form a beehive-like tessellation of closed compartments, not just crossing straight lines",
+   "openings are tightly packed and share walls with neighboring cells instead of appearing as isolated holes",
+   "the network usually shows multi-angled edges around each cell rather than orthogonal right-angle structure",
+   "the pattern reads as a continuous honeycomb of similar cells rather than a woven strand pattern"
+  ]
+ },
+ "interlaced": {
+  "lineage": "interwoven network textures",
+  "position": "a woven-over-under texture where elongated strands cross and alternate, forming an interconnected lattice without requiring a perfectly regular grid",
+  "confusable_siblings": [
+   "woven",
+   "braided",
+   "meshed",
+   "grid"
+  ],
+  "family_visual_attributes": [
+   "made of repeated crossing linear elements rather than isolated dots or blobs",
+   "forms a connected network with junctions or overlaps across the surface",
+   "shows directional structure in two or more orientations",
+   "contains visible gaps, channels, or enclosed spaces between crossing elements",
+   "often suggests layered or over-under depth where elements pass across one another"
+  ],
+  "distinguishing_visual_attributes": [
+   "crossing strands visibly intertwine or alternate over and under each other rather than merely intersecting as flat lines",
+   "the pattern appears less strictly orthogonal and less uniformly spaced than a grid",
+   "elements are individual strands or bands with noticeable width, not just thin line marks",
+   "the network is more general and lattice-like than braided, which typically forms a narrower, more directional plait",
+   "junctions emphasize interweaving continuity rather than open holes bounded by thin filaments as in meshed"
+  ]
+ },
+ "knitted": {
+  "lineage": "interlaced and looped textile-like textures",
+  "position": "a regular looped interlaced pattern formed by repeated connected stitches in rows or courses",
+  "confusable_siblings": [
+   "woven",
+   "meshed",
+   "interlaced",
+   "gauzy"
+  ],
+  "family_visual_attributes": [
+   "repeating network of connected strands or yarn-like elements",
+   "visible crossings, loops, or over-under interconnections between elements",
+   "pattern extends as a structured fabric-like field rather than isolated marks",
+   "small openings or negative spaces often appear between the connected elements",
+   "overall texture shows rhythmic repetition with local strand thickness and relief",
+   "surface often appears tactile with slight raised edges where strands connect"
+  ],
+  "distinguishing_visual_attributes": [
+   "composed of repeated loop-shaped stitches rather than straight over-under bands",
+   "organized into clear horizontal rows of similar linked units",
+   "individual elements look like hooked or V-shaped loops instead of square grid cells",
+   "openings are irregular stitch gaps rather than uniform mesh holes",
+   "shows a soft, elastic-looking relief pattern with rounded loops rather than flat crossings"
+  ]
+ },
+ "lacelike": {
+  "lineage": "openwork netted patterns",
+  "position": "a delicate ornamental openwork texture made of fine interconnected threads forming irregular or floral-like holes, finer and more decorative than general mesh or woven structures",
+  "confusable_siblings": [
+   "meshed",
+   "gauzy",
+   "interlaced",
+   "cobwebbed"
+  ],
+  "family_visual_attributes": [
+   "visible network of thin strands or filaments crossing and connecting",
+   "numerous holes or negative spaces between strands",
+   "strong emphasis on transparency or see-through gaps rather than solid coverage",
+   "repetition of connected looped or net-like structures across the surface",
+   "fine-scale line work with low to moderate surface relief compared with heavily embossed textures"
+  ],
+  "distinguishing_visual_attributes": [
+   "pattern appears especially delicate and ornamental, with finer strands than typical meshed textures",
+   "openings are often irregular, looped, or decorative rather than forming a simple geometric grid",
+   "network has a floral, scalloped, or doily-like intricacy rather than the plain crossings of interlaced textures",
+   "strands are more structured and patterned than the wispy, diffuse threads seen in gauzy textures",
+   "more evenly connected and decorative than the sparse, radial filament structure of cobwebbed textures"
+  ]
+ },
+ "matted": {
+  "lineage": "random disorder textures",
+  "position": "a tangled, compressed-fiber subtype where thin strands or filaments overlap densely into an irregular flattened mass",
+  "confusable_siblings": [
+   "fibrous",
+   "woven",
+   "interlaced",
+   "gauzy"
+  ],
+  "family_visual_attributes": [
+   "irregular overall arrangement with little or no repeating motif",
+   "uneven spacing and orientation of visible elements",
+   "locally clustered structure rather than a uniform grid",
+   "soft or broken boundaries between neighboring elements",
+   "variation in density, thickness, or overlap across the surface"
+  ],
+  "distinguishing_visual_attributes": [
+   "dense, compressed layer of overlapping strands with few open gaps",
+   "strands appear tangled and flattened rather than running in clear parallel directions",
+   "no consistent over-under weave or regular crossing pattern",
+   "surface looks clumped or felted, with edges of individual strands partly obscured",
+   "less airy and translucent than gauzy textures"
+  ]
+ },
+ "marbled": {
+  "lineage": "vein-like flowing pattern textures",
+  "position": "an irregular swirled-veining texture with branching, smoothly blended bands and no strict repetition",
+  "confusable_siblings": [
+   "veined",
+   "swirly",
+   "stratified",
+   "lined"
+  ],
+  "family_visual_attributes": [
+   "visible elongated streaks or bands running through the surface",
+   "curving, meandering paths rather than isolated dots or cells",
+   "pattern formed by contrast between adjacent tonal or color regions",
+   "low global regularity, with lines varying in width, spacing, and direction",
+   "continuous connected structures that often branch or merge",
+   "overall flowing appearance rather than a rigid geometric grid"
+  ],
+  "distinguishing_visual_attributes": [
+   "broad, cloudy veins and bands appear blended into the background rather than sharply edged",
+   "multiple curving streams swirl and intermix, creating a fluid stone-like pattern instead of mostly separate thin veins",
+   "direction changes are gradual and organic, without the repeated wave rhythm of swirly textures",
+   "bands are irregular and nonparallel, unlike lined or stratified textures that show more consistent alignment",
+   "contains layered color variation within and between veins, giving a mottled flowing look rather than simple line-on-ground contrast"
+  ]
+ },
+ "lined": {
+  "lineage": "line-based textures",
+  "position": "a simple parallel-line texture defined by repeated linear elements arranged side-by-side, typically with consistent spacing and orientation",
+  "confusable_siblings": [
+   "striped",
+   "grooved",
+   "banded",
+   "crosshatched"
+  ],
+  "family_visual_attributes": [
+   "visible elongated linear marks or ridges dominate the texture",
+   "elements share a common directional flow or orientation",
+   "the pattern is organized more by line placement than by isolated spots or cells",
+   "repetition of narrow elongated units creates directional regularity",
+   "contrast is read as alternating lines and gaps rather than discrete shapes",
+   "the texture often appears anisotropic, looking different when viewed along versus across the lines"
+  ],
+  "distinguishing_visual_attributes": [
+   "lines are usually relatively thin and narrowly spaced rather than broad alternating bands",
+   "the pattern is primarily one-directional, without a strong second intersecting set of lines",
+   "the visual emphasis is on drawn or visible line markings rather than deep channels, pits, or raised corrugations",
+   "adjacent lines remain mostly separate and parallel instead of weaving, interlacing, or crossing",
+   "spacing may be regular or mildly irregular, but the overall appearance remains a field of linear marks rather than bold color stripes"
+  ]
+ },
+ "meshed": {
+  "lineage": "network and lattice textures",
+  "position": "an open network texture made of intersecting strands or bars that form visible holes between connections",
+  "confusable_siblings": [
+   "grid",
+   "woven",
+   "interlaced",
+   "honeycombed"
+  ],
+  "family_visual_attributes": [
+   "repeating connected structure rather than isolated marks",
+   "multiple intersections or junctions between linear elements",
+   "clearly defined gaps, openings, or enclosed spaces between connections",
+   "pattern continuity across the image through linked strands or boundaries",
+   "often shows directional organization in two or more crossing orientations"
+  ],
+  "distinguishing_visual_attributes": [
+   "open netlike pattern with visible holes that are often irregular or flexible in shape",
+   "strands appear relatively thin and joined at nodes, rather than broad perpendicular bands",
+   "less rigidly orthogonal and evenly spaced than grid",
+   "does not show the over-under strip appearance typical of woven or interlaced textures",
+   "openings are not consistently hexagonal or cell-like as in honeycombed"
+  ]
+ },
+ "paisley": {
+  "lineage": "ornamental repeating motif patterns",
+  "position": "curvilinear teardrop-motif pattern within decorative repeating textures",
+  "confusable_siblings": [
+   "swirly",
+   "frilly",
+   "dotted",
+   "lined"
+  ],
+  "family_visual_attributes": [
+   "repeated recognizable motifs rather than random marks",
+   "clear motif boundaries with similar motif size across the image",
+   "patterned surface appears intentionally arranged or tiled",
+   "strong internal shape structure inside each repeated unit",
+   "moderate to high visual regularity, though exact spacing may vary"
+  ],
+  "distinguishing_visual_attributes": [
+   "repeating comma- or teardrop-shaped units with one rounded end and one tapered curved end",
+   "many motifs contain nested internal curved bands or small enclosed details inside the main shape",
+   "overall pattern is dominated by curved ornamental forms rather than simple spirals, straight lines, or edge ruffles",
+   "motifs repeat as discrete emblem-like shapes instead of continuous flowing curls across the whole image",
+   "design often mixes multiple scales of curved detail within each repeated motif"
+  ]
+ },
+ "perforated": {
+  "lineage": "hole-and-cavity textures",
+  "position": "a through-hole texture characterized by repeated visible openings that fully puncture the surface, often arranged in a fairly regular pattern",
+  "confusable_siblings": [
+   "porous",
+   "honeycombed",
+   "pitted",
+   "meshed"
+  ],
+  "family_visual_attributes": [
+   "surface is interrupted by many dark or empty-looking voids",
+   "texture is defined by negative space as much as by solid material",
+   "openings or cavities repeat across the image rather than appearing as isolated marks",
+   "edges of the voids are visibly outlined by surrounding material",
+   "contrast often comes from light solid areas against darker recesses or see-through gaps"
+  ],
+  "distinguishing_visual_attributes": [
+   "openings appear as clean cut-through holes rather than shallow dimples or depressions",
+   "hole shapes are often simple and discrete, such as round, oval, or slit-like, not cell walls forming a hexagonal network",
+   "solid material remains between holes as separate bands or sheets rather than thin intersecting strands",
+   "pattern emphasizes punctures in a continuous surface, not an irregular sponge-like field of tiny cavities",
+   "hole boundaries are usually crisp and well defined, with clear separation between one opening and the next"
+  ]
+ },
+ "pleated": {
+  "lineage": "folded and line-based textures",
+  "position": "regularly repeating parallel fold pattern with visible ridges and troughs",
+  "confusable_siblings": [
+   "striped",
+   "lined",
+   "wrinkled",
+   "grooved"
+  ],
+  "family_visual_attributes": [
+   "texture is dominated by elongated linear elements",
+   "lines or bands tend to run in a shared direction or organized flow",
+   "alternation of raised and recessed or light and dark linear zones is common",
+   "pattern reads as continuous rather than isolated dots or patches",
+   "repetition along one axis creates a directional surface structure"
+  ],
+  "distinguishing_visual_attributes": [
+   "shows clear folded ridges with alternating peaks and valleys rather than flat printed lines",
+   "bands are typically broader and more three-dimensional than in striped or lined textures",
+   "spacing is fairly regular, giving a concertina-like repeated fold appearance",
+   "creases run in parallel with consistent orientation instead of the irregular, tangled deformation seen in wrinkled textures",
+   "surface shading strongly emphasizes relief, unlike simple grooves that appear cut-in without the folded flap-like form"
+  ]
+ },
+ "pitted": {
+  "lineage": "surface-cavity and hole-based textures",
+  "position": "a depression-dominated texture defined by many small, discrete pits or dimples across a surface, with the surface mostly remaining intact between cavities",
+  "confusable_siblings": [
+   "porous",
+   "perforated",
+   "potholed",
+   "bumpy"
+  ],
+  "family_visual_attributes": [
+   "repeated concave voids, openings, or depressions are the dominant visual motif",
+   "texture appearance is driven by surface relief and shadowing around cavity edges",
+   "features are read as negative spaces or indentations rather than raised lines or fibers",
+   "the surface is broken into solid areas separated by holes, pockets, or recessed spots",
+   "elements are usually rounded or irregular in outline rather than long linear marks"
+  ],
+  "distinguishing_visual_attributes": [
+   "shows many small to medium rounded dimples that appear recessed, not fully open cut-through holes",
+   "pits are discrete and separated from one another rather than merging into a sponge-like network",
+   "the cavities are shallower and more numerous than the large, coarse depressions typical of potholed",
+   "the visual cue is darkened indentations with rim highlights or shadows, unlike bumpy where spots protrude outward",
+   "pit spacing is often irregular, without the clean repeated hole geometry often seen in perforated"
+  ]
+ },
+ "polka-dotted": {
+  "lineage": "regular repeating patterns",
+  "position": "a dot-based repeating pattern with discrete, round motifs arranged at fairly even spacing",
+  "confusable_siblings": [
+   "dotted",
+   "sprinkled",
+   "freckled",
+   "studded"
+  ],
+  "family_visual_attributes": [
+   "clearly repeated small-scale motifs across the surface",
+   "noticeable spacing regularity or rhythmic distribution",
+   "pattern units remain visually separate rather than merging into continuous lines",
+   "overall surface looks organized rather than random",
+   "motifs often have similar size and recur across the image"
+  ],
+  "distinguishing_visual_attributes": [
+   "dots are predominantly round or near-circular rather than irregular specks",
+   "elements are spaced in a fairly even, repeating arrangement rather than scattered randomly",
+   "motifs are usually larger and more graphically distinct than freckles or fine speckles",
+   "pattern reads as printed/flat spots rather than raised bumps or embedded studs",
+   "the dot field forms a deliberate ornamental repeat rather than a sparse incidental distribution"
+  ]
+ },
+ "smeared": {
+  "lineage": "random disorder textures",
+  "position": "a diffuse spread-mark texture formed by dragged or wiped pigment-like patches with soft, irregular boundaries",
+  "confusable_siblings": [
+   "stained",
+   "blotchy",
+   "marbled",
+   "swirly"
+  ],
+  "family_visual_attributes": [
+   "irregular, non-repeating spatial arrangement",
+   "uneven patch or mark sizes across the surface",
+   "weak global symmetry or alignment",
+   "organic-looking boundaries rather than crisp geometric edges",
+   "locally varying contrast and density",
+   "often appears as spread, dispersed, or disrupted surface markings rather than discrete repeated units"
+  ],
+  "distinguishing_visual_attributes": [
+   "elongated dragged marks or directional streaks suggest lateral spreading or wiping",
+   "soft feathered edges with visible fade-out along the direction of motion",
+   "adjacent tones appear blended or smeared together rather than separated into clean patches",
+   "less discrete spot-like segmentation than blotchy or stained textures",
+   "lacks the branching veins or organized curling structure seen in marbled or swirly textures"
+  ]
+ },
+ "porous": {
+  "lineage": "hole- and cavity-based surface textures",
+  "position": "irregularly distributed fine-pored texture defined by many small visible openings or voids across the surface",
+  "confusable_siblings": [
+   "perforated",
+   "pitted",
+   "honeycombed",
+   "potholed"
+  ],
+  "family_visual_attributes": [
+   "surface is dominated by repeated openings, pits, or recessed cavities",
+   "dark interior shadows or contrast inside voids are common",
+   "texture reads as broken by negative space rather than by lines or fibers",
+   "individual voids are separated by thin walls, rims, or solid material between them",
+   "overall appearance is punctured, aerated, or sponge-like",
+   "surface relief is visible through recess depth and edge shading"
+  ],
+  "distinguishing_visual_attributes": [
+   "voids are numerous and relatively small, creating a fine-grained all-over pore field",
+   "openings are irregular in shape and spacing rather than cleanly cut or evenly repeated",
+   "pores usually lack strong circular rims or large deep craters seen in potholed and pitted textures",
+   "pattern does not form the regular hexagonal cell network typical of honeycombed",
+   "holes appear as natural-looking tiny cavities embedded throughout the surface rather than discrete punched perforations"
+  ]
+ },
+ "potholed": {
+  "lineage": "surface-depression and cavity textures",
+  "position": "an irregular large-pit subtype defined by scattered, unevenly sized crater-like holes or depressions",
+  "confusable_siblings": [
+   "pitted",
+   "porous",
+   "perforated",
+   "honeycombed"
+  ],
+  "family_visual_attributes": [
+   "visible openings, pits, or recessed cavities interrupt the surface",
+   "darkened interiors or shadowed hollows create strong depth cues",
+   "texture is defined more by voids/depressions than by raised lines or fibers",
+   "surface relief appears uneven, with repeated concave forms across the image",
+   "edge contours of holes or cavities are visually salient against the surrounding surface"
+  ],
+  "distinguishing_visual_attributes": [
+   "depressions are relatively large and coarse rather than tiny or fine-grained",
+   "holes/pits are irregular in shape and spacing, lacking a neat repeating arrangement",
+   "features often read as shallow craters or worn potholes rather than clean cut-through perforations",
+   "cavity edges appear rough or eroded instead of crisp geometric boundaries",
+   "surface between depressions remains broad and continuous, unlike densely packed porous or honeycomb patterns"
+  ]
+ },
+ "sprinkled": {
+  "lineage": "random scattered mark textures",
+  "position": "a sparse-to-moderate distribution of many small discrete specks or particles irregularly scattered across a background, without a regular grid or strong directional structure",
+  "confusable_siblings": [
+   "dotted",
+   "flecked",
+   "freckled",
+   "polka-dotted"
+  ],
+  "family_visual_attributes": [
+   "many small separated foreground marks distributed across a contrasting background",
+   "irregular spacing with no strong alignment into lines, bands, or grids",
+   "overall non-directional appearance with no dominant orientation",
+   "pattern built from repeated small local elements rather than continuous connected structures",
+   "coverage is dispersed across the surface rather than concentrated in large patches",
+   "visual rhythm appears stochastic or loosely random rather than strictly periodic"
+  ],
+  "distinguishing_visual_attributes": [
+   "marks resemble tiny scattered particles or granules rather than clean, well-formed circles",
+   "element size is usually small and somewhat variable, with a casual uneven scatter",
+   "spacing is irregular but the marks are typically more numerous and less isolated than freckled spots",
+   "unlike dotted or polka-dotted, the pattern lacks crisp geometric regularity and repeated equal-sized round dots",
+   "unlike flecked, the marks tend to read as light scatterings on the surface rather than sharper contrasting chips or flakes"
+  ]
+ },
+ "scaly": {
+  "lineage": "overlapping plate-like surface textures",
+  "position": "a texture made of many small, discrete, scale-shaped units that partially overlap in a directional, tiled arrangement",
+  "confusable_siblings": [
+   "crystalline",
+   "veined",
+   "pitted",
+   "woven"
+  ],
+  "family_visual_attributes": [
+   "surface is divided into many distinct small units rather than continuous smooth regions",
+   "units often touch or overlap edge-to-edge, creating a layered or tiled appearance",
+   "repetition of similarly sized elements across the image gives a coherent all-over texture",
+   "element boundaries are visible through contrast, highlights, or shadowing",
+   "texture often suggests shallow surface relief through repeated edge highlights and darker overlaps"
+  ],
+  "distinguishing_visual_attributes": [
+   "elements are flattened oval, rounded, or leaf-like plates rather than sharp crystals or holes",
+   "neighboring units overlap like shingles, with one edge visually covering part of the next",
+   "the pattern has a directional lay or flow caused by repeated overlap orientation",
+   "individual units remain discrete and countable, unlike branching lines in veined textures",
+   "surface appears layered and plated rather than interlaced or threadlike"
+  ]
+ },
+ "spiralled": {
+  "lineage": "curvilinear patterned textures",
+  "position": "a curving motif texture defined by repeated or prominent spiral coils arranged as circular turns around visible centers",
+  "confusable_siblings": [
+   "swirly",
+   "veined",
+   "marbled",
+   "zigzagged"
+  ],
+  "family_visual_attributes": [
+   "pattern is dominated by curved rather than straight elements",
+   "lines or bands change direction smoothly across the surface",
+   "motifs often form flowing loops, arcs, or coils",
+   "orientation varies locally instead of staying uniformly parallel",
+   "visual structure is defined more by path shape than by isolated dots or pits"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains clear spiral or coil shapes that wind around a central point",
+   "curved elements make one or more full or partial circular turns rather than just meandering freely",
+   "repeated motifs appear as discrete whorls or corkscrew-like forms",
+   "direction of the pattern radiates around spiral centers instead of forming branching networks",
+   "unlike zigzagged, the directional changes are rounded and continuous rather than sharp-angled"
+  ]
+ },
+ "stained": {
+  "lineage": "random disorder textures",
+  "position": "irregular discoloration texture defined by diffuse patches or blotches of altered tone spread unevenly across a surface",
+  "confusable_siblings": [
+   "blotchy",
+   "smeared",
+   "marbled",
+   "flecked"
+  ],
+  "family_visual_attributes": [
+   "non-periodic arrangement with no repeating unit",
+   "irregular patch sizes and uneven spacing",
+   "soft or variable boundaries rather than crisp geometric edges",
+   "localized contrast changes across the surface",
+   "overall appearance driven by randomness and visual inconsistency",
+   "lack of dominant directional alignment or strict symmetry"
+  ],
+  "distinguishing_visual_attributes": [
+   "appears as discolored areas superimposed on a base surface rather than as raised or structural elements",
+   "patches are usually broader and more fused than the small specks seen in flecked textures",
+   "color changes form isolated marks or spreads without the flowing vein-like bands typical of marbled textures",
+   "markings tend to stay relatively stationary and pooled-looking rather than dragged into directional streaks as in smeared textures",
+   "regions often show uneven intensity with diffuse edges, giving a soiled or dyed-in-place look rather than clearly separated blotches"
+  ]
+ },
+ "stratified": {
+  "lineage": "layered and banded textures",
+  "position": "a layered texture defined by stacked, roughly parallel strata or sediment-like bands with visible separation between layers",
+  "confusable_siblings": [
+   "banded",
+   "lined",
+   "striped",
+   "marbled"
+  ],
+  "family_visual_attributes": [
+   "texture is organized into elongated horizontal, diagonal, or gently undulating bands",
+   "adjacent regions appear stacked in layers rather than scattered as isolated marks",
+   "boundaries between bands are visually traceable over extended distances",
+   "variation is dominated by changes across the bands rather than along them",
+   "repetition is often irregular in thickness and spacing rather than perfectly periodic"
+  ],
+  "distinguishing_visual_attributes": [
+   "shows discrete stacked layers with uneven thickness, as if built up in successive sheets",
+   "band boundaries often look naturally irregular, broken, or wavy rather than crisp and graphic",
+   "adjacent layers commonly differ in tone or texture density, creating a separated stratum-by-stratum appearance",
+   "less uniform and repetitive than striped or lined textures, with broader layer-like zones instead of narrow repeated marks",
+   "more clearly arranged in parallel stacked strata than marbled, which tends to swirl and branch"
+  ]
+ },
+ "striped": {
+  "lineage": "line-based repeating patterns",
+  "position": "a regular pattern defined by parallel elongated bands running in a consistent direction across the surface",
+  "confusable_siblings": [
+   "lined",
+   "banded",
+   "crosshatched",
+   "zigzagged"
+  ],
+  "family_visual_attributes": [
+   "visible elongated linear elements or bands dominate the texture",
+   "elements are arranged with noticeable directional alignment",
+   "spacing between repeated linear elements is at least partly regular",
+   "the pattern extends across the image as a repeated motif rather than isolated marks",
+   "contrast is created by alternating lines, gaps, or differently colored elongated regions"
+  ],
+  "distinguishing_visual_attributes": [
+   "consists of multiple roughly parallel stripes with similar orientation across the image",
+   "the repeated elements are broader and more band-like than the thin marks typical of lined",
+   "the pattern does not form intersecting lattices or crisscrosses as in crosshatched",
+   "the stripes are generally straight or gently curved, not sharply angular back-and-forth forms like zigzagged",
+   "alternation between stripe and gap is the main structure, rather than wide irregular zones as in banded"
+  ]
+ },
+ "studded": {
+  "lineage": "raised discrete-element textures",
+  "position": "a texture defined by distinct protruding knobs or rivet-like points distributed across a surface, often in a fairly regular arrangement",
+  "confusable_siblings": [
+   "dotted",
+   "bumpy",
+   "pitted",
+   "perforated"
+  ],
+  "family_visual_attributes": [
+   "texture is built from many separate, countable small units rather than continuous lines or bands",
+   "units stand out clearly from the background by shape, shading, or contrast",
+   "surface often shows noticeable local relief with highlights and shadows around individual elements",
+   "elements tend to repeat across the image at similar size and spacing",
+   "overall appearance is spot-based or node-based rather than fibrous, striped, or smeared"
+  ],
+  "distinguishing_visual_attributes": [
+   "individual elements appear raised above the surface as bumps, studs, or rivet-like protrusions",
+   "studs usually have crisp, well-defined circular or rounded boundaries rather than soft flat spots",
+   "repeating protrusions are more discrete and isolated than the broader uneven swellings of bumpy textures",
+   "unlike pitted or perforated textures, the elements read as outward projections rather than holes or inward depressions"
+  ]
+ },
+ "waffled": {
+  "lineage": "regular repeating patterns",
+  "position": "a highly regular grid-based texture with repeated recessed square or rectangular cells, forming a checker-like relief pattern",
+  "confusable_siblings": [
+   "grid",
+   "honeycombed",
+   "chequered",
+   "meshed"
+  ],
+  "family_visual_attributes": [
+   "repeated motif appears at regular intervals across the surface",
+   "elements are arranged in an ordered lattice or tessellation rather than randomly scattered",
+   "spacing between neighboring units is fairly uniform",
+   "pattern often shows clear horizontal and vertical alignment",
+   "overall texture reads as geometric and predictable at a glance"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains a grid of sunken or raised cells that look like small pockets rather than just flat lines",
+   "cells are usually square or rectangular and separated by thicker ridges",
+   "pattern conveys visible surface relief or depth, unlike a purely printed grid",
+   "repeated units form a cushion-like checker of depressions rather than open holes or wire-like intersections",
+   "more blocky and orthogonal than hexagonal honeycombed or thin-line meshed patterns"
+  ]
+ },
+ "woven": {
+  "lineage": "interlaced patterned textures",
+  "position": "a structured interlaced texture formed by over-under crossing strands arranged into a repeated weave",
+  "confusable_siblings": [
+   "interlaced",
+   "knitted",
+   "meshed",
+   "grid"
+  ],
+  "family_visual_attributes": [
+   "made of repeated linear elements that cross or loop around one another",
+   "shows a connected network rather than isolated marks or spots",
+   "contains many junctions where strands visually overlap or intersect",
+   "often has a regular repeating arrangement across the surface",
+   "creates small cells, gaps, or bounded spaces between crossing elements"
+  ],
+  "distinguishing_visual_attributes": [
+   "clear over-under weave pattern with alternating crossings visible along perpendicular strands",
+   "strands are usually relatively straight and arranged in two main directions rather than looping into rounded stitches",
+   "repeated rectangular or square units are common, but crossings look like layered bands rather than simple line intersections",
+   "surface often shows subtle relief at crossover points where one strand appears to pass above another"
+  ]
+ },
+ "wrinkled": {
+  "lineage": "surface-deformation textures",
+  "position": "an irregular fold-and-crease texture defined by thin ridges and troughs formed by compressed or puckered surface undulations",
+  "confusable_siblings": [
+   "pleated",
+   "lined",
+   "grooved",
+   "cracked"
+  ],
+  "family_visual_attributes": [
+   "visible surface relief with alternating raised and recessed areas",
+   "elongated marks or bands created by deformation rather than discrete dots or cells",
+   "shading changes along ridges and valleys that emphasize depth",
+   "non-flat appearance with bends, puckers, folds, or compressed areas",
+   "texture structure is carried by continuous or semi-continuous crease-like features"
+  ],
+  "distinguishing_visual_attributes": [
+   "creases are irregular in spacing, thickness, and direction rather than evenly repeated",
+   "features appear as soft folds or puckers with rounded ridges, not sharp cut-like separations",
+   "pattern lacks the strong parallel order typical of pleated or lined textures",
+   "troughs usually remain connected by bent, rumpled surface undulations instead of deep channel-like grooves",
+   "creases often intersect or meander in a rumpled way without forming a stable grid or strict orientation"
+  ]
+ },
+ "veined": {
+  "lineage": "branching line-based textures",
+  "position": "an irregular network of thin, vein-like lines that branch and taper across a surface",
+  "confusable_siblings": [
+   "marbled",
+   "cracked",
+   "lined",
+   "crosshatched"
+  ],
+  "family_visual_attributes": [
+   "visible line elements dominate the texture rather than dots or large solid patches",
+   "lines form connected networks or pathways across the surface",
+   "line width is usually narrow relative to the spaces between them",
+   "the pattern is mostly irregular rather than perfectly repeating",
+   "junctions, forks, or directional changes appear within the line structure"
+  ],
+  "distinguishing_visual_attributes": [
+   "lines branch repeatedly in tree-like or river-like patterns rather than staying parallel",
+   "line thickness often tapers along segments, giving a natural vein-like appearance",
+   "the network is connected but not usually open-gap separated like cracked textures",
+   "the pattern lacks the broad swirls and blended color fields typical of marbled textures",
+   "intersections are mostly organic forks rather than the regular crossings seen in crosshatched or lined textures"
+  ]
+ },
+ "swirly": {
+  "lineage": "curvilinear pattern textures",
+  "position": "a flowing, looped curvilinear texture defined by swirling arcs and curled turns rather than straight bands or angular repeats",
+  "confusable_siblings": [
+   "spiralled",
+   "marbled",
+   "veined",
+   "paisley"
+  ],
+  "family_visual_attributes": [
+   "dominant curved or arcing lines rather than straight or angular marks",
+   "flowing directional paths that bend, loop, or meander across the surface",
+   "continuous visual rhythm formed by connected or closely related curved elements",
+   "orientation changes gradually along the pattern instead of abrupt directional breaks",
+   "pattern structure is organized by line movement more than by isolated dots, holes, or blocks"
+  ],
+  "distinguishing_visual_attributes": [
+   "contains repeated S-curves, curls, or whorl-like turns without needing full concentric spiral centers",
+   "the curved paths appear broad and flowing rather than thin branch-like tracery",
+   "motifs are less enclosed and teardrop-shaped than paisley forms",
+   "shows more obvious looping and rotational movement than marbled streaks, which look more diffuse and layered",
+   "lacks the clear central hubs and regular winding geometry typical of spiralled patterns"
+  ]
+ },
+ "zigzagged": {
+  "lineage": "line-based textures",
+  "position": "angular, repeating line pattern made of connected segments that reverse direction to form a sawtooth path",
+  "confusable_siblings": [
+   "striped",
+   "lined",
+   "chequered",
+   "crosshatched"
+  ],
+  "family_visual_attributes": [
+   "texture is dominated by elongated linear marks rather than dots, holes, or blobs",
+   "lines create strong directional flow across the surface",
+   "adjacent elements often repeat with similar spacing or orientation",
+   "contrast is organized into bands, strokes, or paths rather than isolated specks",
+   "pattern structure is readable through edge alignment and line continuity"
+  ],
+  "distinguishing_visual_attributes": [
+   "lines bend sharply at repeated angles instead of remaining straight throughout",
+   "the main motif forms a back-and-forth sawtooth or serrated path with alternating diagonal segments",
+   "direction changes occur at regular intervals, creating pointed peaks and valleys",
+   "unlike chequered or crosshatched, the pattern is not primarily built from intersecting perpendicular grids",
+   "unlike striped or lined, the linear bands are broken by repeated angular turns rather than parallel straight runs"
+  ]
+ }
+}

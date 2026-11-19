@@ -1,0 +1,78 @@
+{
+ "dataset": "dtd",
+ "arm": "magent",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 3,
+ "cupl_direct": 50.11,
+ "attr_direct": 51.65,
+ "draws": {
+  "orig": {
+   "direct": 51.49,
+   "k1": 57.98,
+   "union_direct": 52.18,
+   "d_direct_vs_attr": -0.16,
+   "d_direct_vs_cupl": 1.38,
+   "d_union_vs_cupl": 2.07,
+   "p_direct_vs_attr": 0.89302,
+   "p_direct_vs_cupl": 0.113666,
+   "p_union_vs_cupl": 0.00129
+  },
+  "seed1": {
+   "direct": 50.9,
+   "k1": 57.18,
+   "union_direct": 51.54,
+   "d_direct_vs_attr": -0.74,
+   "d_direct_vs_cupl": 0.8,
+   "d_union_vs_cupl": 1.44,
+   "p_direct_vs_attr": 0.385111,
+   "p_direct_vs_cupl": 0.371127,
+   "p_union_vs_cupl": 0.025967
+  },
+  "seed2": {
+   "direct": 50.74,
+   "k1": 56.91,
+   "union_direct": 51.06,
+   "d_direct_vs_attr": -0.9,
+   "d_direct_vs_cupl": 0.64,
+   "d_union_vs_cupl": 0.96,
+   "p_direct_vs_attr": 0.268363,
+   "p_direct_vs_cupl": 0.481383,
+   "p_union_vs_cupl": 0.12651
+  }
+ },
+ "summary": {
+  "d_direct_vs_attr": {
+   "values": [
+    -0.16,
+    -0.74,
+    -0.9
+   ],
+   "mean": -0.6,
+   "std": 0.39,
+   "n_positive": "0/3"
+  },
+  "d_direct_vs_cupl": {
+   "values": [
+    1.38,
+    0.8,
+    0.64
+   ],
+   "mean": 0.94,
+   "std": 0.39,
+   "n_positive": "3/3"
+  },
+  "d_union_vs_cupl": {
+   "values": [
+    2.07,
+    1.44,
+    0.96
+   ],
+   "mean": 1.49,
+   "std": 0.56,
+   "n_positive": "3/3"
+  }
+ },
+ "note": "多臂种子重采样（本体固定复用）；orig=原始臂池；每draw含配对精确McNemar（vs attr / vs 现役 / union vs 现役）",
+ "timestamp": "2026-10-15 20:35:22"
+}

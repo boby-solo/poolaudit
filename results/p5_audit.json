@@ -1,0 +1,266 @@
+{
+  "aircraft": {
+    "n_classes": 100,
+    "n_desc_expected": 20,
+    "pool_attr": {
+      "n_classes": 100,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_onto": {
+      "n_classes": 100,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_magent": {
+      "n_classes": 100,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_omni": {
+      "n_classes": 100,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "fallback_magent": {
+      "n": 0,
+      "classes": []
+    },
+    "fallback_omni": {
+      "n": 0,
+      "classes": []
+    },
+    "ontology": {
+      "n": 100,
+      "complete": true,
+      "n_issues": 4,
+      "issues": [
+        "707-320:sib:720",
+        "BAE 146-200:sib:Avro RJ family",
+        "ERJ 135:sib:Legacy 600",
+        "Hawk T1:sib:Alpha Jet"
+      ]
+    },
+    "feas_sanity": {
+      "all_zero": true,
+      "drifts": {
+        "cupl_direct_drift": 0.0,
+        "cupl_k1_drift": 0.0,
+        "attr_direct_drift": 0.0,
+        "attr_k1_drift": 0.0
+      }
+    }
+  },
+  "euro_sat": {
+    "n_classes": 10,
+    "n_desc_expected": 20,
+    "pool_attr": {
+      "n_classes": 10,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_onto": {
+      "n_classes": 10,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_magent": {
+      "n_classes": 10,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_omni": {
+      "n_classes": 10,
+      "complete": true,
+      "desc_counts": [
+        20
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "fallback_magent": {
+      "n": 0,
+      "classes": []
+    },
+    "fallback_omni": {
+      "n": 0,
+      "classes": []
+    },
+    "ontology": {
+      "n": 10,
+      "complete": true,
+      "n_issues": 0,
+      "issues": []
+    },
+    "feas_sanity": {
+      "all_zero": true,
+      "drifts": {
+        "cupl_direct_drift": 0.0,
+        "cupl_k1_drift": 0.0
+      }
+    }
+  },
+  "dtd": {
+    "n_classes": 47,
+    "n_desc_expected": 60,
+    "pool_attr": {
+      "n_classes": 47,
+      "complete": true,
+      "desc_counts": [
+        60,
+        61
+      ],
+      "n_desc_ok": false,
+      "bad_keys": []
+    },
+    "pool_onto": {
+      "n_classes": 47,
+      "complete": true,
+      "desc_counts": [
+        60
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_magent": {
+      "n_classes": 47,
+      "complete": true,
+      "desc_counts": [
+        60
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_omni": {
+      "n_classes": 47,
+      "complete": true,
+      "desc_counts": [
+        60
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "fallback_magent": {
+      "n": 0,
+      "classes": []
+    },
+    "fallback_omni": {
+      "n": 0,
+      "classes": []
+    },
+    "ontology": {
+      "n": 47,
+      "complete": true,
+      "n_issues": 0,
+      "issues": []
+    },
+    "feas_sanity": {
+      "all_zero": true,
+      "drifts": {
+        "cupl_direct_drift": 0.0,
+        "cupl_k1_drift": 0.0,
+        "attr_direct_drift": 0.0,
+        "attr_k1_drift": 0.0
+      }
+    }
+  },
+  "cub": {
+    "n_classes": 200,
+    "n_desc_expected": 39,
+    "pool_attr": {
+      "n_classes": 200,
+      "complete": true,
+      "desc_counts": [
+        39
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_onto": {
+      "n_classes": 200,
+      "complete": true,
+      "desc_counts": [
+        39
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_magent": {
+      "n_classes": 200,
+      "complete": true,
+      "desc_counts": [
+        39
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "pool_omni": {
+      "n_classes": 200,
+      "complete": true,
+      "desc_counts": [
+        39
+      ],
+      "n_desc_ok": true,
+      "bad_keys": []
+    },
+    "fallback_magent": {
+      "n": 0,
+      "classes": []
+    },
+    "fallback_omni": {
+      "n": 0,
+      "classes": []
+    },
+    "ontology": {
+      "n": 200,
+      "complete": true,
+      "n_issues": 7,
+      "issues": [
+        "Cardinal:sib:Pyrrhuloxia",
+        "Red faced Cormorant:sib:Anhinga",
+        "American Pipit:sib:Sprague Sparrow",
+        "Great Grey Shrike:sib:Northern Mockingbird",
+        "Song Sparrow:sib:Swamp Sparrow",
+        "Mourning Warbler:sib:Connecticut Warbler",
+        "Downy Woodpecker:sib:Hairy Woodpecker"
+      ]
+    },
+    "feas_sanity": {
+      "all_zero": true,
+      "drifts": {
+        "cupl_direct_drift": 0.0,
+        "cupl_k1_drift": 0.0,
+        "attr_direct_drift": 0.0,
+        "attr_k1_drift": 0.0
+      }
+    }
+  }
+}

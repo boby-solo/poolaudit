@@ -1,0 +1,35 @@
+{
+ "dataset": "aircraft",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "attrrel": {
+  "direct": 18.69,
+  "k1": 21.96,
+  "union_direct": 20.1
+ },
+ "attr": {
+  "direct": 19.2,
+  "k1": 21.84
+ },
+ "onto": {
+  "direct": 20.64,
+  "k1": 22.11,
+  "union_direct": 20.85
+ },
+ "decomposition_vs_attr": {
+  "instruction_only (attrrel-attr)": {
+   "direct": -0.51,
+   "k1": 0.12
+  },
+  "record_on_top (onto-attrrel)": {
+   "direct": 1.95,
+   "k1": 0.15
+  },
+  "full_structure (onto-attr)": {
+   "direct": 1.44,
+   "k1": 0.27
+  }
+ },
+ "note": "attrrel = attr drafter + relational instruction, no record；判读：instruction_only 大 = 增益主要来自指令；record_on_top 大 = 记录的知识必要",
+ "timestamp": "2026-10-10 10:52:06"
+}

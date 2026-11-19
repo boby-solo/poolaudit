@@ -1,0 +1,180 @@
+{
+ "method_note": "类名对句子做 _norm(小写、去连字符/下划线) 子串匹配；self=含自身类名；any=含池键名中任一类名；no_name=不含任何类名。口径同 p5_comparative.json。",
+ "timestamp": "2026-10-15 21:50:10",
+ "aircraft": {
+  "incumbent": {
+   "n_sentences": 2000,
+   "self_rate": 96.3,
+   "any_name_rate": 96.5,
+   "no_name_rate": 3.5
+  },
+  "attr": {
+   "n_sentences": 2000,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "instr": {
+   "n_sentences": 2000,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "onto": {
+   "n_sentences": 2000,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "magent": {
+   "n_sentences": 2000,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "omni": {
+   "n_sentences": 2000,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "cupl_re": {
+   "n_sentences": 2000,
+   "self_rate": 13.1,
+   "any_name_rate": 16.8,
+   "no_name_rate": 83.2
+  }
+ },
+ "euro_sat": {
+  "incumbent": {
+   "n_sentences": 198,
+   "self_rate": 48.5,
+   "any_name_rate": 48.5,
+   "no_name_rate": 51.5
+  },
+  "attr": {
+   "n_sentences": 200,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "instr": {
+   "n_sentences": 200,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "onto": {
+   "n_sentences": 200,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "magent": {
+   "n_sentences": 200,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "omni": {
+   "n_sentences": 200,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "cupl_re": {
+   "n_sentences": 200,
+   "self_rate": 21.5,
+   "any_name_rate": 24.0,
+   "no_name_rate": 76.0
+  }
+ },
+ "dtd": {
+  "incumbent": {
+   "n_sentences": 2820,
+   "self_rate": 94.7,
+   "any_name_rate": 94.8,
+   "no_name_rate": 5.2
+  },
+  "attr": {
+   "n_sentences": 2821,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "instr": {
+   "n_sentences": 2821,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "onto": {
+   "n_sentences": 2820,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "magent": {
+   "n_sentences": 2820,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "omni": {
+   "n_sentences": 2820,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "cupl_re": {
+   "n_sentences": 2821,
+   "self_rate": 26.6,
+   "any_name_rate": 30.9,
+   "no_name_rate": 69.1
+  }
+ },
+ "cub": {
+  "incumbent": {
+   "n_sentences": 7796,
+   "self_rate": 95.4,
+   "any_name_rate": 95.4,
+   "no_name_rate": 4.6
+  },
+  "attr": {
+   "n_sentences": 7800,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "instr": {
+   "n_sentences": 7800,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "onto": {
+   "n_sentences": 7800,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "magent": {
+   "n_sentences": 7800,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "omni": {
+   "n_sentences": 7800,
+   "self_rate": 100.0,
+   "any_name_rate": 100.0,
+   "no_name_rate": 0.0
+  },
+  "cupl_re": {
+   "n_sentences": 7800,
+   "self_rate": 6.1,
+   "any_name_rate": 7.1,
+   "no_name_rate": 92.9
+  }
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "method_note": "Same protocol as p5_comparative.json method_note (Comp markers; Sib case-insensitive, hyphens/underscores as spaces, substring vs pool keys, sentence credited to own class). Computed for the cupl_gpt54 arm only; five-arm values live in p5_comparative.json (unchanged).",
+ "aircraft": {
+  "cupl_gpt54": [
+   17.1,
+   5.5
+  ],
+  "refs": {
+   "attr": [
+    9.0,
+    0.0
+   ],
+   "instr": [
+    31.9,
+    3.4
+   ],
+   "onto": [
+    41.9,
+    36.2
+   ],
+   "magent": [
+    47.8,
+    48.1
+   ],
+   "omni": [
+    70.0,
+    79.8
+   ]
+  }
+ },
+ "euro_sat": {
+  "cupl_gpt54": [
+   16.0,
+   3.5
+  ],
+  "refs": {
+   "attr": [
+    7.5,
+    2.5
+   ],
+   "instr": [
+    35.5,
+    6.5
+   ],
+   "onto": [
+    35.5,
+    24.0
+   ],
+   "magent": [
+    39.5,
+    29.0
+   ],
+   "omni": [
+    51.5,
+    40.5
+   ]
+  }
+ },
+ "dtd": {
+  "cupl_gpt54": [
+   16.1,
+   5.8
+  ],
+  "refs": {
+   "attr": [
+    4.1,
+    13.0
+   ],
+   "instr": [
+    26.9,
+    17.0
+   ],
+   "onto": [
+    29.9,
+    20.7
+   ],
+   "magent": [
+    31.0,
+    17.9
+   ],
+   "omni": [
+    44.9,
+    24.6
+   ]
+  }
+ },
+ "cub": {
+  "cupl_gpt54": [
+   16.0,
+   1.2
+  ],
+  "refs": {
+   "attr": [
+    11.3,
+    0.4
+   ],
+   "instr": [
+    25.9,
+    4.7
+   ],
+   "onto": [
+    32.2,
+    25.5
+   ],
+   "magent": [
+    36.1,
+    35.1
+   ],
+   "omni": [
+    44.6,
+    43.8
+   ]
+  }
+ }
+}

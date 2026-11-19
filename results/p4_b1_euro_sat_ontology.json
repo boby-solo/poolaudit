@@ -1,0 +1,239 @@
+{
+ "Forest": {
+  "lineage": "natural vegetation land",
+  "position": "dense woody vegetation cover dominated by tree canopy",
+  "confusable_siblings": [
+   "Herbaceous Vegetation Land",
+   "Permanent Crop Land",
+   "Pasture Land",
+   "Annual Crop Land"
+  ],
+  "family_visual_attributes": [
+   "vegetation-dominated surfaces with green to dark green tones",
+   "limited presence of roofs, paved surfaces, or other built structures",
+   "soft, irregular natural boundaries rather than rigid geometric parcel edges",
+   "texture created by plant cover rather than bare soil or water smoothness",
+   "spatial patterns that follow terrain or natural drainage more than street grids"
+  ],
+  "distinguishing_visual_attributes": [
+   "dark green, relatively continuous canopy cover with coarse, mottled texture from tree crowns",
+   "few visible internal field divisions or plow/harvest striping compared with crop land",
+   "less uniform and less smooth texture than Herbaceous Vegetation Land or Pasture Land",
+   "absence of regular row patterns typical of Permanent Crop Land orchards or plantations",
+   "larger contiguous wooded patches with shadowed crown structure rather than small agricultural parcels"
+  ]
+ },
+ "Annual Crop Land": {
+  "lineage": "agricultural land",
+  "position": "temporarily cultivated arable fields used for seasonal crops within agricultural land",
+  "confusable_siblings": [
+   "Permanent Crop Land",
+   "Pasture Land",
+   "Herbaceous Vegetation Land",
+   "Forest"
+  ],
+  "family_visual_attributes": [
+   "land divided into distinct field or parcel units with visible boundaries",
+   "strong human-imposed geometric regularity such as rectangular or polygonal plots",
+   "mosaic pattern of adjacent plots with differing tones or textures",
+   "presence of access tracks, farm roads, or drainage/irrigation lines aligned with field edges",
+   "vegetation cover appears managed and spatially organized rather than naturally continuous"
+  ],
+  "distinguishing_visual_attributes": [
+   "plots often show bare soil or mixed soil-vegetation tones due to plowing, sowing, or harvest stages",
+   "fields commonly have uniform fine texture within each parcel but strong variation between neighboring parcels",
+   "lack of the repeated dot/grid pattern of tree crowns typical of Permanent Crop Land",
+   "more regular, sharply bounded cultivated parcels than the broader, less structured grassy expanses of Pasture Land or Herbaceous Vegetation Land",
+   "vegetation canopy is generally low and does not form the dense, continuous dark canopy seen in Forest"
+  ]
+ },
+ "Highway or Road": {
+  "lineage": "urban built-up",
+  "position": "linear transportation infrastructure within built-up land",
+  "confusable_siblings": [
+   "River",
+   "Residential Buildings",
+   "Industrial Buildings",
+   "Herbaceous Vegetation Land"
+  ],
+  "family_visual_attributes": [
+   "strong human-made geometry with straight lines, sharp edges, and regular boundaries",
+   "surfaces often appear gray, white, or dark and relatively non-vegetated compared with surrounding land",
+   "features are spatially organized in planned patterns such as blocks, corridors, or clusters",
+   "high contrast between constructed surfaces and adjacent vegetation or bare ground",
+   "presence of angular intersections, parallel edges, and other engineered layouts"
+  ],
+  "distinguishing_visual_attributes": [
+   "appears as elongated narrow corridors rather than compact building footprints or broad land parcels",
+   "shows continuous linear connectivity across the scene, often linking intersections and branching junctions",
+   "width is fairly uniform over long distances, unlike rivers which vary in width and have meandering edges",
+   "surface texture is smooth and homogeneous with little internal texture compared with building clusters",
+   "often bordered by roadside strips or aligned development, but the road itself remains a thin linear feature rather than an area-filling patch"
+  ]
+ },
+ "Herbaceous Vegetation Land": {
+  "lineage": "natural and semi-natural vegetation land",
+  "position": "non-woody vegetation cover dominated by grasses or low herbaceous plants, typically forming open continuous cover rather than tree canopy or cultivated field patterns",
+  "confusable_siblings": [
+   "Pasture Land",
+   "Annual Crop Land",
+   "Forest",
+   "Permanent Crop Land"
+  ],
+  "family_visual_attributes": [
+   "vegetation-dominated surfaces with green to yellow-brown tones depending on season",
+   "soft, continuous textures rather than roofs, paved surfaces, or open water smoothness",
+   "little to no dense built structure or rectilinear urban block pattern",
+   "broad areal patches of land cover rather than narrow linear corridors",
+   "surface appearance often irregular or naturalistic in shape compared with engineered land parcels"
+  ],
+  "distinguishing_visual_attributes": [
+   "fine, fairly uniform grassy texture without the dark, coarse, shadowed canopy texture typical of Forest",
+   "absence of clear plow lines, row structure, or strongly segmented field blocks seen in Annual Crop Land",
+   "lack of orchard or vineyard striping, evenly spaced planting points, or repeated row geometry seen in Permanent Crop Land",
+   "more natural, unmanaged-looking patch boundaries and less enclosure or paddock subdivision than Pasture Land",
+   "typically open cover with few scattered trees and no dominant woody crown pattern"
+  ]
+ },
+ "Pasture Land": {
+  "lineage": "agricultural land",
+  "position": "grass-dominated grazing land within agricultural land",
+  "confusable_siblings": [
+   "Herbaceous Vegetation Land",
+   "Annual Crop Land",
+   "Permanent Crop Land",
+   "Forest"
+  ],
+  "family_visual_attributes": [
+   "Large contiguous land parcels with visible field or parcel boundaries",
+   "Vegetation cover dominates, with green to yellow-brown tones depending on growth stage",
+   "Human-managed spatial organization, often adjacent to roads, farm tracks, or other fields",
+   "Generally open landscapes with sparse built structures compared with urban classes",
+   "Patch-scale texture is more uniform and intentional than natural water bodies or dense urban areas"
+  ],
+  "distinguishing_visual_attributes": [
+   "Fields show relatively uniform grassy cover with fine, soft texture rather than strong row patterns or plowed striping",
+   "Parcel shapes are often irregular to moderately regular and appear as open grazing enclosures rather than tightly cultivated plots",
+   "Lacks the repeated linear planting geometry typical of Permanent Crop Land and the seasonal bare-soil contrast common in Annual Crop Land",
+   "Usually more homogeneous and managed-looking than Herbaceous Vegetation Land, with clearer field boundaries and less natural patchiness",
+   "Tree cover is sparse or absent across most of the parcel, unlike Forest"
+  ]
+ },
+ "Permanent Crop Land": {
+  "lineage": "agricultural land",
+  "position": "woody perennial cropland arranged in orchards, groves, vineyards, or other regularly planted permanent crop fields",
+  "confusable_siblings": [
+   "Annual Crop Land",
+   "Pasture Land",
+   "Herbaceous Vegetation Land",
+   "Forest"
+  ],
+  "family_visual_attributes": [
+   "Large contiguous parcels with clear field or plot boundaries",
+   "Human-managed geometric patterns such as rectangular, elongated, or terraced plots",
+   "Vegetation cover showing more regularity and uniformity within parcels than natural vegetation",
+   "Presence of internal farm access tracks or straight edge alignments",
+   "Spectral and texture variation organized by parcel rather than irregular natural patchiness"
+  ],
+  "distinguishing_visual_attributes": [
+   "Regularly spaced planting pattern visible as dots, rows, or grid-like tree/vine alignments within fields",
+   "Repeating row texture that is more discrete and structured than the smoother cover of pasture or herbaceous land",
+   "Woody crop canopy appears in organized lines or clusters, unlike the dense continuous canopy of Forest",
+   "Field parcels often contain permanent row orientation that persists across the whole plot, unlike Annual Crop Land which is more often uniform continuous cover without visible tree spacing",
+   "Inter-row bare soil or grass strips may be visible between planted lines, creating alternating banded texture"
+  ]
+ },
+ "Residential Buildings": {
+  "lineage": "urban built-up",
+  "position": "low- to medium-density built structures arranged as housing neighborhoods within the urban built-up category",
+  "confusable_siblings": [
+   "Industrial Buildings",
+   "Highway or Road",
+   "Annual Crop Land",
+   "Permanent Crop Land"
+  ],
+  "family_visual_attributes": [
+   "dominance of man-made geometric forms such as rectangles, straight edges, and right angles",
+   "high proportion of impervious surfaces with gray, white, or dark roofs and paved areas",
+   "dense network of linear access features such as streets and driveways",
+   "parcelized, regular spatial organization rather than irregular natural textures",
+   "sharp boundaries and block-like patterns contrasting with surrounding vegetation or water"
+  ],
+  "distinguishing_visual_attributes": [
+   "many small to medium roof footprints clustered closely together rather than a few very large building blocks",
+   "buildings arranged along local street grids or cul-de-sacs, forming neighborhood blocks",
+   "noticeable mix of roofs, small yards, and scattered trees creating a finer-grained texture than industrial zones",
+   "less extensive open paved lots than Industrial Buildings, with roads serving houses rather than dominating the patch",
+   "pattern lacks the long parallel crop rows or uniform field parcels seen in Annual Crop Land and Permanent Crop Land"
+  ]
+ },
+ "Industrial Buildings": {
+  "lineage": "urban built-up",
+  "position": "large-scale industrial or warehouse building complexes within built-up areas",
+  "confusable_siblings": [
+   "Residential Buildings",
+   "Highway or Road",
+   "Annual Crop Land",
+   "Permanent Crop Land"
+  ],
+  "family_visual_attributes": [
+   "dominance of man-made surfaces with rectilinear geometry",
+   "sharp, regular edges and block-like structures",
+   "extensive impervious cover in gray, white, or dark tones",
+   "organized layouts connected by road networks",
+   "sparse, fragmented vegetation compared with natural or agricultural classes"
+  ],
+  "distinguishing_visual_attributes": [
+   "very large rectangular roof footprints, often in clusters of warehouses or factory halls",
+   "broad paved yards, loading areas, or open storage surfaces surrounding buildings",
+   "buildings spaced farther apart and on larger parcels than the dense small-unit pattern of Residential Buildings",
+   "adjacency to wide access roads and parking lots, but with dominant building masses rather than only linear transport corridors",
+   "absence of the repetitive field rows, crop textures, or orchard grid patterns seen in Annual Crop Land and Permanent Crop Land"
+  ]
+ },
+ "River": {
+  "lineage": "water bodies",
+  "position": "flowing inland watercourse within the water bodies category",
+  "confusable_siblings": [
+   "Sea or Lake",
+   "Highway or Road",
+   "Forest"
+  ],
+  "family_visual_attributes": [
+   "surfaces appear smooth or fine-textured compared with vegetated or built-up areas",
+   "typically darker blue, dark green, or gray tones depending on depth, sediment, and illumination",
+   "boundaries are often sharply contrasted against adjacent land cover",
+   "lack internal roof patterns, crop rows, or dense canopy texture",
+   "often form continuous connected shapes rather than many small discrete objects"
+  ],
+  "distinguishing_visual_attributes": [
+   "long, narrow, elongated shape that traverses the scene rather than forming a broad enclosed basin",
+   "sinuous or branching channel pattern with visible bends and tributary-like connections",
+   "width usually varies gradually along its course instead of staying uniformly engineered",
+   "banks are irregular natural edges rather than straight paved margins or lane-marked surfaces",
+   "commonly bordered by thin strips of riparian vegetation or floodplain land following the channel"
+  ]
+ },
+ "Sea or Lake": {
+  "lineage": "water bodies",
+  "position": "large open inland or coastal water surface within the water bodies category",
+  "confusable_siblings": [
+   "River",
+   "Herbaceous Vegetation Land",
+   "Pasture Land"
+  ],
+  "family_visual_attributes": [
+   "smooth or nearly textureless surface compared with vegetated or built-up areas",
+   "generally uniform dark blue, blue-green, or gray tone across broad areas",
+   "lack of field boundaries, building footprints, or road grid patterns within the water surface",
+   "edges defined by shorelines or banks that sharply separate water from land",
+   "specular brightness or sun-glint patches may appear on parts of the surface"
+  ],
+  "distinguishing_visual_attributes": [
+   "broad contiguous water expanse occupying a large area rather than a narrow elongated channel",
+   "compact, rounded, lobed, or irregular basin/coastal shape instead of a thin meandering linear form",
+   "interior is largely uninterrupted by bars, banks, or frequent crossings that segment the feature",
+   "shoreline encloses or borders a wide open-water area with much greater width-to-length ratio than a river"
+  ]
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "dataset": "aircraft",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_desc_per_class": 20,
+ "cupl_gpt54": {
+  "direct": 9.81,
+  "k1": 19.11,
+  "union_direct": 20.07
+ },
+ "refs": {
+  "incumbent": {
+   "direct": 20.94,
+   "k1": 26.07
+  },
+  "attr": {
+   "direct": 19.2,
+   "k1": 21.84
+  },
+  "onto": {
+   "direct": 20.64,
+   "k1": 22.11,
+   "union_direct": 20.85
+  },
+  "magent": {
+   "direct": 19.98,
+   "k1": 23.43,
+   "union_direct": 21.09
+  },
+  "omni": {
+   "direct": 21.03,
+   "k1": 22.86,
+   "union_direct": 21.18
+  }
+ },
+ "deltas_vs_cupl": {
+  "attr_minus_cupl": {
+   "direct": 9.39,
+   "k1": 2.73
+  },
+  "onto_minus_cupl": {
+   "direct": 10.83,
+   "k1": 3.0
+  },
+  "magent_minus_cupl": {
+   "direct": 10.17,
+   "k1": 4.32
+  },
+  "omni_minus_cupl": {
+   "direct": 11.22,
+   "k1": 3.75
+  }
+ },
+ "note": "cupl_gpt54 = CuPL 协议 + GPT-5.4 + T=0.7 + 条数对齐五臂，single draw；incumbent 为现役参照（早期模型，非公平对比单列）。判读：omni_minus_cupl 大 = record 结构必要；attr_minus_cupl 小 = 属性基线不弱；粗粒度 cupl 反超 = 印证避免结构约束。",
+ "timestamp": "2026-10-14 17:08:13"
+}

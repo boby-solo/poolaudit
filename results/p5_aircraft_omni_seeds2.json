@@ -1,0 +1,78 @@
+{
+ "dataset": "aircraft",
+ "arm": "omni",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 3,
+ "cupl_direct": 20.94,
+ "attr_direct": 19.2,
+ "draws": {
+  "orig": {
+   "direct": 21.03,
+   "k1": 22.86,
+   "union_direct": 21.18,
+   "d_direct_vs_attr": 1.83,
+   "d_direct_vs_cupl": 0.09,
+   "d_union_vs_cupl": 0.24,
+   "p_direct_vs_attr": 0.003883,
+   "p_direct_vs_cupl": 0.931739,
+   "p_union_vs_cupl": 0.705924
+  },
+  "seed1": {
+   "direct": 21.12,
+   "k1": 23.61,
+   "union_direct": 21.99,
+   "d_direct_vs_attr": 1.92,
+   "d_direct_vs_cupl": 0.18,
+   "d_union_vs_cupl": 1.05,
+   "p_direct_vs_attr": 0.002571,
+   "p_direct_vs_cupl": 0.827447,
+   "p_union_vs_cupl": 0.065434
+  },
+  "seed2": {
+   "direct": 20.88,
+   "k1": 23.37,
+   "union_direct": 20.91,
+   "d_direct_vs_attr": 1.68,
+   "d_direct_vs_cupl": -0.06,
+   "d_union_vs_cupl": -0.03,
+   "p_direct_vs_attr": 0.006799,
+   "p_direct_vs_cupl": 0.965424,
+   "p_union_vs_cupl": 1.0
+  }
+ },
+ "summary": {
+  "d_direct_vs_attr": {
+   "values": [
+    1.83,
+    1.92,
+    1.68
+   ],
+   "mean": 1.81,
+   "std": 0.12,
+   "n_positive": "3/3"
+  },
+  "d_direct_vs_cupl": {
+   "values": [
+    0.09,
+    0.18,
+    -0.06
+   ],
+   "mean": 0.07,
+   "std": 0.12,
+   "n_positive": "2/3"
+  },
+  "d_union_vs_cupl": {
+   "values": [
+    0.24,
+    1.05,
+    -0.03
+   ],
+   "mean": 0.42,
+   "std": 0.56,
+   "n_positive": "2/3"
+  }
+ },
+ "note": "多臂种子重采样（本体固定复用）；orig=原始臂池；每draw含配对精确McNemar（vs attr / vs 现役 / union vs 现役）",
+ "timestamp": "2026-10-15 20:08:39"
+}

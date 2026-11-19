@@ -1,0 +1,269 @@
+{
+ "_meta": {
+  "purpose": "qualitative cases: attr pool error repaired by omni pool",
+  "protocol": "CLIP ViT-B/32 cached feats; per-sentence L2 norm -> mean -> L2 norm; logits = 100 * cos; argmax",
+  "alignment": "regen pools use cache 'keys'; base pool uses CuPL json keys (EuroSAT via label_to_category_name.json)",
+  "source": "cache/*.pt + cupl_descriptions/*.json; no API calls",
+  "direct_acc_check": {
+   "aircraft": {
+    "got": [
+     20.94,
+     19.2,
+     20.64,
+     19.98,
+     21.03
+    ],
+    "expected": [
+     20.94,
+     19.2,
+     20.64,
+     19.98,
+     21.03
+    ],
+    "diff": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "ok": true
+   },
+   "euro_sat": {
+    "got": [
+     51.3,
+     46.46,
+     47.56,
+     43.64,
+     45.2
+    ],
+    "expected": [
+     51.3,
+     46.46,
+     47.56,
+     43.64,
+     45.2
+    ],
+    "diff": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "ok": true
+   },
+   "dtd": {
+    "got": [
+     50.11,
+     51.65,
+     50.16,
+     51.49,
+     48.72
+    ],
+    "expected": [
+     50.11,
+     51.65,
+     50.16,
+     51.49,
+     48.72
+    ],
+    "diff": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "ok": true
+   },
+   "cub": {
+    "got": [
+     52.93,
+     51.73,
+     52.28,
+     50.79,
+     52.09
+    ],
+    "expected": [
+     52.93,
+     51.73,
+     52.28,
+     50.79,
+     52.09
+    ],
+    "diff": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    "ok": true
+   }
+  },
+  "all_20_match": true
+ },
+ "aircraft": {
+  "dataset": "Aircraft",
+  "image_path": "fgvc_aircraft/fgvc-aircraft/data/images/1567619.jpg",
+  "image_path_abs": "e:/ProAPO-main/data/dataset/fgvc_aircraft/fgvc-aircraft/data/images/1567619.jpg",
+  "test_index": 2748,
+  "true_class": "Hawk T1",
+  "predictions": {
+   "base": "Hawk T1",
+   "attr": "Tornado",
+   "onto": "Hawk T1",
+   "magent": "Hawk T1",
+   "omni": "Hawk T1"
+  },
+  "prediction_correct": {
+   "base": true,
+   "attr": false,
+   "onto": true,
+   "magent": true,
+   "omni": true
+  },
+  "omni_naming_sentence": "Hawk T1 has a simpler, lighter-looking airframe than the bulkier frontline fighter shapes of the F-16A/B, Tornado, or Eurofighter Typhoon.",
+  "omni_sentence_index": 15,
+  "named_classes": [
+   "Eurofighter Typhoon",
+   "F-16A/B",
+   "Tornado"
+  ],
+  "sentence_mentions_attr_prediction": true,
+  "selection_rule": "omni_correct_attr_wrong",
+  "selection_note": "omni 对 & attr 错；优先点名 attr 误判类的句子，其次 logit 裕度",
+  "n_omni_correct_attr_wrong": 247,
+  "n_omni_correct_attr_wrong_in_class": 15,
+  "omni_margin": 3.037,
+  "image_feature_cos_check": 1.0,
+  "direct_acc": {
+   "base": 20.94,
+   "attr": 19.2,
+   "onto": 20.64,
+   "magent": 19.98,
+   "omni": 21.03
+  }
+ },
+ "euro_sat": {
+  "dataset": "EuroSAT",
+  "image_path": "euro_sat/eurosat/2750/Residential/Residential_2090.jpg",
+  "image_path_abs": "e:/ProAPO-main/data/dataset/euro_sat/eurosat/2750/Residential/Residential_2090.jpg",
+  "test_index": 5729,
+  "true_class": "Residential Buildings",
+  "predictions": {
+   "base": "Residential Buildings",
+   "attr": "Annual Crop Land",
+   "onto": "Residential Buildings",
+   "magent": "Residential Buildings",
+   "omni": "Residential Buildings"
+  },
+  "prediction_correct": {
+   "base": true,
+   "attr": false,
+   "onto": true,
+   "magent": true,
+   "omni": true
+  },
+  "omni_naming_sentence": "Residential Buildings lack the uniform field parcels and long straight row structure seen in Annual Crop Land.",
+  "omni_sentence_index": 19,
+  "named_classes": [
+   "Annual Crop Land"
+  ],
+  "sentence_mentions_attr_prediction": true,
+  "selection_rule": "omni_correct_attr_wrong",
+  "selection_note": "omni 对 & attr 错；优先点名 attr 误判类的句子，其次 logit 裕度",
+  "n_omni_correct_attr_wrong": 315,
+  "n_omni_correct_attr_wrong_in_class": 56,
+  "omni_margin": 1.36,
+  "image_feature_cos_check": 0.985475,
+  "direct_acc": {
+   "base": 51.3,
+   "attr": 46.46,
+   "onto": 47.56,
+   "magent": 43.64,
+   "omni": 45.2
+  }
+ },
+ "dtd": {
+  "dataset": "DTD",
+  "image_path": "dtd/dtd/images/honeycombed/honeycombed_0066.jpg",
+  "image_path_abs": "e:/ProAPO-main/data/dataset/dtd/dtd/images/honeycombed/honeycombed_0066.jpg",
+  "test_index": 724,
+  "true_class": "honeycombed",
+  "predictions": {
+   "base": "honeycombed",
+   "attr": "grid",
+   "onto": "honeycombed",
+   "magent": "honeycombed",
+   "omni": "honeycombed"
+  },
+  "prediction_correct": {
+   "base": true,
+   "attr": false,
+   "onto": true,
+   "magent": true,
+   "omni": true
+  },
+  "omni_naming_sentence": "honeycombed has a cellular pattern of enclosed chambers rather than open grid lines.",
+  "omni_sentence_index": 35,
+  "named_classes": [
+   "grid"
+  ],
+  "sentence_mentions_attr_prediction": true,
+  "selection_rule": "omni_correct_attr_wrong",
+  "selection_note": "omni 对 & attr 错；优先点名 attr 误判类的句子，其次 logit 裕度",
+  "n_omni_correct_attr_wrong": 62,
+  "n_omni_correct_attr_wrong_in_class": 4,
+  "omni_margin": 1.048,
+  "image_feature_cos_check": 1.0,
+  "direct_acc": {
+   "base": 50.11,
+   "attr": 51.65,
+   "onto": 50.16,
+   "magent": 51.49,
+   "omni": 48.72
+  }
+ },
+ "cub": {
+  "dataset": "CUB",
+  "image_path": "cub/CUB_200_2011/images/098.Scott_Oriole/Scott_Oriole_0073_92369.jpg",
+  "image_path_abs": "e:/ProAPO-main/data/dataset/cub/CUB_200_2011/images/098.Scott_Oriole/Scott_Oriole_0073_92369.jpg",
+  "test_index": 2798,
+  "true_class": "Scott Oriole",
+  "predictions": {
+   "base": "Scott Oriole",
+   "attr": "Hooded Oriole",
+   "onto": "Scott Oriole",
+   "magent": "Scott Oriole",
+   "omni": "Scott Oriole"
+  },
+  "prediction_correct": {
+   "base": true,
+   "attr": false,
+   "onto": true,
+   "magent": true,
+   "omni": true
+  },
+  "omni_naming_sentence": "Scott Oriole shows the entire hood staying black, unlike Hooded Oriole where the face is not fully black.",
+  "omni_sentence_index": 29,
+  "named_classes": [
+   "Hooded Oriole"
+  ],
+  "sentence_mentions_attr_prediction": true,
+  "selection_rule": "omni_correct_attr_wrong",
+  "selection_note": "omni 对 & attr 错；优先点名 attr 误判类的句子，其次 logit 裕度；剔除图内嵌说明文字的候选",
+  "n_omni_correct_attr_wrong": 283,
+  "n_omni_correct_attr_wrong_in_class": 11,
+  "omni_margin": 1.511,
+  "image_feature_cos_check": 1.0,
+  "direct_acc": {
+   "base": 52.93,
+   "attr": 51.73,
+   "onto": 52.28,
+   "magent": 50.79,
+   "omni": 52.09
+  }
+ }
+}

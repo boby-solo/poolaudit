@@ -1,0 +1,106 @@
+{
+ "dataset": "cub",
+ "arm": "onto",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 5,
+ "cupl_direct": 52.93,
+ "attr_direct": 51.73,
+ "draws": {
+  "orig": {
+   "direct": 52.28,
+   "k1": 58.99,
+   "union_direct": 54.0,
+   "d_direct_vs_attr": 0.55,
+   "d_direct_vs_cupl": -0.66,
+   "d_union_vs_cupl": 1.07,
+   "p_direct_vs_attr": 0.117297,
+   "p_direct_vs_cupl": 0.182936,
+   "p_union_vs_cupl": 0.002425
+  },
+  "seed1": {
+   "direct": 52.42,
+   "k1": 57.01,
+   "union_direct": 53.8,
+   "d_direct_vs_attr": 0.69,
+   "d_direct_vs_cupl": -0.52,
+   "d_union_vs_cupl": 0.86,
+   "p_direct_vs_attr": 0.049879,
+   "p_direct_vs_cupl": 0.301562,
+   "p_union_vs_cupl": 0.01517
+  },
+  "seed2": {
+   "direct": 51.71,
+   "k1": 57.54,
+   "union_direct": 53.71,
+   "d_direct_vs_attr": -0.02,
+   "d_direct_vs_cupl": -1.23,
+   "d_union_vs_cupl": 0.78,
+   "p_direct_vs_attr": 1.0,
+   "p_direct_vs_cupl": 0.012878,
+   "p_union_vs_cupl": 0.029059
+  },
+  "seed3": {
+   "direct": 52.59,
+   "k1": 58.7,
+   "union_direct": 54.02,
+   "d_direct_vs_attr": 0.86,
+   "d_direct_vs_cupl": -0.35,
+   "d_union_vs_cupl": 1.09,
+   "p_direct_vs_attr": 0.017226,
+   "p_direct_vs_cupl": 0.495781,
+   "p_union_vs_cupl": 0.002299
+  },
+  "seed4": {
+   "direct": 52.49,
+   "k1": 58.72,
+   "union_direct": 54.12,
+   "d_direct_vs_attr": 0.76,
+   "d_direct_vs_cupl": -0.45,
+   "d_union_vs_cupl": 1.19,
+   "p_direct_vs_attr": 0.037095,
+   "p_direct_vs_cupl": 0.366383,
+   "p_union_vs_cupl": 0.000605
+  }
+ },
+ "summary": {
+  "d_direct_vs_attr": {
+   "values": [
+    0.55,
+    0.69,
+    -0.02,
+    0.86,
+    0.76
+   ],
+   "mean": 0.57,
+   "std": 0.35,
+   "n_positive": "4/5"
+  },
+  "d_direct_vs_cupl": {
+   "values": [
+    -0.66,
+    -0.52,
+    -1.23,
+    -0.35,
+    -0.45
+   ],
+   "mean": -0.64,
+   "std": 0.35,
+   "n_positive": "0/5"
+  },
+  "d_union_vs_cupl": {
+   "values": [
+    1.07,
+    0.86,
+    0.78,
+    1.09,
+    1.19
+   ],
+   "mean": 1.0,
+   "std": 0.17,
+   "n_positive": "5/5"
+  }
+ },
+ "note": "多臂种子重采样（本体固定复用）；orig=原始臂池；每draw含配对精确McNemar（vs attr / vs 现役 / union vs 现役）",
+ "timestamp": "2026-10-15 21:08:51"
+}

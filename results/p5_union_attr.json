@@ -1,0 +1,13 @@
+{
+ "description": "union(incumbent+attr) direct accuracy, computed 2026-10-10 to fill the attr row of Table 3 (review request B2); same pipeline as p4_b1_feas stage eval (per-class interleaved concatenation, label-idx aligned, mean prototypes)",
+ "aircraft": 20.46,
+ "euro_sat": 51.25,
+ "dtd": 51.54,
+ "cub": 53.54,
+ "gain_vs_cupl": {
+  "aircraft": -0.48,
+  "euro_sat": -0.05,
+  "dtd": 1.43,
+  "cub": 0.61
+ }
+}

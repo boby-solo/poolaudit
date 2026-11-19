@@ -1,0 +1,35 @@
+{
+ "dataset": "dtd",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "attrrel": {
+  "direct": 49.47,
+  "k1": 57.55,
+  "union_direct": 50.96
+ },
+ "attr": {
+  "direct": 51.65,
+  "k1": 59.57
+ },
+ "onto": {
+  "direct": 50.16,
+  "k1": 54.57,
+  "union_direct": 51.97
+ },
+ "decomposition_vs_attr": {
+  "instruction_only (attrrel-attr)": {
+   "direct": -2.18,
+   "k1": -2.02
+  },
+  "record_on_top (onto-attrrel)": {
+   "direct": 0.69,
+   "k1": -2.98
+  },
+  "full_structure (onto-attr)": {
+   "direct": -1.49,
+   "k1": -5.0
+  }
+ },
+ "note": "attrrel = attr drafter + relational instruction, no record；判读：instruction_only 大 = 增益主要来自指令；record_on_top 大 = 记录的知识必要",
+ "timestamp": "2026-10-10 11:01:19"
+}

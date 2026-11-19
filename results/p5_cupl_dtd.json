@@ -1,0 +1,56 @@
+{
+ "dataset": "dtd",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_desc_per_class": 60,
+ "cupl_gpt54": {
+  "direct": 40.64,
+  "k1": 53.51,
+  "union_direct": 46.97
+ },
+ "refs": {
+  "incumbent": {
+   "direct": 50.11,
+   "k1": 59.57
+  },
+  "attr": {
+   "direct": 51.65,
+   "k1": 59.57
+  },
+  "onto": {
+   "direct": 50.16,
+   "k1": 54.57,
+   "union_direct": 51.97
+  },
+  "magent": {
+   "direct": 51.49,
+   "k1": 57.98,
+   "union_direct": 52.18
+  },
+  "omni": {
+   "direct": 48.72,
+   "k1": 55.53,
+   "union_direct": 50.9
+  }
+ },
+ "deltas_vs_cupl": {
+  "attr_minus_cupl": {
+   "direct": 11.01,
+   "k1": 6.06
+  },
+  "onto_minus_cupl": {
+   "direct": 9.52,
+   "k1": 1.06
+  },
+  "magent_minus_cupl": {
+   "direct": 10.85,
+   "k1": 4.47
+  },
+  "omni_minus_cupl": {
+   "direct": 8.08,
+   "k1": 2.02
+  }
+ },
+ "note": "cupl_gpt54 = CuPL 协议 + GPT-5.4 + T=0.7 + 条数对齐五臂，single draw；incumbent 为现役参照（早期模型，非公平对比单列）。判读：omni_minus_cupl 大 = record 结构必要；attr_minus_cupl 小 = 属性基线不弱；粗粒度 cupl 反超 = 印证避免结构约束。",
+ "timestamp": "2026-10-14 17:19:05"
+}

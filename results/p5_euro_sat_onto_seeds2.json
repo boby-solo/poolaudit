@@ -1,0 +1,78 @@
+{
+ "dataset": "euro_sat",
+ "arm": "onto",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 3,
+ "cupl_direct": 51.3,
+ "attr_direct": 46.46,
+ "draws": {
+  "orig": {
+   "direct": 47.56,
+   "k1": 51.98,
+   "union_direct": 51.4,
+   "d_direct_vs_attr": 1.1,
+   "d_direct_vs_cupl": -3.74,
+   "d_union_vs_cupl": 0.1,
+   "p_direct_vs_attr": 0.000921,
+   "p_direct_vs_cupl": 0.0,
+   "p_union_vs_cupl": 0.713748
+  },
+  "seed1": {
+   "direct": 47.0,
+   "k1": 50.94,
+   "union_direct": 51.22,
+   "d_direct_vs_attr": 0.54,
+   "d_direct_vs_cupl": -4.3,
+   "d_union_vs_cupl": -0.07,
+   "p_direct_vs_attr": 0.101069,
+   "p_direct_vs_cupl": 0.0,
+   "p_union_vs_cupl": 0.804997
+  },
+  "seed2": {
+   "direct": 41.99,
+   "k1": 52.85,
+   "union_direct": 51.49,
+   "d_direct_vs_attr": -4.47,
+   "d_direct_vs_cupl": -9.31,
+   "d_union_vs_cupl": 0.2,
+   "p_direct_vs_attr": 0.0,
+   "p_direct_vs_cupl": 0.0,
+   "p_union_vs_cupl": 0.363108
+  }
+ },
+ "summary": {
+  "d_direct_vs_attr": {
+   "values": [
+    1.1,
+    0.54,
+    -4.47
+   ],
+   "mean": -0.94,
+   "std": 3.07,
+   "n_positive": "2/3"
+  },
+  "d_direct_vs_cupl": {
+   "values": [
+    -3.74,
+    -4.3,
+    -9.31
+   ],
+   "mean": -5.78,
+   "std": 3.07,
+   "n_positive": "0/3"
+  },
+  "d_union_vs_cupl": {
+   "values": [
+    0.1,
+    -0.07,
+    0.2
+   ],
+   "mean": 0.08,
+   "std": 0.14,
+   "n_positive": "2/3"
+  }
+ },
+ "note": "多臂种子重采样（本体固定复用）；orig=原始臂池；每draw含配对精确McNemar（vs attr / vs 现役 / union vs 现役）",
+ "timestamp": "2026-10-15 16:12:41"
+}

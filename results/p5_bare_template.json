@@ -1,0 +1,26 @@
+{
+ "protocol": "单一手写模板；CLIP ViT-B/32 冻结；L2 归一文本特征即类原型；缓存图像特征直评。与 d1_baseline.json（CUB 52.78）同口径。",
+ "templates": {
+  "aircraft": "a photo of a {}, a type of aircraft.",
+  "euro_sat": "a photo of a {}, a type of satellite image.",
+  "dtd": "a photo of a {} texture.",
+  "cub": "a photo of a {}, a type of bird."
+ },
+ "timestamp": "2026-10-15 21:50:14",
+ "aircraft": {
+  "top1": 18.96,
+  "n_classes": 100
+ },
+ "euro_sat": {
+  "top1": 42.32,
+  "n_classes": 10
+ },
+ "dtd": {
+  "top1": 42.45,
+  "n_classes": 47
+ },
+ "cub": {
+  "top1": 52.78,
+  "n_classes": 200
+ }
+}

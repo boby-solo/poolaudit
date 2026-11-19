@@ -1,0 +1,83 @@
+{
+ "dataset": "aircraft",
+ "tag": "qwen_max",
+ "model": "qwen-max",
+ "temperature": 0.7,
+ "n_desc_per_class": 20,
+ "n_classes": 100,
+ "n_test": 3333,
+ "arms": {
+  "attr": {
+   "direct": 18.57,
+   "k1": 21.33,
+   "union_direct": 20.37,
+   "desc_per_class": {
+    "min": 20,
+    "mean": 20.0,
+    "max": 20
+   }
+  },
+  "cupl": {
+   "direct": 15.21,
+   "k1": 19.71,
+   "union_direct": 19.65,
+   "desc_per_class": {
+    "min": 20,
+    "mean": 20.0,
+    "max": 20
+   }
+  }
+ },
+ "refs": {
+  "incumbent": {
+   "direct": 20.94,
+   "k1": 26.07
+  },
+  "attr_gpt54": {
+   "direct": 19.2,
+   "k1": 21.84
+  },
+  "cupl_gpt54": {
+   "direct": 9.81,
+   "k1": 19.11,
+   "union_direct": 20.07
+  },
+  "bare_template": 18.96
+ },
+ "gaps": {
+  "protocol_m2": 3.36,
+  "protocol_gpt54": 9.39,
+  "model_attr": -0.63,
+  "model_cupl": 5.4,
+  "attr_m2_minus_incumbent": -2.37,
+  "cupl_m2_minus_incumbent": -5.73,
+  "cupl_m2_minus_bare": -3.75
+ },
+ "mcnemar": {
+  "attr_m2_vs_cupl_m2": {
+   "n01": 357,
+   "n10": 245,
+   "p_exact": 6e-06,
+   "delta_pt": -3.36
+  },
+  "attr_gpt54_vs_cupl_gpt54": {
+   "n01": 518,
+   "n10": 205,
+   "p_exact": 0.0,
+   "delta_pt": -9.39
+  },
+  "attr_m2_vs_attr_gpt54": {
+   "n01": 132,
+   "n10": 111,
+   "p_exact": 0.199393,
+   "delta_pt": -0.63
+  },
+  "cupl_m2_vs_cupl_gpt54": {
+   "n01": 220,
+   "n10": 400,
+   "p_exact": 0.0,
+   "delta_pt": 5.4
+  }
+ },
+ "timestamp": "2026-10-22 00:34:04"
+}

@@ -1,0 +1,106 @@
+{
+  "aircraft": {
+    "vs_attr": {
+      "n01_ctrl_right_cupl_wrong": 518,
+      "n10_ctrl_wrong_cupl_right": 205,
+      "p_exact": 0.0,
+      "delta_pt": -9.39
+    },
+    "vs_omni": {
+      "n01_ctrl_right_cupl_wrong": 575,
+      "n10_ctrl_wrong_cupl_right": 201,
+      "p_exact": 0.0,
+      "delta_pt": -11.22
+    },
+    "vs_incumbent": {
+      "n01_ctrl_right_cupl_wrong": 541,
+      "n10_ctrl_wrong_cupl_right": 170,
+      "p_exact": 0.0,
+      "delta_pt": -11.13
+    },
+    "acc": {
+      "cupl_gpt54": 9.81,
+      "attr": 19.2,
+      "omni": 21.03,
+      "incumbent": 20.94
+    }
+  },
+  "euro_sat": {
+    "vs_attr": {
+      "n01_ctrl_right_cupl_wrong": 1949,
+      "n10_ctrl_wrong_cupl_right": 754,
+      "p_exact": 0.0,
+      "delta_pt": -14.76
+    },
+    "vs_omni": {
+      "n01_ctrl_right_cupl_wrong": 1879,
+      "n10_ctrl_wrong_cupl_right": 786,
+      "p_exact": 0.0,
+      "delta_pt": -13.5
+    },
+    "vs_incumbent": {
+      "n01_ctrl_right_cupl_wrong": 2124,
+      "n10_ctrl_wrong_cupl_right": 537,
+      "p_exact": 0.0,
+      "delta_pt": -19.6
+    },
+    "acc": {
+      "cupl_gpt54": 31.7,
+      "attr": 46.46,
+      "omni": 45.2,
+      "incumbent": 51.3
+    }
+  },
+  "dtd": {
+    "vs_attr": {
+      "n01_ctrl_right_cupl_wrong": 326,
+      "n10_ctrl_wrong_cupl_right": 119,
+      "p_exact": 0.0,
+      "delta_pt": -11.01
+    },
+    "vs_omni": {
+      "n01_ctrl_right_cupl_wrong": 299,
+      "n10_ctrl_wrong_cupl_right": 147,
+      "p_exact": 0.0,
+      "delta_pt": -8.08
+    },
+    "vs_incumbent": {
+      "n01_ctrl_right_cupl_wrong": 300,
+      "n10_ctrl_wrong_cupl_right": 122,
+      "p_exact": 0.0,
+      "delta_pt": -9.47
+    },
+    "acc": {
+      "cupl_gpt54": 40.64,
+      "attr": 51.65,
+      "omni": 48.72,
+      "incumbent": 50.11
+    }
+  },
+  "cub": {
+    "vs_attr": {
+      "n01_ctrl_right_cupl_wrong": 2420,
+      "n10_ctrl_wrong_cupl_right": 205,
+      "p_exact": 0.0,
+      "delta_pt": -38.23
+    },
+    "vs_omni": {
+      "n01_ctrl_right_cupl_wrong": 2463,
+      "n10_ctrl_wrong_cupl_right": 227,
+      "p_exact": 0.0,
+      "delta_pt": -38.59
+    },
+    "vs_incumbent": {
+      "n01_ctrl_right_cupl_wrong": 2480,
+      "n10_ctrl_wrong_cupl_right": 195,
+      "p_exact": 0.0,
+      "delta_pt": -39.43
+    },
+    "acc": {
+      "cupl_gpt54": 13.5,
+      "attr": 51.73,
+      "omni": 52.09,
+      "incumbent": 52.93
+    }
+  }
+}

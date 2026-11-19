@@ -1,0 +1,67 @@
+{
+ "dataset": "aircraft",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 3,
+ "attr": {
+  "direct": 19.2,
+  "k1": 21.84
+ },
+ "draws": {
+  "orig": {
+   "direct": 20.64,
+   "k1": 22.11,
+   "union_direct": 20.85
+  },
+  "seed1": {
+   "direct": 19.74,
+   "k1": 22.59,
+   "union_direct": 21.06
+  },
+  "seed2": {
+   "direct": 19.89,
+   "k1": 23.1,
+   "union_direct": 20.82
+  }
+ },
+ "structure_effect": {
+  "direct_vs_attr": {
+   "values": [
+    1.44,
+    0.54,
+    0.69
+   ],
+   "mean": 0.89,
+   "std": 0.48,
+   "min": 0.54,
+   "max": 1.44,
+   "same_sign_as_first": "3/3"
+  },
+  "k1_vs_attr": {
+   "values": [
+    0.27,
+    0.75,
+    1.26
+   ],
+   "mean": 0.76,
+   "std": 0.5,
+   "min": 0.27,
+   "max": 1.26,
+   "same_sign_as_first": "3/3"
+  },
+  "union_vs_attr": {
+   "values": [
+    0.39,
+    0.6,
+    0.36
+   ],
+   "mean": 0.45,
+   "std": 0.13,
+   "min": 0.36,
+   "max": 0.6,
+   "same_sign_as_first": "3/3"
+  }
+ },
+ "note": "onto 生成重复采样（本体固定复用）；draw orig=p4_b1_feas 原始onto 池；结构效应=onto-attr（direct/k1）或 union-union(attr)（参照 p5_union_attr.json）；same_sign_as_first=各 draw 与首个draw 同号的比例",
+ "timestamp": "2026-10-09 23:38:35"
+}

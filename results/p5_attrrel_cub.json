@@ -1,0 +1,35 @@
+{
+ "dataset": "cub",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "attrrel": {
+  "direct": 51.92,
+  "k1": 57.63,
+  "union_direct": 53.64
+ },
+ "attr": {
+  "direct": 51.73,
+  "k1": 57.77
+ },
+ "onto": {
+  "direct": 52.28,
+  "k1": 58.99,
+  "union_direct": 54.0
+ },
+ "decomposition_vs_attr": {
+  "instruction_only (attrrel-attr)": {
+   "direct": 0.19,
+   "k1": -0.14
+  },
+  "record_on_top (onto-attrrel)": {
+   "direct": 0.36,
+   "k1": 1.36
+  },
+  "full_structure (onto-attr)": {
+   "direct": 0.55,
+   "k1": 1.22
+  }
+ },
+ "note": "attrrel = attr drafter + relational instruction, no record；判读：instruction_only 大 = 增益主要来自指令；record_on_top 大 = 记录的知识必要",
+ "timestamp": "2026-10-10 11:23:26"
+}

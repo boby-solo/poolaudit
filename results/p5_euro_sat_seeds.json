@@ -1,0 +1,67 @@
+{
+ "dataset": "euro_sat",
+ "model": "gpt-5.4",
+ "temperature": 0.7,
+ "n_draws": 3,
+ "attr": {
+  "direct": 46.46,
+  "k1": 56.16
+ },
+ "draws": {
+  "orig": {
+   "direct": 47.56,
+   "k1": 51.98,
+   "union_direct": 51.4
+  },
+  "seed1": {
+   "direct": 47.0,
+   "k1": 50.94,
+   "union_direct": 51.22
+  },
+  "seed2": {
+   "direct": 41.99,
+   "k1": 52.85,
+   "union_direct": 51.49
+  }
+ },
+ "structure_effect": {
+  "direct_vs_attr": {
+   "values": [
+    1.1,
+    0.54,
+    -4.47
+   ],
+   "mean": -0.94,
+   "std": 3.07,
+   "min": -4.47,
+   "max": 1.1,
+   "same_sign_as_first": "2/3"
+  },
+  "k1_vs_attr": {
+   "values": [
+    -4.18,
+    -5.22,
+    -3.31
+   ],
+   "mean": -4.24,
+   "std": 0.96,
+   "min": -5.22,
+   "max": -3.31,
+   "same_sign_as_first": "3/3"
+  },
+  "union_vs_attr": {
+   "values": [
+    0.15,
+    -0.03,
+    0.24
+   ],
+   "mean": 0.12,
+   "std": 0.14,
+   "min": -0.03,
+   "max": 0.24,
+   "same_sign_as_first": "2/3"
+  }
+ },
+ "note": "onto 生成重复采样（本体固定复用）；draw orig=p4_b1_feas 原始onto 池；结构效应=onto-attr（direct/k1）或 union-union(attr)（参照 p5_union_attr.json）；same_sign_as_first=各 draw 与首个draw 同号的比例",
+ "timestamp": "2026-10-10 09:02:04"
+}

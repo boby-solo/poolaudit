@@ -1,0 +1,2665 @@
+{
+ "737-300": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "737-400",
+   "737-500",
+   "737-200",
+   "737-600"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines on a low-slung narrow-body fuselage",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Short to medium-length fuselage with a cylindrical cross-section typical of single-aisle jetliners",
+   "Swept low wing with one engine mounted under each wing",
+   "Main landing gear relatively short, giving the aircraft a characteristically low stance on the ground",
+   "Classic 737 family nose and cockpit profile with a rounded nose and compact flightdeck area"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than the 737-500 but clearly shorter than the 737-400",
+   "Uses the Classic-series larger CFM56 nacelles with flattened lower engine inlets, unlike the 737-200",
+   "Lacks the eyebrow cockpit windows seen on many older 737-200 aircraft",
+   "Shorter fuselage and generally fewer window bays than the 737-600",
+   "Classic 737 proportions with a less stretched look than the 737-400"
+  ]
+ },
+ "737-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1960s",
+  "confusable_siblings": [
+   "737-300",
+   "737-400",
+   "737-500",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines on a low-mounted swept wing",
+   "Conventional tail with a single vertical fin and low horizontal stabilizers",
+   "Short-to-medium narrow-body fuselage with one passenger deck",
+   "Main landing gear housed in visible fuselage-side fairings rather than large wing-body pods",
+   "Rounded nose profile with classic Boeing narrow-body cockpit window shape",
+   "Engines mounted relatively close to the wing and fuselage, giving the aircraft a low-slung stance"
+  ],
+  "distinguishing_visual_attributes": [
+   "Uses older small-diameter, nearly circular turbofan nacelles rather than the flatter-bottomed nacelles seen on later 737 Classics and NG variants",
+   "Has fewer overwing emergency exits than the longer 737-300 and 737-400, reflecting its shorter fuselage",
+   "Fuselage is longer than the very short 737-500 but noticeably shorter than the 737-300 and especially the 737-400",
+   "Unlike the Boeing 717, its engines are under the wings rather than mounted on the rear fuselage",
+   "Often shows a more classic early-737 look with simpler, more compact engine/wing proportions than later 737 family members"
+  ]
+ },
+ "707-320": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 707 four-engine narrow-body jet airliner family",
+  "role": "four-engine narrow-body airliner",
+  "era": "1950s",
+  "confusable_siblings": [
+   "DC-8",
+   "720",
+   "707-320",
+   "Il-76"
+  ],
+  "family_visual_attributes": [
+   "Long, slender narrow-body fuselage with a classic early-jet profile",
+   "Four turbojet/turbofan engines mounted in individual pods under swept low wings",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "Distinctive 1950s-style pointed nose and relatively small cockpit windshield area",
+   "Main landing gear housed in fuselage/body fairings rather than large wing-root pods",
+   "No upper-deck hump or twin-aisle-width fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than the shorter 720, giving a more stretched appearance",
+   "Typically has noticeably larger inboard and outboard engine nacelles than many early pure-jet 707/DC-8-era aircraft due to turbofan installations",
+   "Vertical fin often appears slightly taller and more substantial than on the shorter 720",
+   "Lacks the very broad military cargo fuselage, high wing, and T-tail of the Il-76",
+   "Compared with the DC-8, the 707-320 usually shows a more curved fin/rudder profile and more pronounced fuselage landing-gear fairing shape"
+  ]
+ },
+ "727-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 727 trijet narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1960s",
+  "confusable_siblings": [
+   "737-200",
+   "DC-9-30",
+   "MD-80",
+   "Tu-154"
+  ],
+  "family_visual_attributes": [
+   "Three rear-mounted turbofan engines, with one engine fed by a central S-duct intake at the base of the vertical tail",
+   "T-tail configuration with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings on a narrow-body fuselage",
+   "Main landing gear housed in prominent fuselage-side fairings/sponsons near the wing root",
+   "Classic short-to-medium range jet proportions with a relatively pointed nose and clean cylindrical fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than the original 727, giving a more stretched look than similar rear-engined trijets",
+   "More cabin windows and greater distance between the front and rear doors than on shorter comparable types",
+   "Single central tail intake combined with two side-mounted rear engines distinguishes it from twin-engined DC-9/MD-80 family aircraft",
+   "Less bulky and generally smaller-looking than a Tu-154, with a simpler narrow-body airliner profile"
+  ]
+ },
+ "737-600": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 Next Generation narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "737-700",
+   "737-500",
+   "737-800",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines mounted close to the fuselage",
+   "Low-slung narrow-body fuselage with engines appearing relatively close to the ground",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Swept low wing with one engine under each wing",
+   "Short to medium haul jetliner proportions with a single aisle cabin cross-section",
+   "737 Next Generation family typically has a taller vertical tail and more swept wing than earlier 737 Classics"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shortest fuselage in the 737 Next Generation family, noticeably shorter than the 737-700, 737-800, and 737-900",
+   "Longer than the 737-500, with NG-style more swept wings and generally taller fin than the Classic-series 737s",
+   "Lacks the rear fuselage-mounted engines of the Boeing 717, instead having underwing engines",
+   "Compact fuselage paired with relatively large NG wing and tail surfaces, giving a stubby appearance compared with the 737-700 and 737-800"
+  ]
+ },
+ "737-400": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "737-300",
+   "737-500",
+   "737-200",
+   "737-600"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines on a low-slung narrow-body fuselage",
+   "conventional tail with a single vertical stabilizer and low-mounted horizontal stabilizers",
+   "short-to-medium fuselage with a single passenger deck and six-abreast cabin cross-section",
+   "main landing gear housed in pods/fairings at the lower fuselage rather than fully retracting flush into the wing roots",
+   "relatively short nose gear giving the aircraft a low stance on the ground",
+   "swept low wing with engines mounted close beneath the wing"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the 737-300 and clearly longer than the 737-500, with more cabin windows ahead of and behind the wing",
+   "CFM56 engines with flattened lower nacelles, unlike the rounder JT8D nacelles on the 737-200",
+   "classic 737 cockpit windows and nose shape, unlike the more modern-looking 737-600",
+   "one overwing exit per side, matching the mid-length Classic fuselage rather than the shortest 737-500",
+   "proportions appear as a stretched Classic 737, but not as long as the later 737-800/900 generation"
+  ]
+ },
+ "737-500": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "737-300",
+   "737-400",
+   "737-600",
+   "737-200"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing engines on a low-slung narrow-body fuselage",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Short-to-medium span swept wings with one engine mounted under each wing",
+   "Low ground clearance, with engines appearing close to the ground",
+   "Single-deck fuselage with a circular cross-section and standard jet airliner nose profile",
+   "Main landing gear housed in the fuselage belly area rather than large wing-body fairing pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "Short fuselage length within the classic 737 family, clearly shorter than the 737-400 and somewhat shorter than the 737-300",
+   "CFM56 engines with flattened lower nacelles, distinguishing it from the 737-200's more circular older engines",
+   "Classic 737 flight deck windows and nose shape, unlike the newer-looking 737-600",
+   "Overwing exit arrangement and cabin window count consistent with a short classic 737, with fewer windows than the 737-300 and especially the 737-400"
+  ]
+ },
+ "737-700": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 Next Generation narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "737-600",
+   "737-800",
+   "737-500",
+   "737-300"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines mounted close to the wing and low to the ground",
+   "Single vertical tail with conventional low-mounted horizontal stabilizers",
+   "Narrow-body fuselage with one passenger deck and six-abreast cabin cross-section",
+   "Swept low wing with one engine under each wing",
+   "Main landing gear housed in fuselage fairings with no large wing-root gear pods",
+   "Short-to-medium haul jet proportions, generally smaller and lower-slung than wide-body Boeing airliners"
+  ],
+  "distinguishing_visual_attributes": [
+   "Fuselage length is intermediate within the 737 family: visibly longer than the 737-600 and 737-500, but shorter than the 737-800",
+   "As a Next Generation 737, it has a taller vertical tail and more refined, more swept wing appearance than the earlier 737-300 and 737-500",
+   "Usually has a smaller number of cabin windows and door spacing than the longer 737-800, giving a more compact look",
+   "Compared with the 737-300, the engine nacelles look more rounded and larger rather than the flatter-bottom classic 737 style",
+   "Compared with the 737-600, the fuselage stretch is clearly noticeable ahead of and behind the wing"
+  ]
+ },
+ "747-100": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 747 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "747-200",
+   "747-300",
+   "747-400"
+  ],
+  "family_visual_attributes": [
+   "Very large wide-body fuselage with four underwing engines",
+   "Distinctive hump-backed upper deck at the front of the fuselage",
+   "Swept low-mounted wings with engines spaced far outboard",
+   "Tall conventional vertical tail with horizontal stabilizers mounted low on the fin base",
+   "Main landing gear with multiple bogies under the fuselage and wings",
+   "Long pointed nose ahead of the cockpit, giving the front fuselage a characteristic 747 profile"
+  ],
+  "distinguishing_visual_attributes": [
+   "Short upper deck hump compared with the stretched upper deck on 747-300 and 747-400",
+   "Wingtips are simple and lack the vertical winglets seen on the 747-400",
+   "Usually has the early-generation 747 wing and fuselage details without the more modernized look of the 747-400",
+   "Externally very similar to the 747-200, but the 747-100 is the earlier baseline version and is most often seen with the original short upper deck and no winglets"
+  ]
+ },
+ "737-800": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "737-700",
+   "737-900",
+   "737-600",
+   "737-500"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines mounted close to the fuselage",
+   "Low-slung narrow-body fuselage with a single vertical tail",
+   "Conventional tailplane mounted low on the rear fuselage, not a T-tail",
+   "Swept wings with one engine under each wing",
+   "Short main landing gear giving the aircraft a relatively low stance on the ground",
+   "737 Next Generation family members typically show blended or split winglets on many examples"
+  ],
+  "distinguishing_visual_attributes": [
+   "Fuselage length is clearly longer than the 737-700 and 737-600, but shorter than the 737-900",
+   "Has the Next Generation 737 proportions with a longer cabin than the 737-700 while keeping the same nose and tail shape",
+   "Usually has full-size forward and overwing exit arrangement consistent with the mid-length NG fuselage",
+   "Longer, more balanced proportions than the stubby 737-600, without the especially stretched look of the 737-900"
+  ]
+ },
+ "737-900": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 737 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "737-700",
+   "737-800",
+   "737-600",
+   "757-200"
+  ],
+  "family_visual_attributes": [
+   "Low-wing twin-engine jet with one turbofan mounted under each wing",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Narrow single-aisle fuselage with a circular cross-section appearance",
+   "Main landing gear housed in pods/body fairings under the fuselage rather than in large wing-root bays",
+   "Short-to-medium landing gear giving the aircraft a relatively low stance on the ground",
+   "Blended or split-style winglets may be present on later-family examples, though some aircraft have plain raked-free wingtips"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longest fuselage among the listed 737 variants, noticeably more stretched than the 737-800 and much longer than the 737-700/737-600",
+   "Has the 737 Next Generation style wing and tail proportions, but paired with an especially long cabin body",
+   "Overwing exit arrangement typically appears as a reduced set compared with the 737-800's two-per-side overwing exit layout",
+   "Compared with the 757-200, it has a lower-slung stance and shorter landing gear, with a less tall overall appearance",
+   "Retains the classic 737 family nose and compact undercarriage while appearing unusually long and slender for a 737"
+  ]
+ },
+ "747-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 747 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "747-100",
+   "747-300",
+   "747-400"
+  ],
+  "family_visual_attributes": [
+   "Very large wide-body fuselage with two passenger decks at the front creating a distinctive upper-deck hump",
+   "Four large turbofan engines mounted under a low swept wing",
+   "Conventional tail with a single vertical stabilizer and low-mounted horizontal stabilizers",
+   "Main landing gear with multiple bogies under the fuselage and wings, giving a dense multi-wheel gear arrangement",
+   "Long wingspan and overall jumbo-jet proportions noticeably larger than twin-engine wide-bodies",
+   "Cockpit windows positioned above the nose with the characteristic 747 forehead profile"
+  ],
+  "distinguishing_visual_attributes": [
+   "Short upper deck compared with the much longer stretched upper deck of the 747-300",
+   "No winglets, unlike the 747-400",
+   "Overall similar hump length to the 747-100 but commonly seen with later-style engine nacelles and updated external details",
+   "Classic 747 fuselage length shorter than the stretched 747-300 while retaining the same four-engine humpback layout"
+  ]
+ },
+ "747-300": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 747 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "747-200",
+   "747-400",
+   "747-100"
+  ],
+  "family_visual_attributes": [
+   "Very large wide-body fuselage with four underwing engines",
+   "Distinctive partial upper deck creating a hump ahead of the wings",
+   "Swept low-mounted wings with two engines under each wing",
+   "Tall single vertical tail with conventional tailplane",
+   "Main landing gear with multiple multi-wheel bogies under the fuselage and wings",
+   "Long wingspan and overall jumbo-jet proportions compared with twin-engine airliners"
+  ],
+  "distinguishing_visual_attributes": [
+   "Upper deck is noticeably longer than on the 747-100 and 747-200, extending farther aft",
+   "Upper deck is shorter than on the 747-400, so the hump does not stretch as far back",
+   "Usually lacks the prominent upward winglets seen on the 747-400",
+   "Retains the classic 747 wing and tail look but with a mid-length stretched upper deck unique within early 747 variants"
+  ]
+ },
+ "747-400": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 747 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "747-100",
+   "747-200",
+   "747-300",
+   "747-400"
+  ],
+  "family_visual_attributes": [
+   "Very large wide-body fuselage with four underwing engines",
+   "Distinctive hump-backed upper deck ahead of the wings",
+   "Low-mounted swept wings with engines spaced in two pairs",
+   "Conventional tail with a tall vertical fin and swept horizontal stabilizers",
+   "Long multi-wheel main landing gear arrangement under fuselage and wings",
+   "Classic jumbo-jet proportions with a very long fuselage and high cockpit position"
+  ],
+  "distinguishing_visual_attributes": [
+   "Wingtip extensions in the form of prominent vertical winglets, unlike earlier 747-100, 747-200, and 747-300",
+   "Upper deck is longer than on 747-100 and 747-200, but not as visually dominant a differentiator here as the winglets",
+   "Often has a cleaner, more modern wing appearance with raked trailing-edge refinements compared with earlier 747 variants",
+   "Retains the classic 747 hump and four-engine layout but is most easily separated from earlier 747 siblings by the added winglets"
+  ]
+ },
+ "757-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 757 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "757-300",
+   "737-900",
+   "767-200",
+   "767-300"
+  ],
+  "family_visual_attributes": [
+   "Long, slender narrow-body fuselage with a relatively tall stance on the landing gear",
+   "Two large turbofan engines mounted under low wings",
+   "Swept wings with conventional tailplane and single vertical fin",
+   "Cockpit windshield typical of Boeing jetliners, with angular window framing",
+   "Main landing gear with four-wheel bogies rather than simple two-wheel main gear",
+   "Generally longer and more proportionally stretched appearance than most 737 variants"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than the much more stretched 757-300",
+   "Narrow-body fuselage with single-aisle proportions, unlike the visibly wider twin-aisle 767-200 and 767-300",
+   "Taller landing gear and overall higher ground clearance than the 737-900",
+   "Main landing gear uses four-wheel bogies, unlike the 737-900's two-wheel main gear",
+   "Typically has fewer cabin windows and a less stretched look than the 757-300"
+  ]
+ },
+ "757-300": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 757 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "757-200",
+   "737-900",
+   "767-300",
+   "A321"
+  ],
+  "family_visual_attributes": [
+   "Long, slender narrow-body fuselage with a noticeably taller stance than many other single-aisle airliners",
+   "Two large turbofan engines mounted under low wings",
+   "Conventional tail with swept vertical stabilizer and low-mounted horizontal stabilizers",
+   "Pointed nose profile with Boeing-style cockpit windows",
+   "Main landing gear mounted on the fuselage center section rather than in wing pods",
+   "Swept wings with relatively long span and raked appearance compared with earlier short-haul narrow-bodies"
+  ],
+  "distinguishing_visual_attributes": [
+   "Much longer fuselage than the 757-200, with clearly stretched proportions ahead of and behind the wing",
+   "Has four full-size passenger doors on each side, unlike the shorter 757-200 which typically has fewer main doors",
+   "Longer and more slender-looking fuselage than the A321 and 737-900, combined with a taller landing-gear stance",
+   "Only one aisle and one engine under each wing, distinguishing it from the wider twin-aisle 767-300",
+   "Wing sits relatively farther forward along the very long fuselage, leaving a notably long rear fuselage section"
+  ]
+ },
+ "767-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 767 wide-body airliner family",
+  "role": "wide-body twin-engine airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "767-300",
+   "767-400",
+   "757-200",
+   "A310"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines on a low-mounted swept wing",
+   "Wide-body fuselage with two aisles, noticeably wider than Boeing 757 and 737 family aircraft",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Rounded nose profile with classic Boeing wide-body cockpit window shape",
+   "Main landing gear with two multi-wheel main bogies under the fuselage/wing root area",
+   "Moderately swept wing with raked overall proportions longer and slimmer than a 747 but larger than narrow-body Boeings"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shortest fuselage in the 767 family, clearly shorter than 767-300 and especially 767-400",
+   "More compact overall proportions with less fuselage stretching ahead of and behind the wings than 767-300",
+   "Lacks the noticeably extended fuselage and more elongated appearance of the 767-400",
+   "Wider twin-aisle fuselage than the 757-200, despite somewhat similar nose and tail styling",
+   "Usually has a more modern twinjet look with larger underwing engines and no tail engine, unlike trijets such as DC-10 or MD-11"
+  ]
+ },
+ "767-400": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 767 twin-engine wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "767-200",
+   "767-300",
+   "777-200",
+   "A330-200"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines on a low swept wing",
+   "Wide-body fuselage with two-deck-style main cabin cross-section but only a single passenger deck",
+   "Conventional tail with swept vertical stabilizer and low-mounted horizontal stabilizers",
+   "Moderately raked wing shape with long wingspan and no hump on the upper fuselage",
+   "Main landing gear with two multi-wheel main bogies under the fuselage/wing root area",
+   "Long cylindrical fuselage with a classic Boeing-style pointed nose and cockpit window shape"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longest fuselage in the 767 family, noticeably more stretched than the 767-300 and much longer than the 767-200",
+   "Raked wingtips rather than simple vertical winglets, giving the wingtip a swept pointed extension",
+   "Main landing gear appears taller than earlier 767 variants, giving the aircraft a slightly higher stance",
+   "Compared with the 777-200, it has a narrower fuselage and generally smaller engines",
+   "Compared with the A330-200, it has a longer fuselage and more Boeing-like pointed nose and cockpit window shape"
+  ]
+ },
+ "777-200": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 777 wide-body airliner family",
+  "role": "wide-body twin-engine airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "777-300",
+   "767-400",
+   "A330-300",
+   "A340-300"
+  ],
+  "family_visual_attributes": [
+   "Large wide-body twinjet with one very large turbofan under each wing",
+   "Long raked wingtips rather than small vertical winglets",
+   "Six-wheel main landing gear bogies on each side",
+   "Tall vertical tail and long, smoothly rounded fuselage",
+   "Low-mounted swept wings with large engine nacelles close to the wing roots",
+   "Classic Boeing 777 cockpit window shape with angular side windows"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than the 777-300, with noticeably less cabin length fore and aft of the wings",
+   "Much larger overall scale and bulk than the 767-400, including bigger engines and taller landing gear stance",
+   "Six-wheel main landing gear distinguishes it from the A330-300, which has four-wheel main bogies",
+   "Only two engines, unlike the A340-300 which has four underwing engines",
+   "Typically appears with a shorter body-to-wing proportion than the stretched 777-300"
+  ]
+ },
+ "777-300": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 777 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "777-200",
+   "767-400",
+   "A340-300",
+   "A330-300"
+  ],
+  "family_visual_attributes": [
+   "Very large twin-engine wide-body airliner with one turbofan mounted under each wing",
+   "Long, smoothly rounded fuselage with a wide-body cross-section and large passenger cabin",
+   "Raked wingtips rather than small vertical winglets on most variants",
+   "Six-wheel main landing gear bogies under each side of the fuselage",
+   "Tall vertical tail and large swept wings with a clean low-wing layout"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably longer fuselage than the 777-200, with a more stretched appearance ahead of and behind the wings",
+   "Twin-engine layout separates it from the four-engine A340-300",
+   "Larger overall proportions and bulkier fuselage/gear stance than the 767-400",
+   "Raked wingtips and six-wheel main gear help distinguish it from the A330-300, which typically has simpler wingtip fences and different landing gear proportions",
+   "Very long cabin window line relative to wing position, giving a distinctly elongated profile among twin-engine wide-bodies"
+  ]
+ },
+ "A300B4": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A300/A310 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "A310",
+   "A330-200",
+   "A330-300",
+   "A300B4"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines on a wide-body fuselage",
+   "low-mounted swept wings with conventional tail",
+   "single vertical tail with no upper-deck hump",
+   "circular to slightly oval wide-body cross-section with two-deck-height fuselage only at the cockpit area",
+   "main landing gear in fuselage centerline area plus wing gear, giving a heavy wide-body stance",
+   "classic early-Airbus nose and cockpit window shape with a relatively blunt forward fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than the A330-300",
+   "longer fuselage than the A310",
+   "older-style wingtip without the tall winglets seen on many A310s",
+   "shorter overall proportions and smaller wing appearance than A330 variants",
+   "classic A300 proportions with a medium-length wide-body fuselage and twin engines set fairly close to the wing root"
+  ]
+ },
+ "767-300": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 767 wide-body airliner family",
+  "role": "wide-body twin-engine airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "767-200",
+   "767-400",
+   "757-300",
+   "A330-300"
+  ],
+  "family_visual_attributes": [
+   "Wide-body fuselage with two underwing turbofan engines",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Swept low wing with raked wingtip shape rather than vertical winglets on most examples",
+   "Long, smooth cylindrical fuselage with two main passenger decks' worth of window rows only on the main deck",
+   "Main landing gear has two multi-wheel body-side gear assemblies plus a twin-wheel nose gear",
+   "Flight deck windows and nose profile typical of Boeing twinjets, with a pointed but rounded radome"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than the 767-200, with a noticeably greater distance between doors and overwing area",
+   "Shorter fuselage than the 767-400, and lacks the 767-400's more extended overall stretched appearance",
+   "Has the 767 family's taller wide-body fuselage cross-section, making it look deeper-bodied than the much narrower 757-300",
+   "Usually has a simpler wingtip/raked-tip appearance than many A330-300s, which often show taller wingtip fences or blended winglets depending on version",
+   "Overall proportions are balanced mid-stretch within the 767 family, unlike the very short 767-200 or very long 767-400"
+  ]
+ },
+ "A310": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A300/A310 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "A300B4",
+   "A330-200",
+   "A330-300",
+   "A320"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines on a wide-body fuselage",
+   "low-mounted swept wings with relatively large wing root fairings",
+   "conventional tail with a single vertical stabilizer and low-mounted horizontal stabilizers",
+   "rounded Airbus-style nose profile with a smoothly curved cockpit section",
+   "two-aisle fuselage cross-section, visibly wider than narrow-body airliners",
+   "main landing gear carried in fuselage/wing-root area rather than in pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than the A300B4 while keeping a similarly wide fuselage cross-section",
+   "more sharply swept horizontal stabilizer than the A300B4, giving the tail a more modern look",
+   "lacks the taller, longer overall proportions of the A330-200 and A330-300",
+   "has only two main landing gear legs, unlike the A330 family which commonly shows an additional center main gear",
+   "much wider fuselage and twin-aisle proportions than the narrow-body A320"
+  ]
+ },
+ "A318": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A320 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "A319",
+   "A320",
+   "A321"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines on a low-mounted swept wing",
+   "Single vertical tail with a conventional tailplane",
+   "Short-to-medium-haul narrow-body fuselage with circular cross-section appearance",
+   "Airbus-style rounded nose and smoothly curved cockpit windshield shape",
+   "Tall wingtip fences at the wingtips rather than raked tips",
+   "Main landing gear retracting into fuselage fairings with a relatively clean wing underside"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shortest fuselage in the A320 family, visibly more compact than A319, A320, and A321",
+   "Fewer cabin windows and a shorter distance between front and rear doors than the A319",
+   "More stubby overall proportions, with the same wing and tail size attached to a shorter body",
+   "Typically has only overwing exit hatches rather than the additional full-size door arrangements seen on longer A320-family variants"
+  ]
+ },
+ "A319": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A320 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A318",
+   "A320",
+   "A321"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines",
+   "low-wing narrow-body layout with a conventional tail",
+   "rounded Airbus-style nose with a smooth, blunt profile",
+   "single vertical tail and swept wings with short-to-moderate span",
+   "main landing gear mounted in fuselage fairings beneath the wing root area",
+   "overall proportions typical of the A320 family with a relatively tall fin and clean cylindrical fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "fuselage length is shorter than A320 and A321 but longer than A318",
+   "typically has one overwing exit per side, unlike longer A320/A321 variants with more exit provision visible",
+   "appears as the mid-short A320-family member: noticeably stubbier than A320 yet not as compact as A318",
+   "same nose, tail, and wing style as A320-family siblings, so identification relies mainly on fuselage length and door/exit spacing"
+  ]
+ },
+ "A320": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A320 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "A318",
+   "A319",
+   "A321",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines mounted close to the wing roots",
+   "low-wing narrow-body airliner layout with a single vertical tail",
+   "short-to-medium fuselage proportions with a round nose and relatively blunt cockpit profile",
+   "Airbus-style wingtip fences or sharklet-type wingtips on many examples",
+   "main landing gear retracting into fuselage fairings with no large exposed gear pods",
+   "conventional tailplane mounted low on the rear fuselage rather than a T-tail"
+  ],
+  "distinguishing_visual_attributes": [
+   "fuselage length is intermediate within the A320 family, longer than A319 and A318 but clearly shorter than A321",
+   "typically has four full-size passenger doors per side, whereas the shorter A318 and A319 usually have fewer",
+   "does not have the notably stretched, long and slender fuselage of the A321",
+   "larger and longer overall than the rear-engined Boeing 717, and with engines under the wings instead of on the rear fuselage"
+  ]
+ },
+ "A321": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A320 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A318",
+   "A319",
+   "A320",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines on a low-wing narrow-body airliner",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "rounded Airbus-style nose and cockpit window shape",
+   "tall landing gear giving noticeable ground clearance under the fuselage and engines",
+   "swept wings with wingtip fences or sharklet-style tips on many examples",
+   "single-aisle fuselage with standard short-to-medium-haul airliner proportions"
+  ],
+  "distinguishing_visual_attributes": [
+   "longest fuselage in the A320 family, visibly more stretched than A318, A319, and A320",
+   "typically has four full-size main exit doors per side, unlike shorter A320-family variants",
+   "appears more slender and elongated between wing and tail because of the fuselage stretch",
+   "has underwing engines, which separates it from the rear-engined Boeing 717",
+   "retains the same nose, tail, and wing style as A318/A319/A320 but on a noticeably longer body"
+  ]
+ },
+ "A330-200": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A330 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A330-300",
+   "A340-300",
+   "A340-200",
+   "767-400"
+  ],
+  "family_visual_attributes": [
+   "Wide-body twin-engine jet with one large turbofan mounted under each wing",
+   "Low swept wings with Airbus-style wingtip fences rather than raked tips",
+   "Conventional tail with a tall vertical fin and low-mounted horizontal stabilizers",
+   "Long, smooth circular-fuselage appearance with two passenger decks of windows not present, unlike the A380",
+   "Airbus cockpit window shape with angular windshield and a clean rounded nose profile",
+   "Main landing gear arranged with a twin-wheel nose gear and multi-wheel body-height main gear under the wings/fuselage center area"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably shorter fuselage than the A330-300 while keeping the same general wing and tail proportions",
+   "Only two engines, which separates it from the very similar four-engine A340-200 and A340-300",
+   "Compared with the 767-400, it has a fuller, wider-looking fuselage cross-section and Airbus wingtip fences",
+   "Often appears with a relatively long-range, compact wide-body proportion: short-to-medium fuselage paired with large wings and big engines"
+  ]
+ },
+ "A330-300": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A330 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A330-200",
+   "A340-200",
+   "A340-300",
+   "A300B4"
+  ],
+  "family_visual_attributes": [
+   "Wide-body twin-engine jet with one large underwing turbofan on each wing",
+   "Low swept wings with long wingtip fences rather than raked tips",
+   "Airbus-style rounded nose and smooth cockpit window shape",
+   "Conventional tail with a tall swept vertical fin and low-mounted horizontal stabilizers",
+   "Long cylindrical fuselage with two full passenger decks worth of window rows only on the main deck",
+   "Main landing gear arranged as twin-wheel nose gear plus two fuselage/wing-root main gear assemblies with multi-wheel bogies"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably longer fuselage than the A330-200, with a longer stretch both ahead of and behind the wings",
+   "Only two engines, distinguishing it from the four-engine A340-200 and A340-300",
+   "Taller-looking main landing gear stance and longer, more modern wing than the shorter-winged A300B4",
+   "Typical A330-300 side profile shows a long body with relatively balanced overhangs fore and aft of the wing, unlike the shorter, stubbier A330-200"
+  ]
+ },
+ "A340-200": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A340 four-engine wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A340-300",
+   "A340-500",
+   "A340-600",
+   "A330-300"
+  ],
+  "family_visual_attributes": [
+   "Four turbofan engines mounted under the wings, two per side",
+   "Long wide-body fuselage with a single full-length passenger deck",
+   "Low-mounted swept wings with Airbus-style curved wingtip fences",
+   "Conventional tail with a single vertical stabilizer and low horizontal stabilizers",
+   "Rounded Airbus nose profile with a dark, continuous-looking cockpit window mask",
+   "Main landing gear includes a center body gear in addition to the wing/body main gear"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than the A340-300, A340-500, and especially A340-600",
+   "Uses the earlier short-to-medium A340 fuselage with four engines, giving a relatively compact look for a four-engine wide-body",
+   "Similar overall length to an A330/A340 medium fuselage, but unlike the A330-300 it has four engines instead of two",
+   "Does not have the very stretched proportions of the A340-500 and A340-600",
+   "Appears slightly shorter and stubbier in body proportions than the A340-300 while retaining the same general wing and tail layout"
+  ]
+ },
+ "A340-500": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A340 four-engine wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "A340-200",
+   "A340-300",
+   "A340-600",
+   "A330-300"
+  ],
+  "family_visual_attributes": [
+   "Four underwing turbofan engines, with two mounted under each wing",
+   "Long wide-body fuselage with a single full-length passenger deck",
+   "Low-mounted swept wings with large winglets at the wingtips",
+   "Conventional tail with a tall vertical fin and swept horizontal stabilizers",
+   "Airbus-style rounded nose profile and cockpit window shape",
+   "Main landing gear with two body gear assemblies under the fuselage in addition to wing gear"
+  ],
+  "distinguishing_visual_attributes": [
+   "Fuselage is noticeably longer than the A340-200 and A340-300, but clearly shorter than the very stretched A340-600",
+   "Often shows a relatively long gap of fuselage behind the wing, but without the extreme rear overhang of the A340-600",
+   "Compared with the very similar A330-300, it has four engines instead of two",
+   "Proportions appear long-range and elongated, with a long fuselage paired to the standard-height A340 tail rather than the extra-long A340-600 look"
+  ]
+ },
+ "A340-300": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A340 four-engine wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "A340-200",
+   "A340-500",
+   "A340-600",
+   "A330-300"
+  ],
+  "family_visual_attributes": [
+   "Four turbofan engines mounted under the wings",
+   "Long wide-body fuselage with a single full-length passenger deck",
+   "Airbus-style rounded nose profile and cockpit window shape",
+   "Low-mounted swept wings with tall blended winglets at the wingtips",
+   "Conventional tail with a tall vertical fin and swept horizontal stabilizers",
+   "Main landing gear includes centerline body gear in addition to wing gear"
+  ],
+  "distinguishing_visual_attributes": [
+   "Fuselage length is medium within the A340 family: clearly longer than the A340-200 but shorter than the A340-500 and especially the A340-600",
+   "Uses the earlier shorter-fuselage proportions without the extremely stretched look of the A340-600",
+   "Has four engines, which separates it from the very similar twin-engine A330-300",
+   "Typically shows the original A340 wing-and-body proportions rather than the noticeably longer rear fuselage and overall stretched stance of the A340-500/-600"
+  ]
+ },
+ "A340-600": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A340 wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "A340-500",
+   "A340-300",
+   "A330-300",
+   "A330-200"
+  ],
+  "family_visual_attributes": [
+   "Four underwing turbofan engines, with two engines mounted under each wing",
+   "Long wide-body fuselage with a single full-length passenger deck",
+   "Low-mounted swept wings with prominent upward winglets at the wingtips",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "Airbus-style rounded nose and smoothly curved cockpit windshield shape",
+   "Tall multi-wheel main landing gear supporting a large long-haul airliner stance"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longest fuselage in the A340 family, appearing noticeably more stretched than the A340-300 and A340-500",
+   "Four-wheel center main landing gear bogie under the fuselage in addition to the wing main gear",
+   "Very long rear fuselage behind the wing, giving a distinctly elongated profile",
+   "Larger vertical tail and overall taller-looking stance than the shorter A340-300",
+   "Differs from A330-200 and A330-300 by having four engines instead of two"
+  ]
+ },
+ "ATR-72": {
+  "manufacturer": "ATR",
+  "family": "ATR 42/72 regional turboprop family",
+  "role": "regional turboprop airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "ATR-42",
+   "DHC-8-300",
+   "Saab 2000",
+   "Fokker 50"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two turboprop engines mounted under the wings",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "slender cylindrical fuselage with a blunt rounded nose",
+   "tall landing gear giving noticeable ground clearance under the fuselage",
+   "airliner-style cabin with a row of rectangular passenger windows"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the ATR-42 with clearly more passenger windows",
+   "main landing gear housed in prominent fuselage-side fairings rather than engine nacelles, unlike DHC-8 variants",
+   "less pointed nose and more rectangular cabin-window rhythm than the Saab 2000",
+   "larger overall size and longer fuselage than the Fokker 50",
+   "wingspan and fuselage proportions give a stretched, balanced look compared with the shorter, stubbier ATR-42"
+  ]
+ },
+ "A380": {
+  "manufacturer": "Airbus",
+  "family": "Airbus A380 very-large wide-body airliner family",
+  "role": "very-large wide-body airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "747-400",
+   "747-300",
+   "747-200",
+   "747-100"
+  ],
+  "family_visual_attributes": [
+   "full-length double-deck fuselage with two continuous rows of passenger windows from nose to near the tail",
+   "four large turbofan engines mounted under a low swept wing",
+   "very large, tall fuselage with exceptionally broad cross-section",
+   "conventional tail with a very tall vertical stabilizer and low-mounted horizontal stabilizers",
+   "long wings with pronounced raked, curved wingtips rather than small vertical winglets"
+  ],
+  "distinguishing_visual_attributes": [
+   "double deck extends along almost the entire fuselage length, unlike the 747 family’s shorter upper-deck hump",
+   "rounded, smoothly blended nose profile without the 747’s distinctive hump-backed forehead",
+   "wingtips are strongly curved and raked, not fitted with the 747-400’s upright winglets",
+   "fuselage appears wider and more cylindrical than the narrower 747 variants",
+   "tail and overall proportions look cleaner and more modern, with a massive vertical fin relative to the full-length double-deck body"
+  ]
+ },
+ "ATR-42": {
+  "manufacturer": "ATR",
+  "family": "ATR 42/72 regional turboprop family",
+  "role": "regional turboprop airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "ATR-72",
+   "DHC-8-100",
+   "DHC-8-300",
+   "Saab 340"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two turboprop engines mounted under the wings",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "short to medium regional-airliner fuselage with a rounded nose",
+   "tall main landing gear giving noticeable propeller ground clearance",
+   "airliner-style cabin windows in a fairly even row along the fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than ATR-72, with visibly fewer cabin windows",
+   "main landing gear housed in prominent fuselage-side fairings rather than the engine nacelles, unlike DHC-8-100 and DHC-8-300",
+   "more rounded nose and fuller fuselage cross-section than the slimmer Saab 340",
+   "tailplane is conventionally mounted on the rear fuselage, not a T-tail as on Saab 340",
+   "overall proportions appear compact and stubby compared with the stretched ATR-72"
+  ]
+ },
+ "An-12": {
+  "manufacturer": "Antonov",
+  "family": "Antonov An-12 four-engined military turboprop transport family",
+  "role": "military cargo transport",
+  "era": "1950s",
+  "confusable_siblings": [
+   "C-130",
+   "Il-76",
+   "An-12",
+   "C-47"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "four turboprop engines mounted under the wings",
+   "large boxy cargo fuselage",
+   "tall vertical tail with horizontal stabilizers mounted low on the fin",
+   "multi-wheel main landing gear in pods/fairings along the lower fuselage sides",
+   "clamshell-style rear cargo door/ramp area"
+  ],
+  "distinguishing_visual_attributes": [
+   "turboprop transport with four propellers, unlike the jet-powered Il-76",
+   "nose is more pointed and glazed-looking than the blunter C-130 nose",
+   "tail lacks the C-130's more prominent rear fuselage ramp profile and has a cleaner cylindrical rear fuselage shape",
+   "much larger four-engine high-wing transport silhouette than the smaller twin-engine C-47",
+   "main landing gear appears in long side fairings/sponsons along the lower fuselage"
+  ]
+ },
+ "BAE 146-200": {
+  "manufacturer": "British Aerospace",
+  "family": "BAE 146 regional jet family",
+  "role": "regional jet airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "BAE 146-300",
+   "Fokker 100",
+   "Fokker 70",
+   "Avro RJ family"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "four small turbofan engines mounted under the wings, two per side",
+   "T-tail with a tall vertical fin",
+   "short, compact fuselage relative to wing size",
+   "main landing gear carried in prominent fuselage side fairings/sponsons",
+   "overall boxy regional airliner proportions with a relatively blunt nose"
+  ],
+  "distinguishing_visual_attributes": [
+   "fuselage is noticeably shorter than the BAE 146-300",
+   "still has four underwing engines, unlike the twin-engine Fokker 70 and Fokker 100",
+   "longer fuselage than the smallest BAE 146 family member, placing it as the mid-length variant",
+   "retains the same high-wing, T-tail layout as its siblings but with intermediate body length and window count"
+  ]
+ },
+ "BAE 146-300": {
+  "manufacturer": "British Aerospace",
+  "family": "BAE 146/Avro RJ regional jet family",
+  "role": "regional jet airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "BAE 146-200",
+   "Fokker 100",
+   "Fokker 70",
+   "Dornier 328"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "four small turbofan engines mounted under the wings, two per side",
+   "T-tail configuration",
+   "short, stubby fuselage compared with larger single-aisle airliners",
+   "conventional low-slung main landing gear in fuselage/wing-root area",
+   "compact regional airliner proportions with a relatively tall fin"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the BAE 146-200 while keeping the same four-engine, high-wing layout",
+   "more window positions and greater distance between front and rear doors than on the BAE 146-200",
+   "still much shorter and more compact than a Fokker 100 despite having four engines instead of two rear-mounted engines",
+   "lacks the rear-fuselage-mounted engines seen on Fokker 70 and Fokker 100",
+   "substantially larger fuselage and four-engine layout compared with the much smaller twin-engine Dornier 328"
+  ]
+ },
+ "BAE-125": {
+  "manufacturer": "British Aerospace",
+  "family": "Hawker Siddeley/British Aerospace BAe 125 business jet family",
+  "role": "business jet",
+  "era": "1960s",
+  "confusable_siblings": [
+   "Cessna 560",
+   "Falcon 2000",
+   "Challenger 600",
+   "Embraer Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "Low-wing business jet with two rear-mounted turbofan engines",
+   "Conventional swept tail with a T-tail horizontal stabilizer mounted high on the fin",
+   "Slim, elongated fuselage with a relatively small circular-to-oval cabin window line",
+   "Swept wings without underwing engines",
+   "Pointed nose and clean corporate-jet profile",
+   "Main landing gear retracting into pods or fairings along the lower rear fuselage/wing root area"
+  ],
+  "distinguishing_visual_attributes": [
+   "Smaller and shorter overall than Challenger 600 and Embraer Legacy 600, with a noticeably slimmer fuselage",
+   "Usually has fewer and smaller cabin windows than the larger Falcon 2000 and Challenger 600",
+   "Rear fuselage engine nacelles are relatively compact and closely integrated to the fuselage compared with the bulkier nacelles on Challenger 600/Legacy 600",
+   "Wing appears less broad and the overall aircraft looks more compact than Falcon 2000 and Embraer Legacy 600",
+   "More classic straight-sided 1960s business-jet proportions, lacking the larger, more modern super-midsize cabin look of Falcon 2000 and Legacy 600"
+  ]
+ },
+ "C-130": {
+  "manufacturer": "Lockheed",
+  "family": "Lockheed C-130 Hercules military tactical transport family",
+  "role": "military cargo transport",
+  "era": "1950s",
+  "confusable_siblings": [
+   "An-12",
+   "Il-76",
+   "DHC-6",
+   "C-47"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "four turboprop engines with multi-blade propellers mounted under the wing",
+   "boxy, deep transport fuselage with a blunt nose",
+   "tall vertical tail with horizontal stabilizers mounted low on the fin",
+   "fixed main landing gear sponsons/fairings protruding from the lower fuselage sides",
+   "rear fuselage designed around a cargo loading ramp/door"
+  ],
+  "distinguishing_visual_attributes": [
+   "smaller and more compact than Il-76, with turboprops instead of four large jet engines",
+   "lacks the An-12's prominent glazed navigator nose; nose appears solid and blunt",
+   "has four engines, unlike the twin-engine DHC-6 and C-47",
+   "high wing and bulky fuselage unlike the low-wing C-47",
+   "main gear carried in fuselage side sponsons rather than in large underwing pods or simple nacelle-mounted gear"
+  ]
+ },
+ "C-47": {
+  "manufacturer": "Douglas",
+  "family": "Douglas DC-3/C-47 military transport family",
+  "role": "military cargo transport",
+  "era": "1940s",
+  "confusable_siblings": [
+   "DC-3",
+   "DC-6",
+   "C-130",
+   "An-12"
+  ],
+  "family_visual_attributes": [
+   "low-wing twin-propeller transport layout",
+   "large round radial piston engines mounted on the wings",
+   "taildragger landing gear stance with the aircraft sitting nose-high on the ground",
+   "rounded fuselage cross-section with a classic narrow cylindrical body",
+   "conventional tail with a single vertical fin and rounded tail surfaces",
+   "blunt rounded nose and smoothly tapered rear fuselage typical of 1930s transport designs"
+  ],
+  "distinguishing_visual_attributes": [
+   "usually shows a large cargo door on the left rear fuselage, unlike the standard DC-3 passenger layout",
+   "often has fewer and smaller cabin windows than a DC-3 airliner because of military transport configuration",
+   "shorter fuselage and simpler tail than the larger four-engined DC-6",
+   "has only two piston engines and taildragger gear, unlike the four-engined high-wing turboprop C-130 and An-12"
+  ]
+ },
+ "Beechcraft 1900": {
+  "manufacturer": "Beechcraft",
+  "family": "Beechcraft 1900 regional turboprop family",
+  "role": "regional turboprop airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Metroliner",
+   "EMB-120",
+   "DHC-8-100",
+   "Saab 340"
+  ],
+  "family_visual_attributes": [
+   "small twin-turboprop commuter aircraft with one engine mounted under each wing",
+   "low straight wing with little or no sweep",
+   "slender cylindrical fuselage sized for commuter/regional use",
+   "conventional tail with a single vertical fin and horizontal stabilizer mounted low on the fin",
+   "retractable tricycle landing gear",
+   "typically a pointed nose and a row of small rectangular cabin windows"
+  ],
+  "distinguishing_visual_attributes": [
+   "very small fuselage cross-section compared with larger regional turboprops like Saab 340 or DHC-8-100",
+   "tall vertical tail that appears oversized relative to the short fuselage",
+   "shorter fuselage and generally more compact proportions than the EMB-120",
+   "blunt, straight-edged vertical fin and simple conventional tail, unlike the Metroliner’s more streamlined overall look",
+   "cabin window line usually shows a short commuter layout with fewer windows than larger turboprop airliners"
+  ]
+ },
+ "Boeing 717": {
+  "manufacturer": "Boeing",
+  "family": "Boeing 717 / MD-95 rear-engined narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "DC-9-30",
+   "MD-80",
+   "MD-87",
+   "MD-90"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted at the rear fuselage, one on each side",
+   "Conventional low-mounted swept wings with engines not under the wings",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Slim single-aisle fuselage with a pointed nose profile",
+   "Clean wing undersides with no engine nacelles or pylons",
+   "Short to medium fuselage proportions compared with larger twinjets"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than MD-80 and MD-90, giving a more compact overall look",
+   "Longer fuselage than DC-9-30 and MD-87, usually appearing as a mid-length member of the family",
+   "Smaller, less bulky engine nacelles than the larger-engined MD-90",
+   "More modern, smoother nose and cockpit window area than older DC-9-30 examples",
+   "Typically lacks the stretched, very long appearance of the MD-80/MD-90"
+  ]
+ },
+ "CRJ-900": {
+  "manufacturer": "Bombardier",
+  "family": "Bombardier CRJ regional jet family",
+  "role": "regional jet airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "CRJ-700",
+   "CRJ-200",
+   "ERJ 145",
+   "CRJ-900"
+  ],
+  "family_visual_attributes": [
+   "Low-wing regional jet with two turbofan engines mounted at the rear fuselage",
+   "T-tail with a tall vertical fin and high-mounted horizontal stabilizer",
+   "Long, slender cylindrical fuselage with a relatively narrow cabin cross-section",
+   "Pointed nose and streamlined cockpit profile",
+   "Main landing gear mounted in fuselage fairings rather than large wing pods",
+   "Small blended or fence-like wingtip extensions depending on variant"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably longer fuselage than the CRJ-700 and much longer than the CRJ-200",
+   "Usually has overwing emergency exit doors associated with the stretched fuselage",
+   "Retains the CRJ family nose and tail proportions but with a mid-size stretch that is shorter than the longest family members",
+   "Longer cabin window line and greater distance between wing and tail than on the CRJ-700",
+   "More substantial wingtip extension appearance than early short-body CRJ variants"
+  ]
+ },
+ "CRJ-200": {
+  "manufacturer": "Bombardier",
+  "family": "Bombardier CRJ regional jet family",
+  "role": "regional jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "CRJ-700",
+   "CRJ-900",
+   "ERJ 145",
+   "ERJ 135"
+  ],
+  "family_visual_attributes": [
+   "Twin rear-mounted turbofan engines on either side of the aft fuselage",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings with small wing-root fairings",
+   "Long, narrow cylindrical fuselage with a pointed nose",
+   "Single-aisle regional-jet proportions with relatively small diameter engines",
+   "Main landing gear mounted under the fuselage/wing-root area rather than in large wing pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably shorter fuselage than CRJ-700 and CRJ-900",
+   "Usually only one overwing emergency exit per side, unlike the larger CRJ-700/CRJ-900 variants",
+   "More compact overall proportions with less distance between the wing and tail than CRJ-700/CRJ-900",
+   "Compared with ERJ 135 and ERJ 145, it has a less tapered, more rounded nose profile",
+   "Compared with ERJ 135 and ERJ 145, the fuselage appears slightly taller/deeper and the tailfin broader at the base"
+  ]
+ },
+ "CRJ-700": {
+  "manufacturer": "Bombardier",
+  "family": "Bombardier CRJ regional jet family",
+  "role": "regional jet",
+  "era": "2000s",
+  "confusable_siblings": [
+   "CRJ-900",
+   "CRJ-200",
+   "ERJ 145",
+   "E-170"
+  ],
+  "family_visual_attributes": [
+   "low-mounted swept wings",
+   "two turbofan engines mounted on the rear fuselage",
+   "T-tail empennage",
+   "long, narrow cylindrical fuselage with a pointed nose",
+   "small vertical tail relative to fuselage length",
+   "main landing gear housed in fuselage-side fairings rather than wing pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "fuselage is noticeably longer than the CRJ-200 but shorter than the CRJ-900",
+   "typically has one pair of overwing emergency exits, unlike the shorter CRJ-200",
+   "retains the slim CRJ fuselage and small rear-mounted engines, but is narrower and more needle-like than the broader-bodied E-170",
+   "usually appears with a longer cabin and more windows than the ERJ 145, while keeping the CRJ-style taller stance and fuselage gear fairings"
+  ]
+ },
+ "Cessna 172": {
+  "manufacturer": "Cessna",
+  "family": "Cessna 172 high-wing light piston aircraft family",
+  "role": "light general aviation utility aircraft",
+  "era": "1950s",
+  "confusable_siblings": [
+   "Cessna 208",
+   "PA-28",
+   "DR-400",
+   "SR-20"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing with a strut bracing each wing to the lower fuselage",
+   "single nose-mounted piston engine with a two- or three-blade propeller",
+   "fixed tricycle landing gear with non-retractable main gear",
+   "small four-seat cabin with rectangular side windows",
+   "conventional tail with low-mounted horizontal stabilizer",
+   "slab-sided light-aircraft fuselage with rounded nose and simple general-aviation proportions"
+  ],
+  "distinguishing_visual_attributes": [
+   "smaller and shorter cabin and fuselage than the larger utility-focused Cessna 208",
+   "high wing clearly separates it from low-wing types like PA-28, DR-400, and SR-20",
+   "wing struts are present, unlike the cantilever low-wing SR-20",
+   "fixed tricycle gear without the sleek composite-style curves seen on the SR-20",
+   "more upright, boxier cabin profile than the lower-slung PA-28 and DR-400"
+  ]
+ },
+ "Cessna 208": {
+  "manufacturer": "Cessna",
+  "family": "Cessna 208 Caravan single-engine utility turboprop family",
+  "role": "single-engine utility turboprop",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Cessna 172",
+   "Cessna 525",
+   "Cessna 560",
+   "DHC-6"
+  ],
+  "family_visual_attributes": [
+   "single turboprop engine mounted in the nose",
+   "high-mounted straight wing with strut bracing to the lower fuselage",
+   "fixed tricycle landing gear",
+   "boxy, slab-sided utility fuselage with large cabin windows",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "blunt nose and tall overall stance compared with low-wing light aircraft"
+  ],
+  "distinguishing_visual_attributes": [
+   "larger and taller than Cessna 172, with a turbine engine driving a multi-blade propeller instead of a small piston nose installation",
+   "high wing with struts and fixed gear, unlike the low-wing twin-jet Cessna 525 and Cessna 560",
+   "single-engine layout, unlike the twin-engine DHC-6",
+   "long rectangular cabin with multiple large side windows and often a cargo/passenger door behind the cockpit",
+   "more substantial, deeper fuselage and taller fin than the smaller Cessna 172"
+  ]
+ },
+ "Cessna 525": {
+  "manufacturer": "Cessna",
+  "family": "Cessna CitationJet / Model 525 light business jet family",
+  "role": "business jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Cessna 560",
+   "Beechcraft 1900",
+   "ERJ 135",
+   "ERJ 145"
+  ],
+  "family_visual_attributes": [
+   "small low-wing business jet with a compact fuselage",
+   "two turbofan engines mounted on the rear fuselage",
+   "T-tail empennage",
+   "straight to mildly swept wings rather than strongly swept airliner-style wings",
+   "short, pointed nose with cockpit windows close to the nose tip",
+   "small overall size with a relatively low passenger window count"
+  ],
+  "distinguishing_visual_attributes": [
+   "smaller and shorter overall than the larger Cessna 560, with a more compact fuselage and wing span",
+   "has jet engines on the rear fuselage, unlike the turboprop Beechcraft 1900 with propellers and a taller commuter-airliner fuselage",
+   "much shorter fuselage than ERJ 135 and ERJ 145, with noticeably fewer cabin windows",
+   "wing appears straighter and less airliner-like than the more swept wings of ERJ 135 and ERJ 145",
+   "typically has a very compact light-jet stance with engines proportionally close to the tail"
+  ]
+ },
+ "Cessna 560": {
+  "manufacturer": "Cessna",
+  "family": "Cessna Citation business jet family",
+  "role": "business jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Cessna 525",
+   "Cessna 560",
+   "Embraer Legacy 600",
+   "Challenger 600"
+  ],
+  "family_visual_attributes": [
+   "low-wing twin-jet layout",
+   "two turbofan engines mounted on the rear fuselage",
+   "T-tail configuration",
+   "slender cylindrical fuselage with a pointed nose",
+   "small to medium cabin-jet size",
+   "straight to moderately swept wings depending on model"
+  ],
+  "distinguishing_visual_attributes": [
+   "larger and longer fuselage than the smaller Cessna 525",
+   "more swept wings than the light-jet Cessna 525",
+   "smaller overall size and less bulky fuselage than Challenger 600 and Embraer Legacy 600",
+   "typically has a cleaner, more compact rear-fuselage/engine installation than the larger Legacy 600",
+   "medium-size Citation proportions with a narrow fuselage and T-tail"
+  ]
+ },
+ "Challenger 600": {
+  "manufacturer": "Canadair",
+  "family": "Canadair Challenger 600 business jet family",
+  "role": "business jet",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Global Express",
+   "Gulfstream IV",
+   "Gulfstream V",
+   "Embraer Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "Large business jet with a long, cylindrical fuselage and relatively tall cabin cross-section",
+   "Two turbofan engines mounted on the rear fuselage, one on each side",
+   "Low-mounted swept wings",
+   "T-tail with a high horizontal stabilizer atop the vertical fin",
+   "Rounded nose and conventional non-pointed cockpit profile",
+   "Business-jet proportions with fewer, larger cabin windows than airliners"
+  ],
+  "distinguishing_visual_attributes": [
+   "Compared with Global Express, has a shorter fuselage and noticeably less swept wing planform",
+   "Compared with Gulfstream IV and Gulfstream V, has a less pointed nose and a bulkier, deeper fuselage cross-section",
+   "Uses a classic Challenger tailcone and rear-fuselage engine installation with a stubbier overall look than the sleeker Gulfstream family",
+   "Compared with Embraer Legacy 600, typically appears larger and deeper-bodied with a more rounded nose and less airliner-derived fuselage look"
+  ]
+ },
+ "DC-10": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas DC-10 trijet wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "MD-11",
+   "L-1011",
+   "Il-76",
+   "A300B4"
+  ],
+  "family_visual_attributes": [
+   "three-engine trijet layout with one engine in each wing root area and a third engine at the base of the vertical tail",
+   "wide-body fuselage with two underwing turbofan nacelles set well outboard",
+   "large swept low-mounted wings",
+   "conventional vertical tail with the tail-mounted center engine fed by a circular intake at the fin root",
+   "long main landing gear bogies suited to a heavy long-haul airliner",
+   "overall classic 1970s wide-body proportions with a tall fin and long cylindrical fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "tail engine uses a straight-through circular intake at the base of the fin rather than the S-duct style seen on the L-1011",
+   "usually lacks the prominent upward winglets seen on the MD-11",
+   "fuselage is generally shorter and less stretched-looking than the MD-11 for similar viewing angles",
+   "has three engines, unlike the twin-engine A300B4",
+   "does not have the high wing and four underwing engines of the Il-76"
+  ]
+ },
+ "DC-6": {
+  "manufacturer": "Douglas Aircraft Company",
+  "family": "Douglas DC-6 piston-engined propliner family",
+  "role": "four-engined piston airliner / transport",
+  "era": "1940s",
+  "confusable_siblings": [
+   "DC-3",
+   "DC-8",
+   "L-1011",
+   "C-47"
+  ],
+  "family_visual_attributes": [
+   "four piston-prop engines mounted under a low wing",
+   "classic straight-to-moderately tapered wing rather than swept jet wing",
+   "rounded mid-century pressurized fuselage with a conventional tail",
+   "single vertical tail fin, not a T-tail",
+   "tricycle landing gear stance",
+   "radial-engine nacelles with large propeller discs"
+  ],
+  "distinguishing_visual_attributes": [
+   "larger four-engine aircraft, unlike the twin-engine DC-3 and C-47",
+   "propeller-driven airframe, unlike the jet-powered DC-8 and L-1011",
+   "conventional tail and straight wing, unlike the swept-wing widebody L-1011",
+   "longer, slimmer fuselage than DC-3/C-47 with a more modern tricycle-gear propliner appearance",
+   "nose and cockpit section sits lower and more streamlined than the taller taildragger profile of DC-3/C-47"
+  ]
+ },
+ "DC-8": {
+  "manufacturer": "Douglas Aircraft Company",
+  "family": "Douglas DC-8 four-engine narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1960s",
+  "confusable_siblings": [
+   "707-320",
+   "727-200",
+   "DC-10",
+   "MD-11"
+  ],
+  "family_visual_attributes": [
+   "Long, slender narrow-body fuselage",
+   "Four podded turbofan/jet engines mounted under the wings, two per wing",
+   "Low-mounted swept wings",
+   "Conventional tail with a single vertical fin and low horizontal stabilizer",
+   "Long pointed nose profile",
+   "Classic early-jet airliner proportions with relatively narrow fuselage compared with later widebodies"
+  ],
+  "distinguishing_visual_attributes": [
+   "Has four underwing engines like the 707-320, but typically lacks the 707’s more pronounced cockpit window shape and dorsal fin look at the tail base",
+   "Unlike the 727-200, it has four underwing engines instead of three engines with a rear fuselage center intake",
+   "Unlike the DC-10 and MD-11, it is not a widebody and has no third engine in the tail",
+   "Uses a conventional tail rather than a T-tail",
+   "Fuselage appears narrower and more tube-like than the bulkier DC-10 or MD-11"
+  ]
+ },
+ "DC-3": {
+  "manufacturer": "Douglas Aircraft Company",
+  "family": "Douglas DC-3 piston-engined twin airliner/transport family",
+  "role": "propeller-driven passenger airliner and military transport",
+  "era": "1930s",
+  "confusable_siblings": [
+   "C-47",
+   "DC-6",
+   "An-12",
+   "Il-76"
+  ],
+  "family_visual_attributes": [
+   "Low-wing monoplane layout with two large piston engines mounted on the wings",
+   "Conventional tail with a single vertical fin and tailwheel landing gear stance",
+   "Rounded nose and generally cylindrical fuselage with a classic pre-jet airliner shape",
+   "Straight to mildly tapered wings with rounded tips rather than swept wings",
+   "Radial engine nacelles with propellers and no jet intakes",
+   "Relatively short, stout fuselage compared with later four-engine piston transports"
+  ],
+  "distinguishing_visual_attributes": [
+   "Tailwheel undercarriage visible in side view, unlike the tricycle-gear DC-6, An-12, and Il-76",
+   "Two propeller engines only, whereas An-12 and Il-76 are four-engined aircraft",
+   "Smaller, shorter fuselage than the DC-6, with a more compact overall proportion",
+   "Usually lacks the large square cargo door and more militarized external fit often seen on the C-47",
+   "Rounded wingtips and classic civil DC-3 window/cabin layout rather than the bulkier cargo-transport look of the C-47"
+  ]
+ },
+ "DH-82": {
+  "manufacturer": "de Havilland",
+  "family": "de Havilland Tiger Moth family",
+  "role": "piston-engined biplane trainer",
+  "era": "1930s",
+  "confusable_siblings": [
+   "DHC-1",
+   "DR-400",
+   "Cessna 172",
+   "Spitfire"
+  ],
+  "family_visual_attributes": [
+   "two stacked wings with visible interplane struts and bracing wires",
+   "single nose-mounted piston engine with a propeller",
+   "slender fuselage with tandem two-seat cockpit layout",
+   "fixed tailwheel landing gear",
+   "conventional tail with low-mounted horizontal stabilizer",
+   "generally fabric-covered, lightly built appearance compared with metal monoplanes"
+  ],
+  "distinguishing_visual_attributes": [
+   "open tandem cockpits rather than an enclosed canopy",
+   "strongly staggered biplane wings, with the upper wing positioned noticeably forward of the lower wing",
+   "main landing gear with prominent V-struts and a small tailskid or tailwheel at the rear",
+   "rounded wingtips and slim, lightly cowled nose compared with more modern enclosed-cabin light aircraft",
+   "much smaller and more delicate-looking airframe than the single-wing Spitfire"
+  ]
+ },
+ "DC-9-30": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas DC-9 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1960s",
+  "confusable_siblings": [
+   "MD-80",
+   "MD-87",
+   "MD-90",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "twin rear-mounted turbofan engines attached to the aft fuselage",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "low-mounted swept wings with a clean wing root and no underwing engines",
+   "slender narrow-body fuselage with a single aisle cross-section",
+   "short-to-medium conventional airliner nose and cockpit profile",
+   "main landing gear housed in pods/fairings at the wing root-fuselage area rather than in large underwing nacelles"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than the MD-80, MD-90, and Boeing 717, giving a more compact overall look",
+   "smaller, slimmer engine nacelles than the larger-diameter engines on the MD-80, MD-90, and Boeing 717",
+   "typically fewer cabin windows and less distance fore and aft of the wing than the stretched MD-80/MD-90 variants",
+   "lacks the taller, more modern vertical tail and enlarged aft fuselage appearance seen on the Boeing 717",
+   "appears longer than the very short MD-87 but still notably shorter than the MD-80 and MD-90"
+  ]
+ },
+ "DHC-1": {
+  "manufacturer": "de Havilland Canada",
+  "family": "de Havilland Canada DHC-1 Chipmunk family",
+  "role": "piston-engined military trainer / light trainer aircraft",
+  "era": "1940s",
+  "confusable_siblings": [
+   "DH-82",
+   "DHC-6",
+   "Cessna 172",
+   "PA-28"
+  ],
+  "family_visual_attributes": [
+   "small single-engine propeller aircraft",
+   "low-mounted straight wings with rounded tips",
+   "slender tandem two-seat canopy",
+   "conventional tail with single vertical fin and low-mounted horizontal stabilizers",
+   "tailwheel landing gear configuration",
+   "smooth all-metal fuselage with a pointed nose spinner"
+  ],
+  "distinguishing_visual_attributes": [
+   "tandem two-seat bubble canopy, unlike the open cockpits of the DH-82",
+   "low-wing layout, unlike the high-wing Cessna 172 and DHC-6",
+   "tailwheel undercarriage, unlike the tricycle gear typically seen on Cessna 172 and PA-28",
+   "much smaller and lighter-looking fuselage than the twin-engine DHC-6",
+   "straight tapered low wings and narrow trainer proportions, unlike the broader cabin and side-by-side cockpit shape of the PA-28"
+  ]
+ },
+ "DHC-8-100": {
+  "manufacturer": "de Havilland Canada",
+  "family": "de Havilland Canada Dash 8 regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1980s",
+  "confusable_siblings": [
+   "DHC-8-300",
+   "ATR-42",
+   "ATR-72",
+   "Saab 340"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two large turboprop engines mounted under the wings",
+   "conventional tail with a tall vertical fin and low-mounted horizontal stabilizers",
+   "long, slim cylindrical fuselage with a pointed nose",
+   "tricycle landing gear with the main gear retracting into fairings near the fuselage/engine nacelle area",
+   "airliner-style cabin windows in a single row along the fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than DHC-8-300 and ATR-72, giving a more compact overall proportion",
+   "fewer cabin windows and a visibly shorter cabin section than DHC-8-300",
+   "blunter, less rounded nose profile than ATR-42/ATR-72",
+   "taller landing gear stance and generally deeper fuselage-to-ground clearance appearance than Saab 340",
+   "engine nacelles and fuselage proportions match the smallest Dash 8 variant, with a noticeably stubby body relative to wingspan"
+  ]
+ },
+ "DHC-6": {
+  "manufacturer": "de Havilland Canada",
+  "family": "de Havilland Canada DHC-6 Twin Otter STOL utility turboprop family",
+  "role": "utility turboprop commuter aircraft",
+  "era": "1960s",
+  "confusable_siblings": [
+   "DHC-8-100",
+   "DHC-8-300",
+   "ATR-42",
+   "Saab 340"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two turboprop engines mounted under the wings",
+   "fixed tricycle landing gear with no gear doors covering the wheels in flight",
+   "boxy, short fuselage with large rectangular cabin windows",
+   "tall vertical tail with a conventional low-mounted horizontal stabilizer",
+   "rugged utility-aircraft stance with relatively short nose and blunt fuselage profile"
+  ],
+  "distinguishing_visual_attributes": [
+   "much smaller and shorter overall than DHC-8-100, DHC-8-300, ATR-42, or Saab 340",
+   "fixed landing gear visible at all times, unlike the retractable gear on those confusable regional turboprops",
+   "single vertical tail rather than the twin-fin tail of the Saab 340",
+   "very short, stubby fuselage and wing compared with the longer, more streamlined airliner-like proportions of ATR-42 and DHC-8 variants",
+   "squared, utility-style cabin and door layout rather than the sleeker nose and longer passenger-cabin profile of larger regional turboprops"
+  ]
+ },
+ "DHC-8-300": {
+  "manufacturer": "de Havilland Canada",
+  "family": "de Havilland Canada Dash 8 regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1980s",
+  "confusable_siblings": [
+   "DHC-8-100",
+   "ATR-42",
+   "ATR-72",
+   "Saab 340"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "one turboprop engine mounted under each wing",
+   "T-tail with the horizontal stabilizer mounted on top of the fin",
+   "slender cylindrical fuselage with a conventional non-bulged cross-section",
+   "tricycle landing gear with the main gear retracting into pods or fairings near the fuselage",
+   "large rectangular cabin windows in a commuter-airliner layout"
+  ],
+  "distinguishing_visual_attributes": [
+   "noticeably longer fuselage than the DHC-8-100, with a visibly stretched cabin section",
+   "shorter overall fuselage than the ATR-72, giving a more compact look despite similar twin-turboprop layout",
+   "longer fuselage and generally larger overall proportions than the Saab 340",
+   "engine nacelles and landing-gear fairing arrangement typical of the Dash 8 family, combined with the mid-length fuselage of the -300 variant",
+   "retains the Dash 8 family high wing and T-tail proportions, but in a clearly stretched form compared with the stubbier DHC-8-100"
+  ]
+ },
+ "Dornier 328": {
+  "manufacturer": "Dornier",
+  "family": "Dornier 328 regional commuter family",
+  "role": "regional turboprop",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Saab 340",
+   "Beechcraft 1900",
+   "EMB-120",
+   "DHC-8-100"
+  ],
+  "family_visual_attributes": [
+   "small regional airliner size with a short, compact fuselage",
+   "high-mounted straight wing",
+   "one turboprop engine mounted under each wing",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "pointed nose and relatively sleek, streamlined fuselage for a commuter turboprop",
+   "conventional tricycle landing gear with the main gear under the fuselage/wing root area"
+  ],
+  "distinguishing_visual_attributes": [
+   "sleeker and more elongated nose than the boxier Beechcraft 1900 and Saab 340",
+   "lower passenger window line and generally cleaner, more aerodynamic fuselage shape than the EMB-120",
+   "shorter, more compact fuselage than the Saab 340 and DHC-8-100",
+   "T-tail distinguishes it from the DHC-8-100, which has a conventional low-mounted horizontal stabilizer",
+   "larger, deeper fuselage cross-section and taller fin than the Beechcraft 1900"
+  ]
+ },
+ "DR-400": {
+  "manufacturer": "Robin Aircraft",
+  "family": "Robin DR light aircraft family",
+  "role": "light single-engine piston aircraft",
+  "era": "1970s",
+  "confusable_siblings": [
+   "PA-28",
+   "Cessna 172",
+   "SR-20",
+   "DHC-1"
+  ],
+  "family_visual_attributes": [
+   "small low-wing monoplane layout",
+   "single piston engine in the nose with a two- or three-blade propeller",
+   "fixed tricycle landing gear",
+   "bubble-style cockpit canopy with extensive glazing",
+   "slender light-aircraft fuselage with seating for a few occupants",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizer"
+  ],
+  "distinguishing_visual_attributes": [
+   "distinctive cranked or gull-style wing, with the inner wing section angled differently from the outer panel",
+   "large sliding bubble canopy gives a smoother, more transparent cockpit profile than the cabin-style windows of a PA-28 or Cessna 172",
+   "low-wing configuration distinguishes it from the high-wing Cessna 172",
+   "fixed tricycle gear without retractable fairings, unlike sleeker composite types such as the SR-20",
+   "more modern enclosed canopy and tricycle-gear appearance than the taildragger DHC-1"
+  ]
+ },
+ "E-170": {
+  "manufacturer": "Embraer",
+  "family": "Embraer E-Jet regional jet family",
+  "role": "regional jet airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "E-190",
+   "E-195",
+   "CRJ-700",
+   "CRJ-900"
+  ],
+  "family_visual_attributes": [
+   "Twin underwing turbofan engines mounted close to the fuselage",
+   "Low-mounted swept wings with small blended wingtip fences/winglets",
+   "Conventional tail with a single vertical fin and low-set horizontal stabilizers",
+   "Round-nosed, fairly short-to-medium fuselage with a clean cylindrical cross-section",
+   "Main landing gear retracting into fairings near the wing root/fuselage area rather than into large pods",
+   "Overall proportions are larger and stubbier than CRJ-family regional jets, with a taller cabin cross-section"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than the E-190 and especially the E-195, with fewer cabin windows",
+   "Usually has only a small fuselage stretch ahead of and behind the wing compared with the longer E-190/E-195",
+   "More substantial, taller-looking fuselage cross-section than CRJ-700 and CRJ-900",
+   "Less pointed nose and less elongated slim-body appearance than CRJ-700/CRJ-900",
+   "Appears as the shortest member of the E-Jet trio listed here while keeping the same wing and tail style"
+  ]
+ },
+ "E-190": {
+  "manufacturer": "Embraer",
+  "family": "Embraer E-Jet regional jet family",
+  "role": "regional jet airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "E-170",
+   "E-195",
+   "CRJ-900",
+   "Fokker 100"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines mounted close to the fuselage",
+   "low-mounted swept wings with relatively clean, simple trailing edges",
+   "conventional tail with a swept vertical fin and low-set horizontal stabilizers",
+   "slender narrow-body fuselage sized smaller than mainline single-aisle jets",
+   "short-to-medium landing gear giving the aircraft a relatively low stance on the ground",
+   "rounded nose profile with large cockpit windows typical of modern regional jets"
+  ],
+  "distinguishing_visual_attributes": [
+   "fuselage is visibly longer than the E-170 but shorter than the E-195",
+   "overwing emergency exit arrangement is typically a single small exit per side, unlike the longer E-195 which usually has more exit provision",
+   "main landing gear is not housed in a prominent rear fuselage fairing, helping separate it from the CRJ-900",
+   "nose and cockpit section is more rounded and modern-looking than the sharper, older-style Fokker 100",
+   "tailcone and overall proportions appear balanced mid-length within the E-Jet family, neither as stubby as E-170 nor as stretched as E-195"
+  ]
+ },
+ "EMB-120": {
+  "manufacturer": "Embraer",
+  "family": "Embraer EMB 120 Brasilia regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Beechcraft 1900",
+   "Saab 340",
+   "DHC-8-100",
+   "DHC-8-300"
+  ],
+  "family_visual_attributes": [
+   "twin turboprop engines mounted under low wings",
+   "slender narrow fuselage for regional airline use",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizers",
+   "pointed nose and relatively streamlined cockpit section",
+   "main landing gear retracting into engine nacelle or lower fuselage fairings, leaving a clean low-wing silhouette"
+  ],
+  "distinguishing_visual_attributes": [
+   "more swept, pointed nose than the boxier Beechcraft 1900 and Saab 340",
+   "conventional tail instead of the high T-tail seen on the Beechcraft 1900",
+   "smaller and more slender overall than the DHC-8-100 and DHC-8-300, with a less bulky fuselage",
+   "tail and fuselage proportions appear sleeker and less tall than the Saab 340",
+   "shorter fuselage than the DHC-8-300 while lacking the distinctive taller, heavier-looking Dash 8 family stance"
+  ]
+ },
+ "ERJ 135": {
+  "manufacturer": "Embraer",
+  "family": "Embraer ERJ regional jet family",
+  "role": "regional jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "ERJ 145",
+   "CRJ-200",
+   "ERJ 135",
+   "Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "slender narrow fuselage with a pointed nose",
+   "two turbofan engines mounted on the rear fuselage",
+   "low-mounted swept wings",
+   "T-tail configuration",
+   "small regional-jet size with a relatively long, tube-like cabin",
+   "main landing gear housed in fairings near the fuselage underside"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than ERJ 145, with fewer cabin windows",
+   "noticeably shorter overall length than the stretched Embraer Legacy 600",
+   "longer fuselage than ERJ 135 is not applicable; among listed lookalikes it is the shortest Embraer ERJ-family jet",
+   "less stubby nose-to-fuselage proportion than CRJ-200, with a more conventional pointed nose and straighter-looking fuselage profile"
+  ]
+ },
+ "E-195": {
+  "manufacturer": "Embraer",
+  "family": "Embraer E-Jet narrow-body regional jet family",
+  "role": "regional jet airliner",
+  "era": "2000s",
+  "confusable_siblings": [
+   "E-170",
+   "E-190",
+   "CRJ-900",
+   "Fokker 100"
+  ],
+  "family_visual_attributes": [
+   "twin underwing turbofan engines mounted close to the fuselage",
+   "low-mounted swept wings with small blended winglets or raked-looking wingtip fences depending on angle",
+   "conventional tail with a single vertical fin, not a T-tail",
+   "short-to-medium narrow-body fuselage with a rounded nose and large cockpit windshield",
+   "main landing gear retracting into fairings at the wing root/fuselage area rather than into pods on the fuselage",
+   "overall proportions are cleaner and less pencil-like than CRJ-family regional jets"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the E-190, giving a more stretched appearance with more cabin windows",
+   "clearly longer fuselage than the E-170, while retaining the same basic wing and tail layout",
+   "conventional tail distinguishes it from the similarly sized CRJ-900, which has a T-tail",
+   "larger, more modern nose and engine nacelle shape than the older Fokker 100",
+   "appears as the longest member of the listed E-Jets, with the most elongated cabin section"
+  ]
+ },
+ "ERJ 145": {
+  "manufacturer": "Embraer",
+  "family": "Embraer ERJ regional jet family",
+  "role": "regional jet airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "ERJ 135",
+   "CRJ-200",
+   "CRJ-700",
+   "CRJ-900"
+  ],
+  "family_visual_attributes": [
+   "slender narrow fuselage with a pointed nose and relatively small overall size",
+   "two turbofan engines mounted at the rear fuselage",
+   "T-tail configuration",
+   "low-mounted swept wings",
+   "single-aisle regional jet proportions with a long cabin and small diameter fuselage",
+   "main landing gear mounted under the fuselage center section rather than in large wing pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the ERJ 135, with a visibly more stretched cabin ahead of and behind the wing",
+   "less extremely nose-heavy in profile than the CRJ family, with a shorter and less pointed nose",
+   "smaller overall aircraft than CRJ-700 and CRJ-900, with a shorter fuselage and less span",
+   "typically shows fewer cabin windows and a shorter cabin than the CRJ-700 and CRJ-900, but more than the ERJ 135",
+   "rear-mounted engines appear close to the fuselage sides with a compact, balanced tail section typical of the ERJ 145"
+  ]
+ },
+ "Embraer Legacy 600": {
+  "manufacturer": "Embraer",
+  "family": "Embraer ERJ-135/140/145 regional jet and Legacy business jet family",
+  "role": "business jet",
+  "era": "2000s",
+  "confusable_siblings": [
+   "ERJ 135",
+   "ERJ 145",
+   "Challenger 600",
+   "Global Express"
+  ],
+  "family_visual_attributes": [
+   "twin rear-mounted turbofan engines on both sides of the aft fuselage",
+   "low-mounted swept wings with small winglets on many examples",
+   "T-tail with a tall vertical fin and high-mounted horizontal stabilizer",
+   "long, slender, circular-section fuselage with a pointed nose",
+   "tricycle landing gear with the main gear retracting into fairings near the wing roots/fuselage underside",
+   "small jet proportions compared with mainline airliners, with a narrow cabin and relatively small diameter fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "much longer cabin and fuselage than ERJ 135, with more side windows and a more stretched appearance",
+   "typically has a business-jet style interior window layout and often a smoother, more executive-looking fuselage than ERJ 145 regional airliners",
+   "smaller overall size and slimmer fuselage than Challenger 600 and Global Express",
+   "engine nacelles are mounted close to the rear fuselage like the ERJ family, unlike the bulkier, larger-cabin appearance of Challenger 600",
+   "usually lacks the very large fuselage cross-section and taller, heavier business-jet stance seen on Global Express"
+  ]
+ },
+ "F-16A/B": {
+  "manufacturer": "General Dynamics",
+  "family": "General Dynamics F-16 Fighting Falcon fighter family",
+  "role": "fighter jet",
+  "era": "1970s",
+  "confusable_siblings": [
+   "Eurofighter Typhoon",
+   "F/A-18",
+   "Tornado",
+   "Hawk T1"
+  ],
+  "family_visual_attributes": [
+   "Single-engine fighter with one large circular exhaust at the rear",
+   "Single vertical tail fin",
+   "Low-mounted cropped-delta/trapezoidal wings with pronounced leading-edge root extensions blending into the fuselage",
+   "Single under-fuselage air intake directly below the cockpit nose section",
+   "Bubble canopy over a tandem or single-seat cockpit area with a slender pointed nose",
+   "Horizontal stabilizers mounted low on the rear fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "Unlike the twin-engine F/A-18, it has only one engine exhaust and one centerline intake",
+   "Unlike the Eurofighter Typhoon, it lacks close-coupled canards ahead of the wings",
+   "Unlike the Tornado, its wings are fixed rather than variable-sweep and it has a single tail fin instead of a broader twin-engine strike-fighter layout",
+   "Compared with Hawk T1, it has a more pronounced chin intake and broader wing-root extensions along the forward fuselage"
+  ]
+ },
+ "Eurofighter Typhoon": {
+  "manufacturer": "Eurofighter Jagdflugzeug GmbH consortium",
+  "family": "Eurofighter Typhoon multirole fighter family",
+  "role": "fighter jet",
+  "era": "2000s",
+  "confusable_siblings": [
+   "F-16A/B",
+   "F/A-18",
+   "Tornado",
+   "Hawk T1"
+  ],
+  "family_visual_attributes": [
+   "close-coupled delta wing with no horizontal tailplane at the rear",
+   "small foreplanes/canards mounted ahead of the main wing",
+   "twin-engine layout with two side-by-side exhaust nozzles",
+   "single vertical tail fin",
+   "chin-mounted air intake beneath the cockpit area",
+   "sleek pointed nose and bubble-style fighter canopy"
+  ],
+  "distinguishing_visual_attributes": [
+   "delta wing plus canards combination, unlike the tailless-looking F-16A/B and the conventional-tailed F/A-18 and Hawk T1",
+   "single vertical fin with twin engines, separating it from the twin-fin F/A-18 and Tornado",
+   "engines mounted close together with a single ventral intake under the fuselage, unlike the side-intake F-16A/B and F/A-18",
+   "more compact, highly swept delta planform than the longer variable-sweep-wing Tornado",
+   "larger and more muscular twin-engine fuselage than the smaller single-engine Hawk T1"
+  ]
+ },
+ "F/A-18": {
+  "manufacturer": "McDonnell Douglas / Boeing",
+  "family": "McDonnell Douglas F/A-18 Hornet carrier-capable fighter family",
+  "role": "fighter jet",
+  "era": "1980s",
+  "confusable_siblings": [
+   "F-16A/B",
+   "Eurofighter Typhoon",
+   "Tornado",
+   "Hawk T1"
+  ],
+  "family_visual_attributes": [
+   "twin-engine fighter with two side-by-side engine exhausts at the rear",
+   "mid-mounted trapezoidal wings with pronounced leading-edge root extensions blending into the fuselage",
+   "two outward-canted vertical tail fins",
+   "large bubble canopy over a pointed nose",
+   "widely spaced air intakes mounted on the fuselage sides beneath the cockpit",
+   "carrier-capable stance with robust landing gear and often visible wingtip missile rails"
+  ],
+  "distinguishing_visual_attributes": [
+   "two vertical tails and twin exhausts, unlike the single-tail single-engine F-16A/B",
+   "rectangular to trapezoidal side intakes under the wing roots, unlike the chin intake of the F-16A/B",
+   "wings are less delta-like than Eurofighter Typhoon and lack canards ahead of the wings",
+   "more compact fuselage and no variable-sweep wing pivot area compared with Tornado",
+   "twin-tail configuration and broader, more angular wing planform compared with the single-tail Hawk T1"
+  ]
+ },
+ "Fokker 100": {
+  "manufacturer": "Fokker",
+  "family": "Fokker F28/Fokker 70/100 regional jet family",
+  "role": "regional jet airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Fokker 70",
+   "DC-9-30",
+   "MD-87",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "rear-mounted twin turbofan engines on both sides of the aft fuselage",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "low-mounted swept wings with clean undersides and no engines under the wings",
+   "slender narrow-body fuselage with a pointed nose",
+   "main landing gear mounted under the wing roots/fuselage area rather than in engine pods",
+   "airliner-style cabin window rows and conventional single vertical tail"
+  ],
+  "distinguishing_visual_attributes": [
+   "longer fuselage than the Fokker 70, giving a more stretched look with more cabin windows",
+   "taller, more modern-looking fin and tail proportions than the older DC-9-30",
+   "typically lacks the pronounced tailcone and other aft-fuselage details seen on the MD-87",
+   "usually appears slightly longer and less squat than the Boeing 717, with a more pointed nose profile",
+   "wing-to-fuselage proportions give it a balanced medium-length regional jet look, unlike the shorter-stubbier Fokker 70"
+  ]
+ },
+ "Falcon 2000": {
+  "manufacturer": "Dassault Aviation",
+  "family": "Dassault Falcon tri-jet business jet family",
+  "role": "business jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Falcon 900",
+   "Embraer Legacy 600",
+   "Challenger 600",
+   "Global Express"
+  ],
+  "family_visual_attributes": [
+   "Three-engine business jet layout with two engines mounted on the rear fuselage sides and a third engine fed by a central S-duct at the base of the vertical tail",
+   "Low-mounted swept wings",
+   "T-tail empennage",
+   "Long, slim business-jet fuselage with a pointed nose",
+   "Retractable tricycle landing gear",
+   "Small, oval-cabin-window business jet appearance rather than large airliner-style windows"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter overall fuselage than Falcon 900 and Embraer Legacy 600",
+   "Usually shows fewer cabin windows along the fuselage side than Falcon 900 or Legacy 600",
+   "More compact proportions and shorter tail-to-wing distance than the longer Falcon 900 and Legacy 600",
+   "Has the Falcon family tri-jet/T-tail layout, unlike twin-engine Challenger 600 and Global Express",
+   "Typically has a cleaner, more compact rear-fuselage and center-intake area than the longer Falcon 900"
+  ]
+ },
+ "Fokker 50": {
+  "manufacturer": "Fokker",
+  "family": "Fokker F27/F50 regional turboprop family",
+  "role": "regional turboprop airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Saab 340",
+   "Saab 2000",
+   "EMB-120",
+   "DHC-8-300"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two turboprop engines mounted under the wings",
+   "conventional tail with a low-mounted horizontal stabilizer",
+   "slender cylindrical fuselage sized for regional airline service",
+   "main landing gear in fuselage-side fairings/sponsons rather than large wing pods",
+   "circular passenger windows in a long single row"
+  ],
+  "distinguishing_visual_attributes": [
+   "more rounded nose and cockpit profile than the sharper-nosed Saab 340 and EMB-120",
+   "circular cabin windows, unlike the squarer windows commonly seen on DHC-8 variants",
+   "conventional tail, unlike the T-tail of the Saab 340, Saab 2000, and EMB-120",
+   "shorter and stubbier overall appearance than the longer, more slender Saab 2000",
+   "fuselage-side landing gear fairings are prominent and help separate it from the cleaner-sided EMB-120"
+  ]
+ },
+ "Falcon 900": {
+  "manufacturer": "Dassault Aviation",
+  "family": "Dassault Falcon tri-jet business jet family",
+  "role": "business jet",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Falcon 2000",
+   "Falcon 900",
+   "Challenger 600",
+   "Embraer Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "Low-wing executive jet with a slender, streamlined fuselage",
+   "Three rear-mounted turbofan engines, with one engine fed by a central S-duct at the tail base",
+   "Swept wings with small wingtip fences or winglets on later examples",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Relatively short, pointed nose and compact business-jet proportions",
+   "Main landing gear mounted under the wing roots/fuselage area with a clean, low-slung stance"
+  ],
+  "distinguishing_visual_attributes": [
+   "Tri-jet layout distinguishes it from the twin-engine Falcon 2000, Challenger 600, and Embraer Legacy 600",
+   "More compact fuselage than the longer Embraer Legacy 600, with a shorter cabin window run",
+   "Cleaner, more rounded Dassault nose profile than the blunter Challenger 600",
+   "Typically has smaller overall size and shorter fuselage than large-cabin twinjets like Challenger 600 and Embraer Legacy 600"
+  ]
+ },
+ "Fokker 70": {
+  "manufacturer": "Fokker",
+  "family": "Fokker 70/100 rear-engined narrow-body airliner family",
+  "role": "narrow-body regional airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Fokker 100",
+   "CRJ-900",
+   "E-170",
+   "ERJ 145"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted at the rear fuselage",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings with clean undersides and no underwing engines",
+   "Slim narrow-body fuselage with a conventional pointed nose",
+   "Single vertical tail and overall short-to-medium haul airliner proportions",
+   "Main landing gear housed in fuselage-side fairings near the wing root area"
+  ],
+  "distinguishing_visual_attributes": [
+   "Noticeably shorter fuselage than the Fokker 100 while keeping the same basic nose, wing, and tail shape",
+   "Longer and bulkier fuselage than an ERJ 145, with a less pencil-thin appearance",
+   "Less rounded, less modern-looking nose and cockpit window shape than the E-170",
+   "Main landing gear mounted in prominent fuselage pods/sponsons, unlike the CRJ-900’s cleaner fuselage underside",
+   "Typically has more compact proportions than the CRJ-900, with a shorter cabin ahead of and behind the wing"
+  ]
+ },
+ "Global Express": {
+  "manufacturer": "Bombardier",
+  "family": "Bombardier Global business jet family",
+  "role": "business jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Gulfstream V",
+   "Gulfstream IV",
+   "Falcon 900",
+   "Challenger 600"
+  ],
+  "family_visual_attributes": [
+   "Large long-range business jet with a long, slender fuselage and low-mounted swept wings",
+   "Two turbofan engines mounted on the rear fuselage, one on each side",
+   "T-tail configuration with a high-mounted horizontal stabilizer",
+   "Pointed, streamlined nose with a relatively smooth cockpit profile",
+   "Tall swept vertical tail and overall clean, sleek executive-jet proportions",
+   "Main cabin windows arranged in a long, evenly spaced row along the fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer and more slender fuselage than Challenger 600, with a more stretched overall appearance",
+   "Only two rear-mounted engines, unlike Falcon 900 which has three engines",
+   "Less oval, less bulky fuselage cross-section appearance than Challenger 600 when viewed head-on or three-quarter front",
+   "Typically shows a very long cabin window line and a proportionally longer nose-to-tail silhouette than Gulfstream IV",
+   "Wing and fuselage combination gives a notably long-range, high-aspect sleek profile compared with the slightly shorter-looking Gulfstream IV"
+  ]
+ },
+ "Gulfstream V": {
+  "manufacturer": "Gulfstream Aerospace",
+  "family": "Gulfstream V/550 large-cabin business jet family",
+  "role": "business jet",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Global Express",
+   "Challenger 600",
+   "Falcon 900",
+   "Embraer Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "Low-wing business jet with a long, slender fuselage and swept wings",
+   "Two turbofan engines mounted on the rear fuselage, one on each side",
+   "T-tail configuration with the horizontal stabilizer mounted high on the fin",
+   "Large oval cabin windows arranged in a long row along the fuselage",
+   "Pointed nose and comparatively tall vertical tail typical of large intercontinental business jets"
+  ],
+  "distinguishing_visual_attributes": [
+   "Has two rear-mounted engines, unlike the three-engined Falcon 900",
+   "Typically shows a longer, slimmer fuselage and more refined pointed nose than the bulkier Challenger 600 and Legacy 600",
+   "Usually has a taller fin and cleaner, less bulky rear fuselage than Challenger 600-family aircraft",
+   "Wing planform appears less cranked and less broad-chord than on the Global Express, giving a sleeker overall side profile"
+  ]
+ },
+ "Gulfstream IV": {
+  "manufacturer": "Gulfstream Aerospace",
+  "family": "Gulfstream IV/IV-SP large-cabin business jet family",
+  "role": "business jet",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Gulfstream V",
+   "Global Express",
+   "Challenger 600",
+   "Embraer Legacy 600"
+  ],
+  "family_visual_attributes": [
+   "Low-wing business jet with two turbofan engines mounted on the rear fuselage",
+   "Swept wings with a clean, streamlined large-cabin executive jet profile",
+   "T-tail configuration",
+   "Long, pointed nose and relatively long fuselage compared with midsize business jets",
+   "Circular to oval cabin windows in a straight row along the fuselage",
+   "Retractable tricycle landing gear with main gear housed in the fuselage/wing root area"
+  ],
+  "distinguishing_visual_attributes": [
+   "Smaller and shorter overall than the Global Express and Gulfstream V, with a less massive fuselage and tail",
+   "Earlier Gulfstream nose/cockpit profile and generally less stretched appearance than Gulfstream V",
+   "Lacks the winglets seen on many Gulfstream V aircraft; wing tips are typically simple/raked rather than strongly blended winglets",
+   "More slender and lower-slung fuselage appearance than the bulkier Challenger 600",
+   "Usually shows the classic Gulfstream family look with a long cabin and T-tail, but without the larger proportions and longer wings of the newest long-range types"
+  ]
+ },
+ "Il-76": {
+  "manufacturer": "Ilyushin",
+  "family": "Ilyushin Il-76 four-engine military transport family",
+  "role": "military cargo transport",
+  "era": "1970s",
+  "confusable_siblings": [
+   "C-130",
+   "An-12",
+   "DC-8",
+   "707-320"
+  ],
+  "family_visual_attributes": [
+   "high-mounted swept wing",
+   "four large turbofan engines mounted under the wings",
+   "T-tail configuration",
+   "bulky cylindrical fuselage with a raised cockpit/nose profile",
+   "tall multi-wheel main landing gear in fuselage side fairings",
+   "rear cargo ramp/door at the tail"
+  ],
+  "distinguishing_visual_attributes": [
+   "larger jet transport appearance than the turboprop C-130 and An-12, with four underwing jet nacelles instead of propellers",
+   "high wing and T-tail, unlike the low-wing 707-320 and DC-8",
+   "very prominent rear loading ramp and cargo-tail structure, unlike passenger-derived 707-320 and DC-8",
+   "main landing gear carried in long side pods/sponsons along the lower fuselage",
+   "cockpit sits noticeably above the nose line, giving a humped forward fuselage profile"
+  ]
+ },
+ "Hawk T1": {
+  "manufacturer": "British Aerospace",
+  "family": "BAE Systems Hawk advanced jet trainer family",
+  "role": "military jet trainer / light attack jet",
+  "era": "1970s",
+  "confusable_siblings": [
+   "F-16A/B",
+   "Alpha Jet",
+   "Eurofighter Typhoon",
+   "Tornado"
+  ],
+  "family_visual_attributes": [
+   "small tandem-seat jet with a long clear bubble canopy",
+   "single engine with side-mounted semicircular air intakes at the wing roots",
+   "low-mounted moderately swept wings with a clean simple planform",
+   "conventional tail with a single vertical fin and all-moving horizontal stabilizers",
+   "slender pointed nose and compact overall proportions compared with frontline fighters",
+   "fixed wingtip shape without large tip tanks on the T1 silhouette"
+  ],
+  "distinguishing_visual_attributes": [
+   "much smaller and simpler airframe than Tornado or Eurofighter Typhoon, with no twin-engine fuselage bulk",
+   "lacks the chin intake of F-16A/B; instead it has paired side intakes beside the cockpit",
+   "has a conventional tail and swept wing, unlike the delta-canard layout of Eurofighter Typhoon",
+   "typically shows a long tandem canopy over a slim fuselage without the broad blended fuselage of modern fighters",
+   "no variable-sweep wing pivots or widely spaced engine nacelles as seen on Tornado"
+  ]
+ },
+ "MD-11": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas DC-10/MD-11 trijet wide-body airliner family",
+  "role": "wide-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "DC-10",
+   "L-1011",
+   "Il-76",
+   "777-200"
+  ],
+  "family_visual_attributes": [
+   "three-engine wide-body layout with two underwing engines and one engine mounted at the base of the vertical tail",
+   "long fuselage with a wide-body cross-section",
+   "low-mounted swept wings",
+   "conventional tail with a tall vertical fin feeding the tail-mounted center engine",
+   "large main landing gear assemblies under the fuselage/wing root area",
+   "overall heavy long-haul airliner proportions larger than narrow-body jets"
+  ],
+  "distinguishing_visual_attributes": [
+   "upturned winglets at the wingtips, unlike the earlier DC-10",
+   "noticeably taller, more pointed vertical tail than the DC-10",
+   "tail-mounted center engine intake appears more blended and refined into the fin than on the DC-10",
+   "horizontal stabilizer has small downward-pointing endplate fins at the tips",
+   "more slender, stretched appearance than the shorter and bulkier-looking L-1011"
+  ]
+ },
+ "L-1011": {
+  "manufacturer": "Lockheed",
+  "family": "Lockheed L-1011 TriStar wide-body airliner family",
+  "role": "wide-body tri-jet airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "DC-10",
+   "MD-11",
+   "Il-76"
+  ],
+  "family_visual_attributes": [
+   "Three-engine wide-body layout with one engine under each wing and a third engine integrated into the base of the vertical tail",
+   "S-duct style tail engine intake feeding the center engine through the fin root",
+   "Low-mounted swept wings on a large long-fuselage airliner",
+   "Conventional tail with a tall swept vertical fin and low horizontal stabilizer",
+   "Wide cylindrical fuselage with two aisles and multiple large passenger doors",
+   "Main landing gear arranged in multiple bogies under the fuselage and wings"
+  ],
+  "distinguishing_visual_attributes": [
+   "Tail-mounted center engine uses a smooth circular intake blended into the fin root rather than the more exposed straight-through intake look of the DC-10/MD-11",
+   "Usually has a shorter, less stretched appearance than the MD-11, with a proportionally larger fin relative to fuselage length",
+   "Wingtip fences or winglets are absent, unlike many MD-11s which commonly show prominent winglets",
+   "Passenger-window airliner fuselage and underwing engines differ from the high-wing, boxier military transport look of the Il-76"
+  ]
+ },
+ "MD-80": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas DC-9/MD-80 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "MD-87",
+   "MD-90",
+   "DC-9-30",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted at the rear fuselage, one on each side",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings with a conventional narrow-body twinjet layout",
+   "Long, slender fuselage with a pointed nose and relatively small cockpit window area",
+   "Engines have no underwing nacelles, leaving the wings visually clean",
+   "Main landing gear mounted in fuselage-side fairings rather than large wing-root pods"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than the DC-9-30 and Boeing 717, but not as short and stubby as the MD-87",
+   "Engine nacelles are the earlier DC-9/MD-80 style with a slimmer appearance than the larger, rounder MD-90 engines",
+   "Usually has the classic MD-80 family proportions: long cabin with rear-mounted engines and a relatively modest wingspan compared with fuselage length",
+   "Less extreme fuselage stretch than MD-90, giving a slightly more balanced nose-to-tail proportion",
+   "Compared with Boeing 717, the tailcone and rear fuselage look more like the classic DC-9 lineage and the engines appear less bulky"
+  ]
+ },
+ "MD-87": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas MD-80/MD-90 rear-engined narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "MD-80",
+   "MD-90",
+   "DC-9-30",
+   "Boeing 717"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted at the rear fuselage, one on each side",
+   "T-tail with a high-mounted horizontal stabilizer atop the vertical fin",
+   "Low-mounted swept wings with a conventional narrow-body twinjet layout",
+   "Long, slim fuselage with a pointed nose and relatively small cockpit windshield area",
+   "No wing-mounted engines, giving the wings a clean underslung appearance",
+   "Single vertical tail and overall classic rear-engined short-to-medium-haul jet proportions"
+  ],
+  "distinguishing_visual_attributes": [
+   "Shorter fuselage than the baseline MD-80 and much shorter than the MD-90, giving a more compact look",
+   "Retains the classic MD-80 family proportions and tail/engine shape but in a visibly shortened body",
+   "Compared with DC-9-30, usually shows the later MD-80-style longer tailcone and updated-looking fuselage proportions",
+   "Compared with Boeing 717, has the older MD-80/DC-9-style engine nacelles and overall fuselage shape rather than the 717's more modern rear fuselage and tail details"
+  ]
+ },
+ "MD-90": {
+  "manufacturer": "McDonnell Douglas",
+  "family": "McDonnell Douglas MD-80/MD-90 narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1990s",
+  "confusable_siblings": [
+   "MD-80",
+   "MD-87",
+   "Boeing 717",
+   "DC-9-30"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted on either side of the rear fuselage",
+   "Conventional low-mounted swept wings with no underwing engines",
+   "T-tail with the horizontal stabilizer mounted high on the vertical fin",
+   "Long, slim single-aisle fuselage with a pointed nose",
+   "Main landing gear mounted under the fuselage center section rather than in wing pods",
+   "Clean rear fuselage with engines tight to the body and a narrow tailcone"
+  ],
+  "distinguishing_visual_attributes": [
+   "Longer fuselage than MD-87 and DC-9-30, giving a more stretched appearance",
+   "Larger-diameter rear engines than MD-80 and DC-9-30, with a visibly bigger nacelle and intake",
+   "More slender, pointed engine nacelles than the smaller, stubbier rear engines on MD-80-family aircraft",
+   "Notably longer fuselage than Boeing 717, whose body is shorter and more compact",
+   "Retains the classic MD-80 family T-tail and rear-engine layout but with a more modern, larger-engine look"
+  ]
+ },
+ "Metroliner": {
+  "manufacturer": "Fairchild Swearingen",
+  "family": "Fairchild Swearingen Metroliner / Merlin regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1970s",
+  "confusable_siblings": [
+   "Beechcraft 1900",
+   "Saab 340",
+   "EMB-120",
+   "Dornier 328"
+  ],
+  "family_visual_attributes": [
+   "small twin-turboprop aircraft with one engine mounted on each wing",
+   "very long, slim cylindrical fuselage relative to its height and width",
+   "low-mounted straight to mildly tapered wings",
+   "conventional tail with a single vertical fin and low horizontal stabilizers",
+   "pointed nose and narrow cross-section, giving a tube-like appearance",
+   "small commuter-airliner size with short landing gear and compact overall proportions"
+  ],
+  "distinguishing_visual_attributes": [
+   "notably slimmer and more pencil-like fuselage than the Beechcraft 1900, Saab 340, or EMB-120",
+   "smaller, lower tail surfaces than the taller, broader tail of the Saab 340 and EMB-120",
+   "lacks the T-tail seen on the Dornier 328",
+   "typically has a more pointed nose and a less deep fuselage than the Beechcraft 1900",
+   "appears lower-slung and more elongated than the stubbier EMB-120"
+  ]
+ },
+ "PA-28": {
+  "manufacturer": "Piper",
+  "family": "Piper PA-28 Cherokee single-engine light aircraft family",
+  "role": "single-engine light piston aircraft",
+  "era": "1960s",
+  "confusable_siblings": [
+   "Cessna 172",
+   "SR-20",
+   "DR-400",
+   "Cessna 208"
+  ],
+  "family_visual_attributes": [
+   "low-wing light aircraft configuration",
+   "single piston engine in the nose with a two- or three-blade propeller",
+   "fixed tricycle landing gear on most common examples",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "rectangular to slightly tapered wings with blunt tips",
+   "small 2- to 4-seat general aviation size with cabin windows along the fuselage sides"
+  ],
+  "distinguishing_visual_attributes": [
+   "lower wing placement than the high-wing Cessna 172 and Cessna 208",
+   "fixed tricycle gear with a simple light-aircraft stance, unlike the sleeker retractable-gear appearance often seen on SR-20 examples",
+   "more angular, boxier cabin and fuselage than the rounder, more sculpted SR-20",
+   "tail and fuselage are less bulbous and less canopy-like than the SR-20, with more traditional side-window proportions",
+   "smaller and less elongated fuselage than the Cessna 208, with only a small passenger cabin rather than a utility-type cabin"
+  ]
+ },
+ "Model B200": {
+  "manufacturer": "Beechcraft",
+  "family": "Beechcraft Super King Air twin-turboprop utility and business aircraft family",
+  "role": "twin-turboprop utility aircraft",
+  "era": "1970s",
+  "confusable_siblings": [
+   "Beechcraft 1900",
+   "Metroliner",
+   "EMB-120",
+   "DHC-8-100"
+  ],
+  "family_visual_attributes": [
+   "low-wing twin-turboprop layout with one nacelle-mounted propeller on each wing",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "slender pressurized fuselage with a relatively pointed nose",
+   "small to medium commuter-sized proportions, noticeably smaller than regional airliners",
+   "retractable tricycle landing gear with the main gear housed in the engine nacelles or wing roots",
+   "rows of rectangular cabin windows along the fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "much shorter fuselage than the Beechcraft 1900, with fewer passenger windows and no long commuter-airliner cabin look",
+   "does not have the very tall stand-up fuselage of the Beechcraft 1900; overall cabin cross-section appears lower and more compact",
+   "smaller and shorter overall than the EMB-120 and DHC-8-100, with a business-aircraft-like proportion rather than an airliner fuselage",
+   "lacks the long, tube-like fuselage and T-tail seen on the Metroliner; the Model B200 uses a conventional tail",
+   "typically shows a compact executive/utility layout with a short nose-to-tail length relative to its wing and engine size"
+  ]
+ },
+ "SR-20": {
+  "manufacturer": "Cirrus Aircraft",
+  "family": "Cirrus SR family single-engine light aircraft",
+  "role": "single-engine light aircraft",
+  "era": "1990s",
+  "confusable_siblings": [
+   "PA-28",
+   "Cessna 172",
+   "DR-400",
+   "Cessna 208"
+  ],
+  "family_visual_attributes": [
+   "Low-wing monoplane layout",
+   "Single piston engine in the nose with a tractor propeller",
+   "Fixed tricycle landing gear with streamlined wheel fairings on many examples",
+   "Smooth composite fuselage with rounded nose and cabin contours",
+   "Conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "Wide cabin greenhouse with large side windows and a sloping windshield"
+  ],
+  "distinguishing_visual_attributes": [
+   "More modern, rounded composite fuselage and cabin shape than the boxier PA-28 or Cessna 172",
+   "Low wing, which separates it from the high-wing Cessna 172 and Cessna 208",
+   "Usually has a taller, more curved vertical tail and more swept, cleaner-looking fin than the PA-28",
+   "Tricycle gear stance with wheel fairings and a sleek, streamlined profile unlike the more angular DR-400",
+   "Smaller personal-aircraft proportions and shorter fuselage than the much larger Cessna 208"
+  ]
+ },
+ "Saab 2000": {
+  "manufacturer": "Saab",
+  "family": "Saab 2000 regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1990s",
+  "confusable_siblings": [
+   "Saab 340",
+   "ATR-42",
+   "ATR-72",
+   "DHC-8-300"
+  ],
+  "family_visual_attributes": [
+   "low-mounted straight wing with one turboprop engine under each wing",
+   "long, slim cylindrical fuselage for a regional airliner",
+   "conventional tail with a tall vertical fin and low-mounted horizontal stabilizers",
+   "tricycle landing gear and unpowered propellers with multiple blades",
+   "row of small rectangular passenger windows along the fuselage",
+   "overall proportions that are sleeker and more elongated than many boxier commuter turboprops"
+  ],
+  "distinguishing_visual_attributes": [
+   "noticeably longer fuselage than the Saab 340 while keeping a similar overall Saab nose and tail shape",
+   "more pointed, streamlined nose than the blunter ATR-42 and ATR-72",
+   "lower-set horizontal stabilizers on the fin, unlike the T-tail of the DHC-8-300",
+   "slimmer fuselage and more elegant proportions than the chunkier ATR family",
+   "typically appears as a long, fast-looking twin turboprop with a very tall fin relative to fuselage height"
+  ]
+ },
+ "Saab 340": {
+  "manufacturer": "Saab",
+  "family": "Saab 340 regional turboprop family",
+  "role": "regional turboprop",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Saab 2000",
+   "DHC-8-100",
+   "DHC-8-300",
+   "ATR-42"
+  ],
+  "family_visual_attributes": [
+   "high-mounted straight wing",
+   "two turboprop engines mounted under the wings",
+   "slim cylindrical fuselage for regional airline use",
+   "conventional tail with a single vertical fin and low-mounted horizontal stabilizer",
+   "tricycle landing gear",
+   "small to medium commuter-aircraft size with a relatively short fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "shorter fuselage than the Saab 2000, giving a more compact overall look",
+   "four-blade propellers, unlike the six-blade propellers commonly seen on the Saab 2000",
+   "tailplane mounted low on the fin rather than a T-tail, separating it from the ATR-42 and DHC-8 family",
+   "more rounded nose and smoother fuselage profile than the boxier DHC-8-100 and DHC-8-300",
+   "smaller overall aircraft with a shorter cabin than the DHC-8-300"
+  ]
+ },
+ "Spitfire": {
+  "manufacturer": "Supermarine",
+  "family": "Supermarine Spitfire single-engine fighter family",
+  "role": "single-engine piston fighter",
+  "era": "1930s",
+  "confusable_siblings": [
+   "DH-82",
+   "DHC-1",
+   "Hawk T1",
+   "Eurofighter Typhoon"
+  ],
+  "family_visual_attributes": [
+   "single nose-mounted piston engine with a propeller spinner",
+   "low-mounted wings with distinctive broad elliptical planform and rounded tips on many examples",
+   "slim streamlined fuselage with a long nose and bubble or framed fighter canopy",
+   "conventional tail arrangement with one vertical fin and low horizontal stabilizers",
+   "taildragger landing gear layout with main wheels retracting outward from the wings",
+   "WWII-era fighter proportions with no jet intakes and no underwing engines"
+  ],
+  "distinguishing_visual_attributes": [
+   "elliptical wings are much broader and more rounded than the straight narrow wings of the DH-82 and DHC-1",
+   "single-seat fighter canopy and sleek fuselage, unlike the tandem open-cockpit biplane layout of the DH-82",
+   "propeller-driven nose with no air intakes or jet exhaust layout, unlike the Hawk T1 and Eurofighter Typhoon",
+   "smaller WWII piston-fighter size and classic taildragger stance, unlike the modern tricycle-gear jet fighters",
+   "wing shape is smoothly elliptical rather than the delta wing of the Eurofighter Typhoon"
+  ]
+ },
+ "Tu-134": {
+  "manufacturer": "Tupolev",
+  "family": "Tupolev Tu-134 twin-engine narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1960s",
+  "confusable_siblings": [
+   "Yak-42",
+   "DC-9-30",
+   "MD-80",
+   "727-200"
+  ],
+  "family_visual_attributes": [
+   "Two turbofan engines mounted on the rear fuselage",
+   "T-tail with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings",
+   "Slim, relatively short narrow-body fuselage",
+   "Pointed glazed nose profile on many aircraft in the family, giving a distinct bomber-like cockpit/nose appearance",
+   "Clean rear fuselage without underwing engines"
+  ],
+  "distinguishing_visual_attributes": [
+   "Only two rear-mounted engines, unlike the three-engine Yak-42 and 727-200",
+   "Distinctive extensively glazed nose section visible from the side, unlike the more conventional noses of DC-9-30 and MD-80",
+   "Shorter, more compact fuselage than the stretched MD-80",
+   "Smaller overall proportions and more old-generation appearance than the larger 727-200",
+   "Main landing gear housed in prominent fairings/pods near the wing root area"
+  ]
+ },
+ "Tornado": {
+  "manufacturer": "Panavia",
+  "family": "Panavia Tornado multirole combat aircraft family",
+  "role": "fighter jet",
+  "era": "1970s",
+  "confusable_siblings": [
+   "Eurofighter Typhoon",
+   "F-16A/B",
+   "F/A-18",
+   "Hawk T1"
+  ],
+  "family_visual_attributes": [
+   "variable-sweep wings that can appear fully spread or swept back depending on the photo",
+   "twin-engine layout with two side-by-side exhausts at the rear fuselage",
+   "shoulder-mounted wing position blending into a long, slender fuselage",
+   "single vertical tail fin",
+   "two-seat canopy common in many views, with a long cockpit section",
+   "low-mounted horizontal tailplanes on the rear fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "swing-wing configuration, unlike the fixed wings of the confusable siblings",
+   "boxy side-mounted engine intakes just behind the cockpit on both sides of the fuselage",
+   "long pointed nose and relatively deep fuselage compared with the lighter-looking Hawk T1 and F-16A/B",
+   "single fin with twin exhausts, unlike the twin-tail F/A-18",
+   "less tailless/delta-like in planform than the Eurofighter Typhoon, especially when wings are unswept"
+  ]
+ },
+ "Tu-154": {
+  "manufacturer": "Tupolev",
+  "family": "Tupolev Tu-154 trijet narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1970s",
+  "confusable_siblings": [
+   "727-200",
+   "Yak-42",
+   "DC-9-30",
+   "MD-80"
+  ],
+  "family_visual_attributes": [
+   "Three rear-mounted turbofan engines, with one engine fed through an intake at the base of the vertical tail",
+   "T-tail empennage with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings",
+   "Long, slim narrow-body fuselage sized for short-to-medium haul airline use",
+   "Main landing gear housed in prominent fairings near the wing roots and lower rear fuselage area",
+   "Conventional non-widebody cross-section with multiple cabin windows in a straight row"
+  ],
+  "distinguishing_visual_attributes": [
+   "Compared with the 727-200, the Tu-154 typically has bulkier main landing gear fairings and a generally more robust, heavier-looking stance",
+   "Compared with the Yak-42, the Tu-154 has noticeably more swept wings and a longer, more airliner-like fuselage",
+   "Unlike the twin-engined DC-9-30 and MD-80, the Tu-154 has a third engine integrated into the tail with an S-duct intake",
+   "The Tu-154 usually shows a taller fin and larger T-tail proportions than the Yak-42",
+   "The wing root and landing gear area appear more substantial and complex than on the 727-200"
+  ]
+ },
+ "Yak-42": {
+  "manufacturer": "Yakovlev",
+  "family": "Yakovlev Yak-42 trijet narrow-body airliner family",
+  "role": "narrow-body airliner",
+  "era": "1980s",
+  "confusable_siblings": [
+   "Tu-134",
+   "727-200",
+   "DC-9-30",
+   "MD-80"
+  ],
+  "family_visual_attributes": [
+   "Three-engine jet layout with two engines mounted on the rear fuselage and a third engine fed by a dorsal intake at the base of the vertical tail",
+   "T-tail empennage with the horizontal stabilizer mounted high on the fin",
+   "Low-mounted swept wings",
+   "Slim, medium-length narrow-body fuselage with a pointed nose",
+   "Main landing gear mounted under the wing roots/fuselage area rather than on long stalks from the rear fuselage"
+  ],
+  "distinguishing_visual_attributes": [
+   "Compared with the Tu-134, the Yak-42 is larger and has a longer fuselage with a more substantial wing and a less glazed, more modern-looking nose",
+   "Compared with the 727-200, the Yak-42 has only two main landing gear legs instead of the 727's multi-bogie gear arrangement and lacks the 727's more pronounced center-engine S-duct intake shape",
+   "Compared with the DC-9-30 and MD-80, the Yak-42 has a third engine with a dorsal tail-root intake, while the DC-9/MD-80 family has only two rear-mounted engines",
+   "The Yak-42 typically shows a relatively clean wing without prominent wingtip devices and a compact trijet proportions that are shorter and stubbier than a 727-200",
+   "Its rear fuselage and tail intake combination gives a broader, more blended tail-root appearance than the slimmer rear fuselage lines of the Tu-134"
+  ]
+ }
+}
