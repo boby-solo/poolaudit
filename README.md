@@ -84,3 +84,7 @@ Let `P_c` be the sentence pool of class `c`, `phi(d)` its frozen text feature, a
 - `k1` uses test labels by construction. It must not be read as an accuracy that can be deployed.
 - `vendor/clip/` is derived from OpenAI CLIP and is distributed under the MIT license; retain its copyright notice when redistributing.
 
+## License
+
+Released under the MIT license; see `LICENSE`. Copyright (c) 2026 Hengzhao Lv and Sen Che. Third-party code in `vendor/clip/` retains its original license and copyright notice.
+
